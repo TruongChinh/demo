@@ -1,0 +1,9 @@
+GET /ung-xu-linh-hoat-de-hoc-sinh-khong-phai-dung-nang-4103580.html HTTP/1.1
+Host: vnexpress.net
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.0
+Range: bytes=0-399999
+Referer: https://vnexpress.net/
+Cookie: device_env=4; device_env_real=4
+

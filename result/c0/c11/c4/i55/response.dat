@@ -1,0 +1,473 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 11177whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: MISS
+xdCache: MISS
+Server: 16477whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Ý kiến - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:48:35 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/y-kien.rss</link>
+    <item>
+      <title>'Người sống thử khác gì đã qua một đời vợ chồng'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/photo115312840758671545972291-2279-5261-1590728261.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ghcMMXhmEnKX0SjBbkSJJg" ></a></br>Sống thử là cùng ăn, cùng ở, cùng sinh hoạt... như vợ chồng, chỉ khác việc lập gia đình ở một tờ giấy hôn thú.]]></description>
+      <pubDate>Fri, 29 May 2020 17:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html</link>
+      <guid>https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Từ chuyện cây đổ nghĩ về những sân trường bị bê tông hóa</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/text108000000906still013159045-3986-9775-1590724101.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=TsvyLgKEDA55uAJsv7wWTQ" ></a></br>Tại sao các cây phượng bên đường làng không bị bê tông xâm chiếm, không bị bật gốc như những cây trồng trong sân trường?]]></description>
+      <pubDate>Fri, 29 May 2020 15:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html</link>
+      <guid>https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người bán dùng dây buộc to, đẫm nước 'để cua tươi lâu'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/190514439631495725561-15907209-1360-2076-1590721067.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Q4NDdcbbic8-NL5Nww73fQ" ></a></br>'Dây ngoài yếu tố buộc cua, còn có tác dụng giữ ẩm, giúp cua không bị chết khi các khớp chân và càng khô' - người bán cua giải thích.]]></description>
+      <pubDate>Fri, 29 May 2020 10:21:47 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html</link>
+      <guid>https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Kết hôn sớm mất cơ hội báo hiếu cha mẹ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/unnamed-1590718224-1590718263-2819-1590718266.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QuoOEHHx3g1faoKPEuGDig" ></a></br>Tôi 27 tuổi, công việc ổn nhưng quyết định độc thân thêm ba, bốn năm nữa để giúp ba mẹ trả nợ, sửa nhà và nuôi các em.]]></description>
+      <pubDate>Fri, 29 May 2020 09:24:16 +0700</pubDate>
+      <link>https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html</link>
+      <guid>https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn vay 50 triệu đồng, đòi trả góp 4 triệu mỗi tháng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/muontien-1590666475-1590666505-9501-1590666511.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=7LDHdO941K_-K2-936nHYw" ></a></br>Cậu bạn đồng nghiệp hỏi vay tôi 50 triệu đồng để trả nợ cá độ bóng đá, tôi đồng ý mà không cần thế chấp.]]></description>
+      <pubDate>Fri, 29 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html</link>
+      <guid>https://vnexpress.net/ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Thầy cô so sánh, chê bai học sinh yếu</title>
+      <description><![CDATA[<a href="https://vnexpress.net/thay-co-so-sanh-che-bai-hoc-sinh-yeu-4106972.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/thicuyxhi-1590711431-159071145-8274-7561-1590711463.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=FQnbRtXGmZRBcxvdnPQqiA" ></a></br>Trong lớp, nhiều thầy cô có thói quen lấy những bạn học giỏi ra để làm gương, so sánh với những học sinh yếu hơn.]]></description>
+      <pubDate>Fri, 29 May 2020 14:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/thay-co-so-sanh-che-bai-hoc-sinh-yeu-4106972.html</link>
+      <guid>https://vnexpress.net/thay-co-so-sanh-che-bai-hoc-sinh-yeu-4106972.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vốn 20 triệu, kinh doanh gì để tăng thu nhập sau Covid-19?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/von-20-trieu-kinh-doanh-gi-de-tang-thu-nhap-sau-covid-19-4107098.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/buonban-1590719082-1590719138-2006-1590719143.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=AVl7807kDGHBqCpYz8L6gw" ></a></br>Do dịch Covid-19 công ty tôi cắt giảm giờ làm, tôi muốn buôn bán nhỏ tăng thêm thu nhập.]]></description>
+      <pubDate>Fri, 29 May 2020 12:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/von-20-trieu-kinh-doanh-gi-de-tang-thu-nhap-sau-covid-19-4107098.html</link>
+      <guid>https://vnexpress.net/von-20-trieu-kinh-doanh-gi-de-tang-thu-nhap-sau-covid-19-4107098.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Phạt cây xăng găm hàng 30 triệu đồng không đủ sức răn đe'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/phat-cay-xang-gam-hang-30-trieu-dong-khong-du-suc-ran-de-4106679.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/xangvungocphan1590638205366215-8376-2600-1590649597.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=17osHgz0OkLKe1g9syzO4A" ></a></br>Cần phải có mức xử phạt thật nặng, thậm chí rút giấy phép kinh doanh đối với các đại lý xăng dầu có hành vi 'găm hàng' chờ tăng giá.]]></description>
+      <pubDate>Thu, 28 May 2020 21:07:43 +0700</pubDate>
+      <link>https://vnexpress.net/phat-cay-xang-gam-hang-30-trieu-dong-khong-du-suc-ran-de-4106679.html</link>
+      <guid>https://vnexpress.net/phat-cay-xang-gam-hang-30-trieu-dong-khong-du-suc-ran-de-4106679.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vợ chồng 'tiền ai nấy giữ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-chong-tien-ai-nay-giu-4106809.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/67c3f2a206e2efbcb6f3-159065684-5105-7594-1590656910.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9gca6qeLmLRyIruodOthNA" ></a></br>Tôi e dè trong việc quản lý thu nhập của người khác và cũng không muốn ai tra hỏi chuyện tiền nong của mình.]]></description>
+      <pubDate>Thu, 28 May 2020 19:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/vo-chong-tien-ai-nay-giu-4106809.html</link>
+      <guid>https://vnexpress.net/vo-chong-tien-ai-nay-giu-4106809.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Lương thấp nhưng có nhà, ôtô nhờ biết lo xa'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/luong-thap-nhung-co-nha-oto-nho-biet-lo-xa-4106774.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/muanha-1590654930-1590654963-3850-1590654980.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6d6_WHcRgYFmXj5se3fpaQ" ></a></br>Họ biết lo xa, vay tiền mua nhà từ năm 2015, còn tôi tỏ ra "hiểu biết" đầu tư vào Bitcoin, chứng khoán nên giờ không có nhà lẫn tiền.]]></description>
+      <pubDate>Thu, 28 May 2020 16:31:42 +0700</pubDate>
+      <link>https://vnexpress.net/luong-thap-nhung-co-nha-oto-nho-biet-lo-xa-4106774.html</link>
+      <guid>https://vnexpress.net/luong-thap-nhung-co-nha-oto-nho-biet-lo-xa-4106774.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Người chồng tinh tế sẽ đưa lương cho vợ giữ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-chong-tinh-te-se-dua-luong-cho-vo-giu-4106648.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/duatienchovo-1590642078-159064-6326-2051-1590642124.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=W0rD9oett24YPEIaLDIQzg" ></a></br>Người vợ chỉ ở nhà làm nội trợ sẽ cảm thấy được tôn trọng nếu chồng đưa hết tiền cho mình giữ.]]></description>
+      <pubDate>Thu, 28 May 2020 14:23:45 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-chong-tinh-te-se-dua-luong-cho-vo-giu-4106648.html</link>
+      <guid>https://vnexpress.net/nguoi-chong-tinh-te-se-dua-luong-cho-vo-giu-4106648.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Không nên trồng cây phượng trong sân trường'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/khong-nen-trong-cay-phuong-trong-san-truong-4106596.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/phuong187911590634808-15906396-3816-7154-1590639713.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=eU-BEFsrnXFMtSnZs09l9w" ></a></br>Hoa phượng gắn liền với tuổi học trò nhưng lại là cây có rễ ngắn, dễ mục gãy, cành giòn dù thân to, đẹp nhưng không hề an toàn.]]></description>
+      <pubDate>Thu, 28 May 2020 12:00:33 +0700</pubDate>
+      <link>https://vnexpress.net/khong-nen-trong-cay-phuong-trong-san-truong-4106596.html</link>
+      <guid>https://vnexpress.net/khong-nen-trong-cay-phuong-trong-san-truong-4106596.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cân nhắc thiến hóa học tội phạm ấu dâm</title>
+      <description><![CDATA[<a href="https://vnexpress.net/can-nhac-thien-hoa-hoc-toi-pham-au-dam-4106172.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/121798441182725438410283540906-4158-2831-1590570677.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=qe8fpM0nuOkHLDhPIQb4Mw" ></a></br>Cần phải trừng phạt tội phạm ấu dâm thích đáng nhưng rất nhiều nghiên cứu chỉ ra tác hại khôn lường khi làm đảo lộn sinh lý của con người.]]></description>
+      <pubDate>Thu, 28 May 2020 05:35:43 +0700</pubDate>
+      <link>https://vnexpress.net/can-nhac-thien-hoa-hoc-toi-pham-au-dam-4106172.html</link>
+      <guid>https://vnexpress.net/can-nhac-thien-hoa-hoc-toi-pham-au-dam-4106172.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi tin giấc mơ của Bầu Đức</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toi-tin-giac-mo-cua-bau-duc-4106490.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/bauduc-1590631444-1590631492-5277-1590631499.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=FUR4ZnFZ3g8hOqMA4jz7qQ" ></a></br>Câu chuyện của bầu Đức cũng giống bóng đá Thái Lan, khi cơ hội chơi thể thao quá ít thì sự lựa chọn của CLB chuyên nghiệp không nhiều.]]></description>
+      <pubDate>Thu, 28 May 2020 10:14:29 +0700</pubDate>
+      <link>https://vnexpress.net/toi-tin-giac-mo-cua-bau-duc-4106490.html</link>
+      <guid>https://vnexpress.net/toi-tin-giac-mo-cua-bau-duc-4106490.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'HAGL ngụp lặn vì bầu Đức ham xuất khẩu cầu thủ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hagl-ngup-lan-vi-bau-duc-ham-xuat-khau-cau-thu-4106046.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/DONG6336JPG33951450921362-1590-5141-3483-1590563606.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lUZsgZer0DWC4-3AdIJ53w" ></a></br>Bầu Đức dựa vào chỉ số nào để cho Công Phượng xuất ngoại, khi thể lực còn không theo kịp thì ra nước ngoài có thể học được gì.]]></description>
+      <pubDate>Wed, 27 May 2020 18:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/hagl-ngup-lan-vi-bau-duc-ham-xuat-khau-cau-thu-4106046.html</link>
+      <guid>https://vnexpress.net/hagl-ngup-lan-vi-bau-duc-ham-xuat-khau-cau-thu-4106046.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi muốn ngăn cản khi ai đó định làm giáo viên</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toi-muon-ngan-can-khi-ai-do-dinh-lam-giao-vien-4105734.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/141303danhnguoi-1590544092-159-6416-2725-1590544138.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=7zinouC8RqYHDgHY1PglXA" ></a></br>Thầy cô giáo làm dâu trăm họ, vừa dạy dỗ học sinh, vừa phải chịu áp lực từ phụ huynh.]]></description>
+      <pubDate>Wed, 27 May 2020 13:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/toi-muon-ngan-can-khi-ai-do-dinh-lam-giao-vien-4105734.html</link>
+      <guid>https://vnexpress.net/toi-muon-ngan-can-khi-ai-do-dinh-lam-giao-vien-4105734.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi bị hàng xóm đòi 100 triệu vì xây lấn 1,75 m2 đất</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toi-bi-hang-xom-doi-100-trieu-vi-xay-lan-1-75-m2-dat-4105639.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/maxresdefault-1590502770-15905-7153-4489-1590504706.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=HqZ2gfcN27r-aVoa59eW0Q" ></a></br>Sau khi xây xong nhà gần 3 năm, tôi mới phát hiện đã lấn sang phần đất hàng xóm 1,75 m2.]]></description>
+      <pubDate>Wed, 27 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/toi-bi-hang-xom-doi-100-trieu-vi-xay-lan-1-75-m2-dat-4105639.html</link>
+      <guid>https://vnexpress.net/toi-bi-hang-xom-doi-100-trieu-vi-xay-lan-1-75-m2-dat-4105639.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'An cư lạc nghiệp' không liên quan mua nhà hay ở thuê</title>
+      <description><![CDATA[<a href="https://vnexpress.net/an-cu-lac-nghiep-khong-lien-quan-mua-nha-hay-o-thue-4105881.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/muanha-1590561584-1590561598-1613-1590561610.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=WYuvqqY_0xYAxSXX3jG59A" ></a></br>"An cư lạc nghiệp" ngụ ý khuyên tìm chỗ tốt để định cư, không hề có ý khuyên mọi người phải xây nhà trước khi có sự nghiệp.]]></description>
+      <pubDate>Wed, 27 May 2020 14:05:58 +0700</pubDate>
+      <link>https://vnexpress.net/an-cu-lac-nghiep-khong-lien-quan-mua-nha-hay-o-thue-4105881.html</link>
+      <guid>https://vnexpress.net/an-cu-lac-nghiep-khong-lien-quan-mua-nha-hay-o-thue-4105881.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Mua bảo hiểm xe máy không vì mong bồi thường'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/mua-bao-hiem-xe-may-khong-vi-mong-boi-thuong-4105949.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/baohiem47731590484652-15905525-4796-2194-1590552657.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ycS-mBWf-BCxPkdA8JxMuA" ></a></br>Nhiều người nói rằng việc bảo hiểm xe máy bắt buộc là không cần thiết, nhưng có mấy ai thực sự hiểu lợi ích mà bảo hiểm mang lại.]]></description>
+      <pubDate>Wed, 27 May 2020 14:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/mua-bao-hiem-xe-may-khong-vi-mong-boi-thuong-4105949.html</link>
+      <guid>https://vnexpress.net/mua-bao-hiem-xe-may-khong-vi-mong-boi-thuong-4105949.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xe máy bật đèn ban ngày tốn bao nhiêu tiền xăng?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xe-may-bat-den-ban-ngay-ton-bao-nhieu-tien-xang-4105818.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/xemayphaibatden2424hlieu159015-8799-4344-1590546614.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=4LOWzRMOKtz-j2799s8ogQ" ></a></br>Một tài xế công nghệ chạy xe máy thế hệ cũ trung bình 3 giờ mỗi ngày sẽ tốn khoảng 800 đồng tiền xăng.]]></description>
+      <pubDate>Wed, 27 May 2020 11:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/xe-may-bat-den-ban-ngay-ton-bao-nhieu-tien-xang-4105818.html</link>
+      <guid>https://vnexpress.net/xe-may-bat-den-ban-ngay-ton-bao-nhieu-tien-xang-4105818.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Bật đèn ban ngày không giúp giảm tai nạn giao thông'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bat-den-ban-ngay-khong-giup-giam-tai-nan-giao-thong-4105783.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/duthaomoivebatdenxemay12798466-6825-2407-1590545379.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rmNDiesqh7YxD6tgCETLJQ" ></a></br>Đường ở Việt Nam nhỏ, mật độ xe máy đông, hoàn toàn không cần thiết mở đèn ban ngày, chưa kể một 'rừng xe' cùng bật chỉ thêm bức bối.]]></description>
+      <pubDate>Wed, 27 May 2020 09:33:04 +0700</pubDate>
+      <link>https://vnexpress.net/bat-den-ban-ngay-khong-giup-giam-tai-nan-giao-thong-4105783.html</link>
+      <guid>https://vnexpress.net/bat-den-ban-ngay-khong-giup-giam-tai-nan-giao-thong-4105783.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Vợ kiếm tiền giỏi cũng không thể ép chồng lo việc nhà'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-kiem-tien-gioi-cung-khong-the-ep-chong-lo-viec-nha-4105353.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/C2fotogallery30012947image-159-3203-4290-1590476636.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=FTWZfV9XP0-23QEvu9QTdg" ></a></br>Việc phụ nữ dùng khả năng kinh tế để yêu cầu chồng phải làm việc nhà vô tình khiến người đàn ông mất đi giá trị trụ cột gia đình.]]></description>
+      <pubDate>Tue, 26 May 2020 21:01:46 +0700</pubDate>
+      <link>https://vnexpress.net/vo-kiem-tien-gioi-cung-khong-the-ep-chong-lo-viec-nha-4105353.html</link>
+      <guid>https://vnexpress.net/vo-kiem-tien-gioi-cung-khong-the-ep-chong-lo-viec-nha-4105353.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Kiểm soát khí thải xe máy - 'làm ngay đi'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/kiem-soat-khi-thai-xe-may-lam-ngay-di-4105470.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/xemaycunat49051498809851-15904-7082-6134-1590480476.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=bhcwMks6-5Ubz98NtBg7Zg" ></a></br>Vấn đề kiểm định khí thải nên tập trung vào các xe cũ nát, không thể lấy mưu sinh để biện minh cho hành động gây ô nhiễm không khí.]]></description>
+      <pubDate>Tue, 26 May 2020 19:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/kiem-soat-khi-thai-xe-may-lam-ngay-di-4105470.html</link>
+      <guid>https://vnexpress.net/kiem-soat-khi-thai-xe-may-lam-ngay-di-4105470.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xây dựng 'quy trình an toàn trường học' sau vụ cây đè 13 học sinh</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xay-dung-quy-trinh-an-toan-truong-hoc-sau-vu-cay-de-13-hoc-sinh-4105517.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/caydode13hocsinh65754159046520-6114-6498-1590484119.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=kknqvWr2kyH7TQTyfduYog" ></a></br>Đã đến lúc Bộ GD&amp;ĐT cần xây dựng 'quy trình an toàn trường học', trong đó chú trọng đánh giá, nhận diện mối nguy tại tất cả các trường.]]></description>
+      <pubDate>Tue, 26 May 2020 17:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/xay-dung-quy-trinh-an-toan-truong-hoc-sau-vu-cay-de-13-hoc-sinh-4105517.html</link>
+      <guid>https://vnexpress.net/xay-dung-quy-trinh-an-toan-truong-hoc-sau-vu-cay-de-13-hoc-sinh-4105517.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi trả nợ 3.500 USD mỗi tháng để mua nhà</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toi-tra-no-3-500-usd-moi-thang-de-mua-nha-4105374.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/muanha-1590475742-7438-1590475859.png?w=900&h=0&q=100&dpr=1&fit=crop&s=PWpqmsaqAaUpkV13DImJLg" ></a></br>Gia đình tôi mỗi tháng trả 3.500 USD tiền vay ngân hàng nhưng được sở hữu căn hộ rộng gấp đôi nhà trọ, mọi thứ sạch sẽ, hiện đại theo ý mình.]]></description>
+      <pubDate>Tue, 26 May 2020 14:52:20 +0700</pubDate>
+      <link>https://vnexpress.net/toi-tra-no-3-500-usd-moi-thang-de-mua-nha-4105374.html</link>
+      <guid>https://vnexpress.net/toi-tra-no-3-500-usd-moi-thang-de-mua-nha-4105374.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bốn sai lầm bóng đá của Bầu Đức</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bon-sai-lam-bong-da-cua-bau-duc-4104966.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/983398083494273953933925571025-3058-8545-1590462609.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=f5n1rLCRHA2qGif3ZIU9-A" ></a></br>Bầu Đức đã tạo một làn gió mới cho bóng đá Việt Nam nhưng chính những sai lầm của ông đã khiến HAGL mãi ngụp lặn ở V-League.]]></description>
+      <pubDate>Tue, 26 May 2020 09:59:45 +0700</pubDate>
+      <link>https://vnexpress.net/bon-sai-lam-bong-da-cua-bau-duc-4104966.html</link>
+      <guid>https://vnexpress.net/bon-sai-lam-bong-da-cua-bau-duc-4104966.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sai lầm 'cố bán bằng mọi giá' của người bán hàng online</title>
+      <description><![CDATA[<a href="https://vnexpress.net/sai-lam-co-ban-bang-moi-gia-cua-nguoi-ban-hang-online-4105225.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/bnhngonline-1590475628-1590475-7880-6627-1590475704.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=8Z3-nHKrc9-2u6DabEWULg" ></a></br>'Cố bán bằng mọi giá' thường gặp ở những người bán hàng có đạo đức nghề nghiệp đáng ngờ hoặc chỉ quan tâm đến lợi ích trước mắt.]]></description>
+      <pubDate>Tue, 26 May 2020 13:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/sai-lam-co-ban-bang-moi-gia-cua-nguoi-ban-hang-online-4105225.html</link>
+      <guid>https://vnexpress.net/sai-lam-co-ban-bang-moi-gia-cua-nguoi-ban-hang-online-4105225.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Làm thêm giúp tôi bớt ảo tưởng bản thân</title>
+      <description><![CDATA[<a href="https://vnexpress.net/lam-them-giup-toi-bot-ao-tuong-ban-than-4105174.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/photo21536478244988922303927-1-2576-4306-1590457962.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=e_qMGO5vPnBzvnOzozORVQ" ></a></br>Tôi đã bắt đầu đi làm thêm ngay sau khi thi đại học, và đó có lẽ là quyết định đúng đắn nhất của mình từ trước đến giờ.]]></description>
+      <pubDate>Tue, 26 May 2020 09:32:43 +0700</pubDate>
+      <link>https://vnexpress.net/lam-them-giup-toi-bot-ao-tuong-ban-than-4105174.html</link>
+      <guid>https://vnexpress.net/lam-them-giup-toi-bot-ao-tuong-ban-than-4105174.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ba việc cần làm để giáo viên được trả lương xứng đáng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ba-viec-can-lam-de-giao-vien-duoc-tra-luong-xung-dang-4104978.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/hoctienganh55111576125151-1590-1119-5948-1590401801.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tqr6jElkSz-WABT7JpxwoQ" ></a></br>Đầu vào trường sư phạm phải cao, lương trả theo năng lực chứ không cào bằng theo bậc... là những cách để nâng thu nhập của giáo viên. ]]></description>
+      <pubDate>Tue, 26 May 2020 09:14:35 +0700</pubDate>
+      <link>https://vnexpress.net/ba-viec-can-lam-de-giao-vien-duoc-tra-luong-xung-dang-4104978.html</link>
+      <guid>https://vnexpress.net/ba-viec-can-lam-de-giao-vien-duoc-tra-luong-xung-dang-4104978.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Việt Nam không cần vô địch AFF Cup 2020 bằng mọi giá'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/viet-nam-khong-can-vo-dich-aff-cup-2020-bang-moi-gia-4104925.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/a18662158519507466561587979590-3357-1838-1590398132.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9-Z4qERpXCvBN6YBTZFSbw" ></a></br>Khi đội tuyển đã có thể chơi sòng phẳng ở các giải đấu cấp độ châu lục và thế giới, vô địch AFF Cup không phải nhiệm vụ sống còn.]]></description>
+      <pubDate>Tue, 26 May 2020 04:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/viet-nam-khong-can-vo-dich-aff-cup-2020-bang-moi-gia-4104925.html</link>
+      <guid>https://vnexpress.net/viet-nam-khong-can-vo-dich-aff-cup-2020-bang-moi-gia-4104925.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn tốt 30 năm vì chưa bao giờ 'miễn phí cho nhau'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ban-tot-30-nam-vi-chua-bao-gio-mien-phi-cho-nhau-4104852.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/muontien-1590393885-1590393943-3473-1590393949.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Jb5-i6z_4YBEQGD80h83qA" ></a></br>Bạn bè sòng phẳng tiền bạc với nhau là sự tin tưởng chứ không phải chi ly, tính toán.]]></description>
+      <pubDate>Mon, 25 May 2020 21:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/ban-tot-30-nam-vi-chua-bao-gio-mien-phi-cho-nhau-4104852.html</link>
+      <guid>https://vnexpress.net/ban-tot-30-nam-vi-chua-bao-gio-mien-phi-cho-nhau-4104852.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vật lộn xin cấp sổ đỏ khi '86% người dân hài lòng với công chức'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vat-lon-xin-cap-so-do-khi-86-nguoi-dan-hai-long-voi-cong-chuc-4104653.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/sodo-1590375430-9673-1590375690.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=KM1IGAytPSFTne4iS5f8yQ" ></a></br>86% người dân hài lòng sự phục vụ của công chức là kết quả khảo sát mới được công bố, nhưng với nhà tôi thì không.]]></description>
+      <pubDate>Mon, 25 May 2020 16:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/vat-lon-xin-cap-so-do-khi-86-nguoi-dan-hai-long-voi-cong-chuc-4104653.html</link>
+      <guid>https://vnexpress.net/vat-lon-xin-cap-so-do-khi-86-nguoi-dan-hai-long-voi-cong-chuc-4104653.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cố vay mượn mua nhà vì tâm lý ở trọ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/co-vay-muon-mua-nha-vi-tam-ly-o-tro-4102981.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/21/img106-1590046543-1590046611-4013-1590046621.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tKYPEV4dE-hDnkczJ-3ovg" ></a></br>Vợ chồng tôi thu nhập 40 triệu nhưng ở nhà thuê, vẫn hưởng môi trường văn minh  tiện ích xung quanh, cuộc sống thoải mái .]]></description>
+      <pubDate>Mon, 25 May 2020 14:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/co-vay-muon-mua-nha-vi-tam-ly-o-tro-4102981.html</link>
+      <guid>https://vnexpress.net/co-vay-muon-mua-nha-vi-tam-ly-o-tro-4102981.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vỡ mộng công viên ở Sài Gòn</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-mong-cong-vien-o-sai-gon-4104729.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/hh11559636468161370969523-1590-3230-8771-1590379997.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wvbyicuw1rUxDc-_tjfJGg" ></a></br>Thấy tôi khen ngợi tay chủ đầu tư chung cư dành khoảng đất rộng làm công viên, vợ tôi cười khẩy: "Anh hâm à!'.]]></description>
+      <pubDate>Mon, 25 May 2020 11:31:39 +0700</pubDate>
+      <link>https://vnexpress.net/vo-mong-cong-vien-o-sai-gon-4104729.html</link>
+      <guid>https://vnexpress.net/vo-mong-cong-vien-o-sai-gon-4104729.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi tìm được việc ở châu Âu như thế nào</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toi-tim-duoc-viec-o-chau-au-nhu-the-nao-4104605.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/timviec-1590372954-1590372970-8474-1590372997.png?w=900&h=0&q=100&dpr=1&fit=crop&s=NyY9UKYsdLhcJlCVKrgL_A" ></a></br>Nếu bạn không có 'network' thì tìm việc làm sẽ như mở quán phở trong hẻm phố huyện nhưng mơ mộng khách Tây tới ăn.]]></description>
+      <pubDate>Mon, 25 May 2020 09:55:38 +0700</pubDate>
+      <link>https://vnexpress.net/toi-tim-duoc-viec-o-chau-au-nhu-the-nao-4104605.html</link>
+      <guid>https://vnexpress.net/toi-tim-duoc-viec-o-chau-au-nhu-the-nao-4104605.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vay một tỷ đồng mua nhà Sài Gòn hay đất Bình Dương?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vay-mot-ty-dong-mua-nha-sai-gon-hay-dat-binh-duong-4104395.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/0046home-1590309664-1590309679-3587-1590309702.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=kHYm74jIVoq20rVQB7r0fg" ></a></br>Hai vợ chồng tôi mỗi tháng dư khoảng 20 triệu, có hai lô đất ở Bình Dương và Long An trị giá 1,7 tỷ đồng.]]></description>
+      <pubDate>Mon, 25 May 2020 06:04:00 +0700</pubDate>
+      <link>https://vnexpress.net/vay-mot-ty-dong-mua-nha-sai-gon-hay-dat-binh-duong-4104395.html</link>
+      <guid>https://vnexpress.net/vay-mot-ty-dong-mua-nha-sai-gon-hay-dat-binh-duong-4104395.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Kinh tế mất cân bằng vì dòng tiền đổ vào bất động sản'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/kinh-te-mat-can-bang-vi-dong-tien-do-vao-bat-dong-san-4104863.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/HoChiMinhCityVietnamAPAC1240x7-3440-9385-1590394368.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=pZFdu_qqZzlB3sjLjxntBw" ></a></br>Dòng tiền vốn của quốc gia đổ quá nhiều vào bất động sản dẫn tới các lĩnh vực khác sẽ bị khan vốn.]]></description>
+      <pubDate>Mon, 25 May 2020 19:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/kinh-te-mat-can-bang-vi-dong-tien-do-vao-bat-dong-san-4104863.html</link>
+      <guid>https://vnexpress.net/kinh-te-mat-can-bang-vi-dong-tien-do-vao-bat-dong-san-4104863.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Trẻ đi học sớm giờ, xảy ra chuyện ai chịu trách nhiệm?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tre-di-hoc-som-gio-xay-ra-chuyen-ai-chiu-trach-nhiem-4104673.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/mg7021jpg24291590321788-159037-5279-3394-1590377265.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=thOsr_pbocG7QUqzlFLxqw" ></a></br>Nhiều người kể chuyện đi học thời xưa cũ để biện minh, nhưng việc chia sẻ để tìm ra giải pháp tối ưu thì không ai nói đến.]]></description>
+      <pubDate>Mon, 25 May 2020 18:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/tre-di-hoc-som-gio-xay-ra-chuyen-ai-chiu-trach-nhiem-4104673.html</link>
+      <guid>https://vnexpress.net/tre-di-hoc-som-gio-xay-ra-chuyen-ai-chiu-trach-nhiem-4104673.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Phát minh bút chì' cho học sinh Việt</title>
+      <description><![CDATA[<a href="https://vnexpress.net/pha-t-minh-bu-t-chi-cho-hoc-sinh-viet-4104486.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/sngtaok-1590331467-1590331483-1414-1590331506.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=aiOlipOnooeuAkJObWXP3A" ></a></br>Cây bút chì và những sáng chế đi kèm như gôm tẩy ngày nay ai cũng làm được, nhưng điều quan trọng là ai nhìn ra trước.]]></description>
+      <pubDate>Mon, 25 May 2020 08:57:36 +0700</pubDate>
+      <link>https://vnexpress.net/pha-t-minh-bu-t-chi-cho-hoc-sinh-viet-4104486.html</link>
+      <guid>https://vnexpress.net/pha-t-minh-bu-t-chi-cho-hoc-sinh-viet-4104486.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Dạy Sao đỏ 'không dùng quyền lực để bắt nạt'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/day-sao-do-khong-dung-quyen-luc-de-bat-nat-4104407.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/695938832657671487620486692337-7106-5133-1590310909.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=j5_H8LidCn4PQMU7ee-7mw" ></a></br>Nếu để đội sao đỏ tự quản, cần trang bị kỹ năng giải quyết công việc hiệu quả nhưng không vô tình.]]></description>
+      <pubDate>Sun, 24 May 2020 18:54:14 +0700</pubDate>
+      <link>https://vnexpress.net/day-sao-do-khong-dung-quyen-luc-de-bat-nat-4104407.html</link>
+      <guid>https://vnexpress.net/day-sao-do-khong-dung-quyen-luc-de-bat-nat-4104407.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Sài Gòn thiếu công viên vì giá đất quá cao'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/sai-gon-thieu-cong-vien-vi-gia-dat-qua-cao-4104348.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/congviencangsaigon598515902448-8074-9397-1590296359.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=NSg-dzsK1n6x5w8byeDQSQ" ></a></br>Nếu muốn tìm một miếng đất để làm công viên tại Sài gòn thì sẽ phải đền bù cực lớn.]]></description>
+      <pubDate>Sun, 24 May 2020 13:37:16 +0700</pubDate>
+      <link>https://vnexpress.net/sai-gon-thieu-cong-vien-vi-gia-dat-qua-cao-4104348.html</link>
+      <guid>https://vnexpress.net/sai-gon-thieu-cong-vien-vi-gia-dat-qua-cao-4104348.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nên bỏ tổ sao đỏ trong trường học</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nen-bo-to-sao-do-trong-truong-hoc-4104305.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/695938832657671487620486692337-1918-1999-1590288285.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=NuL1vBhZ6FUaqbmHaQkIDA" ></a></br>Trách nhiệm quản lý học sinh là của giáo viên và người lớn, chứ không phải của những đứa trẻ "đầy quyền lực".]]></description>
+      <pubDate>Sun, 24 May 2020 10:15:46 +0700</pubDate>
+      <link>https://vnexpress.net/nen-bo-to-sao-do-trong-truong-hoc-4104305.html</link>
+      <guid>https://vnexpress.net/nen-bo-to-sao-do-trong-truong-hoc-4104305.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Võ cổ truyền thất thế MMA vì không còn vũ khí'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-co-truyen-that-the-mma-vi-khong-con-vu-khi-4104133.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/23/130620191050368796resize-15902-6057-3588-1590231166.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=OtcWcwjSFYfbG7u3Nh8_eQ" ></a></br>Nếu giao đấu theo kiểu toàn diện, cho sử dụng vũ khí, thì mấy võ sĩ MMA sao có cửa đánh lại võ cổ truyền với đao kiếm trong tay?]]></description>
+      <pubDate>Sun, 24 May 2020 05:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/vo-co-truyen-that-the-mma-vi-khong-con-vu-khi-4104133.html</link>
+      <guid>https://vnexpress.net/vo-co-truyen-that-the-mma-vi-khong-con-vu-khi-4104133.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cho con học trường quốc tế là đầu tư may rủi</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cho-con-hoc-truong-quoc-te-la-dau-tu-may-rui-4103919.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/23/273201934w50076721553679831-15-2231-1184-1590199469.png?w=900&h=0&q=100&dpr=1&fit=crop&s=v0UcxwY0MDYcnRIOjpPsWA" ></a></br>Tôi ý kiến với tư cách người từng học trường chuyên, tốt nghiệp ĐH và lấy bằng Thạc sĩ ở một trường châu Âu trong top 100 thế giới.]]></description>
+      <pubDate>Sat, 23 May 2020 13:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/cho-con-hoc-truong-quoc-te-la-dau-tu-may-rui-4103919.html</link>
+      <guid>https://vnexpress.net/cho-con-hoc-truong-quoc-te-la-dau-tu-may-rui-4103919.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Những giáo viên cầm bằng Đại học, hưởng lương Trung cấp</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nhung-giao-vien-cam-bang-dai-hoc-huong-luong-trung-cap-4103962.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/23/3c3b9631b6725f2c0663-159020293-5755-9305-1590202993.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=EzpDnhnyeaT3i_FzECgqIw" ></a></br>Giáo viên chúng tôi không cần tên gọi cao cấp 'Chức danh nghề nghiệp Giáo viên Hạng I, II, III', chỉ cần được hưởng mức lương đúng với bằng cấp.]]></description>
+      <pubDate>Sat, 23 May 2020 19:00:02 +0700</pubDate>
+      <link>https://vnexpress.net/nhung-giao-vien-cam-bang-dai-hoc-huong-luong-trung-cap-4103962.html</link>
+      <guid>https://vnexpress.net/nhung-giao-vien-cam-bang-dai-hoc-huong-luong-trung-cap-4103962.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Dừng xe không cần vi phạm - 'dễ cho CSGT, khó cho tài xế'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dung-xe-khong-can-vi-pham-de-cho-csgt-kho-cho-tai-xe-4104049.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/23/GetAttachmentThumbnail13064158-3616-1298-1590211295.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=pQDWwhCCqrPPRjPt3beZwQ" ></a></br>Tưởng tượng bạn chạy xe 300 km, qua 3-4 tỉnh thành, mà mỗi nơi lại bị CSGT dừng xe để kiểm tra, thì ảnh hưởng kinh tế đến mức nào.]]></description>
+      <pubDate>Sat, 23 May 2020 15:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/dung-xe-khong-can-vi-pham-de-cho-csgt-kho-cho-tai-xe-4104049.html</link>
+      <guid>https://vnexpress.net/dung-xe-khong-can-vi-pham-de-cho-csgt-kho-cho-tai-xe-4104049.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đôi dép 450 nghìn đồng, vợ tôi mặc cả còn 150 nghìn</title>
+      <description><![CDATA[<a href="https://vnexpress.net/doi-dep-450-nghin-dong-vo-toi-mac-ca-con-150-nghin-4103688.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/macca4402140296866815898139551-5920-9257-1590139672.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=OCJ2uLVu3J7Fnq_E88e9Lw" ></a></br>Sau khi vợ tôi trả giá lần đầu, người bán hàng nói "bớt hữu nghị cho 50 nghìn, bán giá này là không còn lời nữa".]]></description>
+      <pubDate>Sat, 23 May 2020 11:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/doi-dep-450-nghin-dong-vo-toi-mac-ca-con-150-nghin-4103688.html</link>
+      <guid>https://vnexpress.net/doi-dep-450-nghin-dong-vo-toi-mac-ca-con-150-nghin-4103688.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Bạn bè chí cốt là người sòng phẳng tiền bạc'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ban-be-chi-cot-la-nguoi-song-phang-tien-bac-4103815.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/banmuontien-1590157191-1590157-6694-1995-1590157238.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2CgeF9xi66gJvy1HNAbxDQ" ></a></br>Bạn tôi được một người quen nhờ chụp ảnh, khi báo giá, "vị khách" ngạc nhiên vì "trước giờ đều nhờ bạn bè chụp miễn phí cả".]]></description>
+      <pubDate>Sat, 23 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/ban-be-chi-cot-la-nguoi-song-phang-tien-bac-4103815.html</link>
+      <guid>https://vnexpress.net/ban-be-chi-cot-la-nguoi-song-phang-tien-bac-4103815.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi đòi bồi thường bảo hiểm xe máy thành công như thế nào?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toi-doi-boi-thuong-bao-hiem-xe-may-thanh-cong-nhu-the-nao-4103623.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/Baohiemxemaybatbuoc60331589967-6152-4567-1590136329.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=OAl3REIR2y99c42CC2qiCg" ></a></br>Tôi đã có hai lần xảy ra tai nạn giao thông, đều làm hồ sơ yêu cầu bảo hiểm chi trả cho bên bị nạn và thành công.]]></description>
+      <pubDate>Fri, 22 May 2020 20:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/toi-doi-boi-thuong-bao-hiem-xe-may-thanh-cong-nhu-the-nao-4103623.html</link>
+      <guid>https://vnexpress.net/toi-doi-boi-thuong-bao-hiem-xe-may-thanh-cong-nhu-the-nao-4103623.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ứng xử linh hoạt để học sinh không phải đứng nắng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ung-xu-linh-hoat-de-hoc-sinh-khong-phai-dung-nang-4103580.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/hocsinhdoinangdoiphuhuynhdendo-2573-1843-1590133326.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=4bpuJogPz8OL3ov1sscTjQ" ></a></br>Trường con tôi học cho phép các bé đi học sớm, vào bằng cổng phụ và tập trung ở một phòng học để không làm phiền các bạn bán trú.]]></description>
+      <pubDate>Fri, 22 May 2020 18:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/ung-xu-linh-hoat-de-hoc-sinh-khong-phai-dung-nang-4103580.html</link>
+      <guid>https://vnexpress.net/ung-xu-linh-hoat-de-hoc-sinh-khong-phai-dung-nang-4103580.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cha mẹ bán đất 'cứu' anh trai vay nặng lãi</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cha-me-ban-dat-cuu-anh-trai-vay-nang-lai-4103612.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/trano-1590135742-3809-1590135770.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LSuixDaAbAEESfebvTj8Iw" ></a></br>Khoảng vay 300 triệu đồng sau hai năm lên gần một tỷ của vợ chồng anh trai khiến gia đình tôi sốc nặng.]]></description>
+      <pubDate>Fri, 22 May 2020 15:54:38 +0700</pubDate>
+      <link>https://vnexpress.net/cha-me-ban-dat-cuu-anh-trai-vay-nang-lai-4103612.html</link>
+      <guid>https://vnexpress.net/cha-me-ban-dat-cuu-anh-trai-vay-nang-lai-4103612.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Con tôi không học trường quốc tế vẫn giành học bổng 90% tại Mỹ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/con-toi-khong-hoc-truong-quoc-te-van-gianh-hoc-bong-90-tai-my-4103446.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/hoctienganh-1590119409-4998-1590119478.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=qSgdR-PI4TIWQXAgGECsiw" ></a></br>Hai con tôi học trường công, không cần học thêm, hết lớp 12 là tự xin học bổng du học.]]></description>
+      <pubDate>Fri, 22 May 2020 12:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/con-toi-khong-hoc-truong-quoc-te-van-gianh-hoc-bong-90-tai-my-4103446.html</link>
+      <guid>https://vnexpress.net/con-toi-khong-hoc-truong-quoc-te-van-gianh-hoc-bong-90-tai-my-4103446.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>5 thói xấu xâm phạm lợi ích cộng đồng của nhiều người Việt</title>
+      <description><![CDATA[<a href="https://vnexpress.net/5-thoi-xa-u-xam-pha-m-lo-i-i-ch-co-ng-do-ng-cu-a-nhie-u-nguo-i-vie-t-4102860.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/21/s-1590033676-4272-1590033882.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=NPsAgbP0X4E_wnh9_dWorw" ></a></br>'Không làm phiền người khác' là cốt lõi của một xã hội văn minh, nhưng tiếc rằng, nguyên tắc ấy lại đang bị nhiều người Việt vi phạm thường xuyên.]]></description>
+      <pubDate>Fri, 22 May 2020 10:16:37 +0700</pubDate>
+      <link>https://vnexpress.net/5-thoi-xa-u-xam-pha-m-lo-i-i-ch-co-ng-do-ng-cu-a-nhie-u-nguo-i-vie-t-4102860.html</link>
+      <guid>https://vnexpress.net/5-thoi-xa-u-xam-pha-m-lo-i-i-ch-co-ng-do-ng-cu-a-nhie-u-nguo-i-vie-t-4102860.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Luyện giải đề khiến học sinh thành 'gà chọi'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/luyen-giai-de-khien-hoc-sinh-thanh-ga-choi-4103547.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/hocbai-1590131631-1590131666-9685-1590131687.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=PKPg-GIyYRRCDTLeBw1jKw" ></a></br>Các cấp học ở ta luôn dạy học nặng tư duy trừu tượng, nặng lý thuyết và kém thực hành.]]></description>
+      <pubDate>Fri, 22 May 2020 14:58:10 +0700</pubDate>
+      <link>https://vnexpress.net/luyen-giai-de-khien-hoc-sinh-thanh-ga-choi-4103547.html</link>
+      <guid>https://vnexpress.net/luyen-giai-de-khien-hoc-sinh-thanh-ga-choi-4103547.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi đam mê y dược nhưng hài lòng làm giáo viên tiếng Anh</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toi-dam-me-y-duoc-nhung-hai-long-lam-giao-vien-tieng-anh-4103379.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/daytienganh-1590116508-1590116-3595-5064-1590116552.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=T6-rRy03quEaLae7ZdERzw" ></a></br>Nhiều bạn trẻ chuẩn bị vào đời đang phân vân với câu hỏi "làm việc mình thích, hay thích việc mình sẽ làm".]]></description>
+      <pubDate>Fri, 22 May 2020 13:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/toi-dam-me-y-duoc-nhung-hai-long-lam-giao-vien-tieng-anh-4103379.html</link>
+      <guid>https://vnexpress.net/toi-dam-me-y-duoc-nhung-hai-long-lam-giao-vien-tieng-anh-4103379.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Học trường quốc tế chỉ vì muốn con du học</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hoc-truong-quoc-te-chi-vi-muon-con-du-hoc-4103114.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/21/20190805BacktoSchoolES09999981-4314-9556-1590055832.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=4c1_2UQENGZwq11PevO5Vg" 

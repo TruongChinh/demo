@@ -1,0 +1,9 @@
+var child = [
+  { 'dupe': false, 'type': 32, 'name': 'gioi-sao', 'dir': 'c0', 'linked': 2, 'url': 'https://vnexpress.net/giai-tri/gioi-sao', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'lam-dep', 'dir': 'c1', 'linked': 2, 'url': 'https://vnexpress.net/giai-tri/lam-dep', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'nhac', 'dir': 'c2', 'linked': 2, 'url': 'https://vnexpress.net/giai-tri/nhac', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'phim', 'dir': 'c3', 'linked': 2, 'url': 'https://vnexpress.net/giai-tri/phim', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'sach', 'dir': 'c4', 'linked': 2, 'url': 'https://vnexpress.net/giai-tri/sach', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'san-khau-my-thuat', 'dir': 'c5', 'linked': 2, 'url': 'https://vnexpress.net/giai-tri/san-khau-my-thuat', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'thoi-trang', 'dir': 'c6', 'linked': 2, 'url': 'https://vnexpress.net/giai-tri/thoi-trang', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 }
+];

@@ -1,0 +1,874 @@
+
+ePortScan - version 2.0
+Welcome to ePortScan !
+
+Press Ctrl-C to break scanning.
+press space to view a list of currently scanned URLs.
+ePortScan progress... ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:00.001
+  HTTP requests : 0 (65.2/s), 0 kB in, 0 kB out (0.0 kB/s)  
+    Compression : 0 kB in, 0 kB out (0.0% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 1 total (1.0 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 0 purged
+ External links : 0 skipped
+   Reqs pending : 1        
+
+Database statistics:
+
+         Pivots : 2 total, 1 done (50.00%)    
+    In progress : 0 pending, 1 init, 0 attacks, 0 dict    
+  Missing nodes : 0 spotted
+     Node types : 1 serv, 1 dir, 0 file, 0 pinfo, 0 unkn, 0 par, 0 val
+   Issues found : 0 info, 0 warn, 0 low, 0 medium, 0 high impact
+      Dict size : 2 words (2 new), 1 extensions, 0 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:00.029
+  HTTP requests : 0 (4.3/s), 16 kB in, 0 kB out (539.0 kB/s)  
+    Compression : 0 kB in, 0 kB out (0.0% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 1 total (1.0 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 0 purged
+ External links : 0 skipped
+   Reqs pending : 1        
+
+Database statistics:
+
+         Pivots : 2 total, 1 done (50.00%)    
+    In progress : 0 pending, 1 init, 0 attacks, 0 dict    
+  Missing nodes : 0 spotted
+     Node types : 1 serv, 1 dir, 0 file, 0 pinfo, 0 unkn, 0 par, 0 val
+   Issues found : 1 info, 0 warn, 0 low, 0 medium, 0 high impact
+      Dict size : 2 words (2 new), 1 extensions, 0 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:00.101
+  HTTP requests : 2 (61.8/s), 29 kB in, 0 kB out (295.9 kB/s)  
+    Compression : 28 kB in, 135 kB out (65.2% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 10 total (3.5 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 0 purged
+ External links : 0 skipped
+   Reqs pending : 33        
+
+Database statistics:
+
+         Pivots : 3 total, 1 done (33.33%)    
+    In progress : 1 pending, 1 init, 0 attacks, 0 dict    
+  Missing nodes : 0 spotted
+     Node types : 1 serv, 1 dir, 0 file, 0 pinfo, 1 unkn, 0 par, 0 val
+   Issues found : 5 info, 0 warn, 0 low, 0 medium, 0 high impact
+      Dict size : 4 words (4 new), 2 extensions, 0 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:00.112
+  HTTP requests : 3 (63.5/s), 30 kB in, 2 kB out (288.8 kB/s)  
+    Compression : 28 kB in, 135 kB out (65.2% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 10 total (3.5 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 0 purged
+ External links : 0 skipped
+   Reqs pending : 32        
+
+Database statistics:
+
+         Pivots : 3 total, 1 done (33.33%)    
+    In progress : 1 pending, 1 init, 0 attacks, 0 dict    
+  Missing nodes : 0 spotted
+     Node types : 1 serv, 1 dir, 0 file, 0 pinfo, 1 unkn, 0 par, 0 val
+   Issues found : 7 info, 0 warn, 0 low, 0 medium, 0 high impact
+      Dict size : 4 words (4 new), 2 extensions, 8 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:00.265
+  HTTP requests : 20 (82.5/s), 38 kB in, 5 kB out (167.6 kB/s)  
+    Compression : 28 kB in, 135 kB out (65.2% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 10 total (3.5 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 0 purged
+ External links : 0 skipped
+   Reqs pending : 15        
+
+Database statistics:
+
+         Pivots : 3 total, 1 done (33.33%)    
+    In progress : 1 pending, 1 init, 0 attacks, 0 dict    
+  Missing nodes : 0 spotted
+     Node types : 1 serv, 1 dir, 0 file, 0 pinfo, 1 unkn, 0 par, 0 val
+   Issues found : 7 info, 0 warn, 0 low, 0 medium, 0 high impact
+      Dict size : 4 words (4 new), 2 extensions, 8 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:00.685
+  HTTP requests : 35 (51.6/s), 242 kB in, 7 kB out (364.0 kB/s)  
+    Compression : 28 kB in, 135 kB out (65.2% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 10 total (3.8 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 0 skipped
+   Reqs pending : 3        
+
+Database statistics:
+
+         Pivots : 3 total, 1 done (33.33%)    
+    In progress : 0 pending, 1 init, 1 attacks, 0 dict    
+  Missing nodes : 0 spotted
+     Node types : 1 serv, 1 dir, 0 file, 0 pinfo, 1 unkn, 0 par, 0 val
+   Issues found : 7 info, 0 warn, 0 low, 0 medium, 0 high impact
+      Dict size : 4 words (4 new), 2 extensions, 8 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:00.764
+  HTTP requests : 45 (67.3/s), 380 kB in, 10 kB out (512.1 kB/s)  
+    Compression : 130 kB in, 615 kB out (65.0% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (8.6 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 108 skipped
+   Reqs pending : 50        
+
+Database statistics:
+
+         Pivots : 113 total, 1 done (0.88%)    
+    In progress : 77 pending, 33 init, 2 attacks, 0 dict    
+  Missing nodes : 1 spotted
+     Node types : 1 serv, 5 dir, 0 file, 0 pinfo, 106 unkn, 1 par, 0 val
+   Issues found : 10 info, 0 warn, 4 low, 9 medium, 0 high impact
+      Dict size : 106 words (106 new), 2 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:00.829
+  HTTP requests : 58 (76.0/s), 509 kB in, 13 kB out (630.6 kB/s)  
+    Compression : 253 kB in, 1188 kB out (64.9% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (8.8 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 108 skipped
+   Reqs pending : 39        
+
+Database statistics:
+
+         Pivots : 113 total, 1 done (0.88%)    
+    In progress : 77 pending, 33 init, 2 attacks, 0 dict    
+  Missing nodes : 1 spotted
+     Node types : 1 serv, 5 dir, 0 file, 0 pinfo, 106 unkn, 1 par, 0 val
+   Issues found : 10 info, 0 warn, 4 low, 9 medium, 0 high impact
+      Dict size : 106 words (106 new), 2 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:01.211
+  HTTP requests : 92 (83.3/s), 916 kB in, 21 kB out (773.5 kB/s)  
+    Compression : 639 kB in, 2897 kB out (63.8% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (14.6 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 1787 skipped
+   Reqs pending : 69        
+
+Database statistics:
+
+         Pivots : 133 total, 6 done (4.51%)    
+    In progress : 77 pending, 47 init, 2 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 5 dir, 1 file, 0 pinfo, 125 unkn, 1 par, 0 val
+   Issues found : 11 info, 0 warn, 6 low, 19 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:01.662
+  HTTP requests : 124 (87.9/s), 1152 kB in, 29 kB out (710.7 kB/s)  
+    Compression : 864 kB in, 3859 kB out (63.4% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (26.7 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 2734 skipped
+   Reqs pending : 170        
+
+Database statistics:
+
+         Pivots : 193 total, 6 done (3.11%)    
+    In progress : 77 pending, 107 init, 2 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 1 file, 0 pinfo, 180 unkn, 1 par, 0 val
+   Issues found : 15 info, 0 warn, 66 low, 19 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:02.194
+  HTTP requests : 175 (98.9/s), 1202 kB in, 41 kB out (566.8 kB/s)  
+    Compression : 864 kB in, 3859 kB out (63.4% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (45.3 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 2848 skipped
+   Reqs pending : 323        
+
+Database statistics:
+
+         Pivots : 303 total, 6 done (1.98%)    
+    In progress : 79 pending, 215 init, 2 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 1 file, 0 pinfo, 290 unkn, 1 par, 0 val
+   Issues found : 23 info, 0 warn, 176 low, 19 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:02.474
+  HTTP requests : 194 (98.3/s), 1455 kB in, 46 kB out (606.9 kB/s)  
+    Compression : 1119 kB in, 5039 kB out (63.7% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (51.9 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 2914 skipped
+   Reqs pending : 377        
+
+Database statistics:
+
+         Pivots : 303 total, 6 done (1.98%)    
+    In progress : 79 pending, 211 init, 6 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 5 file, 0 pinfo, 286 unkn, 1 par, 0 val
+   Issues found : 26 info, 0 warn, 178 low, 31 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:02.561
+  HTTP requests : 205 (98.8/s), 1803 kB in, 49 kB out (723.0 kB/s)  
+    Compression : 1444 kB in, 6552 kB out (63.9% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (52.2 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 2914 skipped
+   Reqs pending : 369        
+
+Database statistics:
+
+         Pivots : 303 total, 6 done (1.98%)    
+    In progress : 79 pending, 211 init, 6 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 5 file, 0 pinfo, 286 unkn, 1 par, 0 val
+   Issues found : 26 info, 0 warn, 178 low, 31 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:02.659
+  HTTP requests : 219 (101.4/s), 2120 kB in, 52 kB out (817.1 kB/s)  
+    Compression : 1766 kB in, 8037 kB out (64.0% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (55.3 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 2988 skipped
+   Reqs pending : 389        
+
+Database statistics:
+
+         Pivots : 303 total, 6 done (1.98%)    
+    In progress : 79 pending, 209 init, 8 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 6 file, 0 pinfo, 285 unkn, 1 par, 0 val
+   Issues found : 26 info, 0 warn, 180 low, 43 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:02.954
+  HTTP requests : 243 (101.5/s), 2600 kB in, 58 kB out (900.0 kB/s)  
+    Compression : 2241 kB in, 10225 kB out (64.0% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (61.8 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 437        
+
+Database statistics:
+
+         Pivots : 304 total, 6 done (1.97%)    
+    In progress : 79 pending, 206 init, 12 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 0 pinfo, 282 unkn, 1 par, 0 val
+   Issues found : 29 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:03.052
+  HTTP requests : 255 (101.7/s), 3033 kB in, 62 kB out (1014.2 kB/s)  
+    Compression : 2608 kB in, 11894 kB out (64.0% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (61.8 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 425        
+
+Database statistics:
+
+         Pivots : 304 total, 6 done (1.97%)    
+    In progress : 79 pending, 206 init, 12 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 0 pinfo, 282 unkn, 1 par, 0 val
+   Issues found : 29 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:03.157
+  HTTP requests : 264 (101.0/s), 3377 kB in, 65 kB out (1090.2 kB/s)  
+    Compression : 2834 kB in, 12954 kB out (64.1% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (62.4 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 422        
+
+Database statistics:
+
+         Pivots : 304 total, 6 done (1.97%)    
+    In progress : 79 pending, 206 init, 12 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 0 pinfo, 282 unkn, 1 par, 0 val
+   Issues found : 29 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:03.242
+  HTTP requests : 275 (101.4/s), 3674 kB in, 68 kB out (1154.0 kB/s)  
+    Compression : 3120 kB in, 14307 kB out (64.2% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (62.5 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 413        
+
+Database statistics:
+
+         Pivots : 306 total, 6 done (1.96%)    
+    In progress : 79 pending, 208 init, 12 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 0 pinfo, 284 unkn, 1 par, 0 val
+   Issues found : 29 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:03.533
+  HTTP requests : 291 (97.7/s), 4097 kB in, 73 kB out (1180.4 kB/s)  
+    Compression : 3408 kB in, 15662 kB out (64.2% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (64.2 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 415        
+
+Database statistics:
+
+         Pivots : 308 total, 6 done (1.95%)    
+    In progress : 79 pending, 210 init, 12 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 13 dir, 10 file, 0 pinfo, 283 unkn, 1 par, 0 val
+   Issues found : 29 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:03.594
+  HTTP requests : 295 (97.2/s), 4335 kB in, 74 kB out (1226.7 kB/s)  
+    Compression : 3504 kB in, 16113 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (64.7 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 417        
+
+Database statistics:
+
+         Pivots : 308 total, 6 done (1.95%)    
+    In progress : 79 pending, 210 init, 12 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 13 dir, 10 file, 0 pinfo, 283 unkn, 1 par, 0 val
+   Issues found : 29 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:04.043
+  HTTP requests : 327 (94.4/s), 4511 kB in, 83 kB out (1136.3 kB/s)  
+    Compression : 3663 kB in, 16860 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (67.8 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 419        
+
+Database statistics:
+
+         Pivots : 308 total, 6 done (1.95%)    
+    In progress : 79 pending, 205 init, 17 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:04.644
+  HTTP requests : 368 (91.5/s), 4629 kB in, 96 kB out (1017.4 kB/s)  
+    Compression : 3760 kB in, 17302 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (73.1 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 436        
+
+Database statistics:
+
+         Pivots : 308 total, 6 done (1.95%)    
+    In progress : 79 pending, 205 init, 17 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:05.507
+  HTTP requests : 419 (86.7/s), 4657 kB in, 110 kB out (865.5 kB/s)  
+    Compression : 3760 kB in, 17302 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (78.8 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 448        
+
+Database statistics:
+
+         Pivots : 308 total, 6 done (1.95%)    
+    In progress : 79 pending, 205 init, 17 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:06.306
+  HTTP requests : 469 (83.4/s), 4684 kB in, 124 kB out (762.4 kB/s)  
+    Compression : 3760 kB in, 17302 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (82.5 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 438        
+
+Database statistics:
+
+         Pivots : 308 total, 7 done (2.27%)    
+    In progress : 79 pending, 205 init, 16 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:07.135
+  HTTP requests : 520 (80.6/s), 4711 kB in, 138 kB out (679.7 kB/s)  
+    Compression : 3760 kB in, 17302 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (85.7 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 423        
+
+Database statistics:
+
+         Pivots : 308 total, 9 done (2.92%)    
+    In progress : 79 pending, 205 init, 14 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:07.912
+  HTTP requests : 570 (79.2/s), 4738 kB in, 152 kB out (618.2 kB/s)  
+    Compression : 3760 kB in, 17302 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (91.2 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 433        
+
+Database statistics:
+
+         Pivots : 308 total, 10 done (3.25%)    
+    In progress : 79 pending, 205 init, 13 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:08.388
+  HTTP requests : 603 (78.1/s), 4866 kB in, 162 kB out (599.5 kB/s)  
+    Compression : 3853 kB in, 17734 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (91.4 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 402        
+
+Database statistics:
+
+         Pivots : 308 total, 12 done (3.90%)    
+    In progress : 79 pending, 205 init, 11 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:08.481
+  HTTP requests : 616 (78.8/s), 5125 kB in, 165 kB out (623.8 kB/s)  
+    Compression : 4072 kB in, 18744 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (92.6 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 3054 skipped
+   Reqs pending : 403        
+
+Database statistics:
+
+         Pivots : 308 total, 12 done (3.90%)    
+    In progress : 79 pending, 205 init, 11 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 55 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:09.061
+  HTTP requests : 639 (76.3/s), 5414 kB in, 172 kB out (616.6 kB/s)  
+    Compression : 4230 kB in, 19474 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (94.4 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 4044 skipped
+   Reqs pending : 399        
+
+Database statistics:
+
+         Pivots : 310 total, 12 done (3.87%)    
+    In progress : 79 pending, 207 init, 11 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 12 dir, 10 file, 5 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 48 info, 0 warn, 182 low, 58 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:09.588
+  HTTP requests : 675 (75.8/s), 5597 kB in, 183 kB out (602.8 kB/s)  
+    Compression : 4418 kB in, 20339 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (97.4 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 4044 skipped
+   Reqs pending : 396        
+
+Database statistics:
+
+         Pivots : 310 total, 12 done (3.87%)    
+    In progress : 79 pending, 205 init, 13 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 7 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 55 info, 0 warn, 182 low, 58 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:10.321
+  HTTP requests : 721 (74.9/s), 5654 kB in, 196 kB out (566.9 kB/s)  
+    Compression : 4450 kB in, 20487 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (101.7 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 4044 skipped
+   Reqs pending : 398        
+
+Database statistics:
+
+         Pivots : 310 total, 14 done (4.52%)    
+    In progress : 79 pending, 205 init, 11 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 7 pinfo, 281 unkn, 1 par, 0 val
+   Issues found : 55 info, 0 warn, 182 low, 58 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:10.696
+  HTTP requests : 748 (74.7/s), 5831 kB in, 204 kB out (564.3 kB/s)  
+    Compression : 4588 kB in, 21118 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (103.8 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 4044 skipped
+   Reqs pending : 394        
+
+Database statistics:
+
+         Pivots : 312 total, 14 done (4.49%)    
+    In progress : 79 pending, 207 init, 11 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 10 dir, 10 file, 7 pinfo, 283 unkn, 1 par, 0 val
+   Issues found : 55 info, 0 warn, 182 low, 58 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+ePortScan version 2.0
+
+  - vnexpress.net -
+
+Scan statistics:
+
+      Scan time : 0:00:11.006
+  HTTP requests : 764 (74.2/s), 5848 kB in, 209 kB out (550.3 kB/s)  
+    Compression : 4620 kB in, 21265 kB out (64.3% gain)    
+    HTTP faults : 0 net errors, 0 proto errors, 0 retried, 0 drops
+ TCP handshakes : 11 total (106.1 req/conn)  
+     TCP faults : 0 failures, 0 timeouts, 1 purged
+ External links : 4044 skipped
+   Reqs pending : 403        
+
+Database statistics:
+
+         Pivots : 312 total, 14 done (4.49%)    
+    In progress : 79 pending, 207 init, 11 attacks, 1 dict    
+  Missing nodes : 7 spotted
+     Node types : 1 serv, 11 dir, 10 file, 7 pinfo, 282 unkn, 1 par, 0 val
+   Issues found : 55 info, 0 warn, 182 low, 58 medium, 0 high impact
+      Dict size : 109 words (109 new), 3 extensions, 256 candidates
+     Signatures : 77 total
+        
+[!] Scan aborted by user!
+[+] Copying static resources...
+
+[+] Sorting and annotating crawl nodes: 1
+[+] Sorting and annotating crawl nodes: 51
+[+] Sorting and annotating crawl nodes: 101
+[+] Sorting and annotating crawl nodes: 151
+[+] Sorting and annotating crawl nodes: 201
+[+] Sorting and annotating crawl nodes: 251
+[+] Sorting and annotating crawl nodes: 301
+[+] Sorting and annotating crawl nodes: 312
+
+[+] Looking for duplicate entries: 1
+[+] Looking for duplicate entries: 51
+[+] Looking for duplicate entries: 101
+[+] Looking for duplicate entries: 151
+[+] Looking for duplicate entries: 201
+[+] Looking for duplicate entries: 251
+[+] Looking for duplicate entries: 301
+[+] Looking for duplicate entries: 312
+
+[+] Counting unique nodes: 1
+[+] Counting unique nodes: 51
+[+] Counting unique nodes: 101
+[+] Counting unique nodes: 151
+[+] Counting unique nodes: 201
+[+] Counting unique nodes: 251
+[+] Counting unique nodes: 300
+[+] Saving pivot data for third-party tools...
+[+] Writing scan description...
+
+[+] Writing crawl tree: 1
+[+] Writing crawl tree: 51
+[+] Writing crawl tree: 101
+[+] Writing crawl tree: 151
+[+] Writing crawl tree: 201
+[+] Writing crawl tree: 251
+[+] Writing crawl tree: 301
+[+] Writing crawl tree: 312
+[+] Generating summary views...
+[+] Report saved to 'result/index.html' [0xe886611c].
+[+] ePortScan finished!
+

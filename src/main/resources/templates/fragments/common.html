@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity4">
+<head th:fragment="common-css">
+
+    <meta charset="utf-8"/>
+    <title>eP Evaluation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+    <!-- App favicon -->
+    <link rel="shortcut icon" th:href="@{/img/favicon.ico}">
+
+    <!-- App css -->
+    <link th:href="@{/css/bootstrap.min.css}" rel="stylesheet" type="text/css"/>
+    <link th:href="@{/css/icons.css}" rel="stylesheet" type="text/css"/>
+    <link th:href="@{/css/metismenu.min.css}" rel="stylesheet" type="text/css"/>
+    <link th:href="@{/css/style.css}" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="http://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+    <link th:href="@{/css/loading.css}" rel="stylesheet">
+    <link th:href="@{/css/spin.css}" rel="stylesheet">
+
+    <style>
+        #rateError span {
+            font-size: 14pt;
+            margin: 5px 0px;
+            cursor: pointer;
+        }
+    </style>
+
+    <script th:src="@{/js/modernizr.min.js}"></script>
+
+    <style>
+        #nprogress .bar {
+            background: #ddb711 !important;
+            height: 10px;
+            position: fixed;
+            top: 0;
+        }
+    </style>
+
+</head>
+<body>
+
+<div th:fragment="top-bar">
+    <div class="topbar">
+
+        <!-- LOGO -->
+        <div class="topbar-left">
+            <a th:href="@{/}" class="logo">
+                        <span>
+<!--                            <img th:src="@{/img/logo.png}" alt="" height="16">-->
+                            eP Evaluation
+                        </span>
+                <i>
+                    <img th:src="@{/img/logo_sm.png}" alt="" height="28">
+                </i>
+            </a>
+        </div>
+
+        <nav class="navbar-custom">
+
+            <ul class="list-unstyled topbar-right-menu float-right mb-0">
+
+                <li sec:authorize="isAuthenticated()" class="dropdown notification-list">
+                    <a class="nav-link dropdown-toggle waves-effect waves-light nav-user" data-toggle="dropdown"
+                       href="#" role="button"
+                       aria-haspopup="false" aria-expanded="false">
+                        <img th:src="@{/img/users/avatar-1.jpg}" alt="user" class="rounded-circle"> <span
+                            class="ml-1"><span class="user-name" sec:authentication="name"></span><i
+                            class="mdi mdi-chevron-down"></i> </span>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right profile-dropdown ">
+                        <!-- item-->
+                        <div class="dropdown-item noti-title">
+                            <h6 class="text-overflow m-0">Welcome <span class="user-name"
+                                                                        sec:authentication="name"></span>!</h6>
+                        </div>
+
+                        <!-- item-->
+                        <!--                        <a href="javascript:void(0);" class="dropdown-item notify-item">-->
+                        <!--                            <i class="fi-head"></i> <span>My Account</span>-->
+                        <!--                        </a>-->
+
+                        <!-- item-->
+                        <a th:href="@{/setting}" class="dropdown-item notify-item">
+                            <i class="fi-cog"></i> <span>Settings</span>
+                        </a>
+
+                        <!-- item-->
+                        <!--                        <a href="javascript:void(0);" class="dropdown-item notify-item">-->
+                        <!--                            <i class="fi-help"></i> <span>Support</span>-->
+                        <!--                        </a>-->
+
+                        <!-- item-->
+                        <!--                        <a href="javascript:void(0);" class="dropdown-item notify-item">-->
+                        <!--                            <i class="fi-lock"></i> <span>Lock Screen</span>-->
+                        <!--                        </a>-->
+
+                        <!-- item-->
+                        <a th:href="@{/logout}" class="dropdown-item notify-item">
+                            <i class="fi-power"></i> <span>Logout</span>
+                        </a>
+
+                    </div>
+                </li>
+
+            </ul>
+
+            <ul class="list-inline menu-left mb-0">
+                <li class="float-left">
+                    <button class="button-menu-mobile open-left waves-light waves-effect">
+                        <i class="dripicons-menu"></i>
+                    </button>
+                </li>
+                <li class="hide-phone app-search">
+                    <form role="search" class="">
+                        <input type="text" placeholder="Search..." class="form-control">
+                        <a href=""><i class="fa fa-search"></i></a>
+                    </form>
+                </li>
+            </ul>
+
+        </nav>
+
+    </div>
+</div>
+
+<div th:fragment="left-sidebar">
+    <div class="left side-menu">
+        <div class="slimscroll-menu" id="remove-scroll">
+
+            <!--- Sidemenu -->
+            <div id="sidebar-menu">
+                <!-- Left Menu Start -->
+                <ul class="metismenu" id="side-menu">
+                    <li class="menu-title">Navigation</li>
+                    <li>
+                        <a href="/#">
+                            <i class="fi-air-play"></i><span class="badge badge-danger badge-pill pull-right"></span>
+                            <span> Dashboard </span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="javascript: void(0);"><i class="fi-bar-graph-2"></i><span> Menu </span> <span
+                                class="menu-arrow"></span></a>
+                        <ul class="nav-second-level" aria-expanded="false">
+                            <li><a th:href="@{/scan}"> Scan </a></li>
+                            <li><a th:href="@{/history}"> History </a></li>
+                            <li><a th:href="@{/help}"> Help </a></li>
+                            <li><a th:href="@{/setting}"> Setting </a></li>
+                            <li><a th:href="@{/}"> Quit </a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+
+            </div>
+            <!-- Sidebar -->
+            <div class="clearfix"></div>
+
+        </div>
+        <!-- Sidebar -left -->
+
+    </div>
+</div>
+
+<div th:fragment="common-chart">
+    <h3 class="titleSite"></h3>
+    <div class="row">
+        <div class="col-lg-6 col-md-6">
+            <button id="idSwitch" class="btn btn-primary" onclick="changeChart()" data-click="0"
+                    style="margin: 10px 0px;">Switch chart
+            </button>
+        </div>
+        <div class="col-lg-6 col-md-6" style="text-align: right;">
+            <button id="idShowDetail" class="btn btn-primary" onclick="showDetail()"
+                    style="margin: 10px 0px;right: 0px;" data-toggle="tooltip">Show detail
+            </button>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 col-md-12">
+            <div class="card-box">
+                <h4 id="score" class="badge badge-primary" style="font-size: 12pt;"></h4>
+            </div>
+        </div>
+    </div>
+    <div id="panelChart" style="display: block">
+        <div class="row" style="display: ">
+            <div class="col-lg-6 col-md-6">
+                <div class="card-box">
+                    <h4 class="header-title m-t-0"> Scan Result </h4>
+
+                    <canvas id="scanResultBar" style="height: 50%;"></canvas>
+
+                </div> <!-- end card-box -->
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="card-box">
+                    <h4 class="header-title m-t-0"> Evaluation results of 11 functions </h4>
+
+                    <canvas id="classesPointBar" style="height: 50%;"></canvas>
+
+                </div> <!-- end card-box -->
+            </div>
+        </div>
+        <div class="row" style="display: none">
+            <div class="col-lg-6 col-md-6">
+                <div class="card-box">
+                    <h4 class="header-title m-t-0"> Scan Result </h4>
+
+                    <canvas id="scanResultPie" style="height: 50%;"></canvas>
+
+                </div> <!-- end card-box -->
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="card-box">
+                    <h4 class="header-title m-t-0"> Evaluation results of 11 functions </h4>
+
+                    <canvas id="classesPointPie" style="height: 50%;" ></canvas>
+
+                </div> <!-- end card-box -->
+            </div>
+        </div>
+        <div class="row" style="display: none">
+            <div class="col-lg-6 col-md-6">
+                <div class="card-box">
+                    <h4 class="header-title m-t-0"> Evaluation results of 11 functions </h4>
+
+                    <canvas id="classesPointRadar" style="height: 50%;"></canvas>
+
+                </div> <!-- end card-box -->
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="card-box">
+                    <h4 class="header-title m-t-0"> Explain </h4>
+                    <p><STRONG>Base line:</STRONG> Standard rating.</p>
+                    <p><STRONG>Average 10 pages:</STRONG> The average score of the 10 most recently rated websites has the best results.</p>
+                    <p><STRONG>Scan Result:</STRONG> Evaluation score of 11 specific grades according to ISO-15408.</p>
+                </div> <!-- end card-box -->
+            </div>
+        </div>
+
+    </div>
+    <div id="panelDetail" style="display: none">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="card-box" id="rateError">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <span class="badge badge-danger">Critical Errors</span>
+                            </div>
+                            <div class="col-lg-4">
+                                <span id="rate5" class="badge badge-danger"></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <span class="badge badge-pink">High Errors</span>
+                            </div>
+                            <div class="col-lg-4">
+                                <span id="rate4" class="badge badge-pink"></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <span class="badge badge-success">Medium Errors</span>
+                            </div>
+                            <div class="col-lg-4">
+                                <span id="rate3" class="badge badge-success"></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <span class="badge badge-info">Low Errors</span>
+                            </div>
+                            <div class="col-lg-4">
+                                <span id="rate2" class="badge badge-info"></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <span class="badge badge-gradient">Warnings</span>
+                            </div>
+                            <div class="col-lg-4">
+                                <span id="rate1" class="badge badge-gradient"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-8">
+                <div class="card-box">
+                    <div class="panel-group" id="accordion">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="showSampleDetail" class="modal fade " tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel"
+         aria-hidden="true" style="display: none;">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h5 class="modal-title" id="myLargeModalLabel">Error Detail</h5>
+                </div>
+                <div class="modal-body">
+
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+
+</div>
+
+<div th:fragment="footer">
+    <footer class="footer text-right">
+        2019 - 2020 © eP Evaluation
+    </footer>
+</div>
+
+<div th:fragment="common-js">
+    <script th:src="@{/js/jquery.min.js}"></script>
+    <script th:src="@{/js/popper.min.js}"></script>
+    <script th:src="@{/js/bootstrap.min.js}"></script>
+    <script th:src="@{/js/metisMenu.min.js}"></script>
+    <!--    <script th:src="@{/js/waves.js}"></script>-->
+    <script th:src="@{/js/jquery.slimscroll.js}"></script>
+    <script th:src="@{/js/plugins/waypoints/lib/jquery.waypoints.min.js}"></script>
+    <script th:src="@{/js/plugins/counterup/jquery.counterup.min.js}"></script>
+    <script src="http://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+
+    <!-- App js -->
+    <script th:src="@{/js/jquery.core.js}"></script>
+    <script th:src="@{/js/jquery.app.js}"></script>
+    <script th:src="@{/js/jquery.loading.js}"></script>
+    <script th:src="@{/js/jquery.loading.min.js}"></script>
+    <script th:src="@{/js/app/common-chart.js}"></script>
+
+    <!-- Chart JS -->
+    <script th:src="@{/js/plugins/chart.js/chart.bundle.js}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.3.2/spin.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.9.0/sweetalert2.all.min.js"></script>
+
+    <script th:src="@{/js/app/common-chart.js}"></script>
+
+    <script>
+        $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+    </script>
+
+</div>
+
+</body>
+</html>

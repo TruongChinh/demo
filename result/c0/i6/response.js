@@ -1,0 +1,1 @@
+var res = {'data':'HTTP/1.1 200 OK\x0aDate: Fri, 29 May 2020 10:48:34 GMT\x0aContent-Type: text/html; charset=utf-8\x0aTransfer-Encoding: chunked\x0aConnection: keep-alive\x0aKeep-Alive: timeout=60\x0aVary: Accept-Encoding\x0aSet-Cookie: device_env=4; Expires=Fri, 29 May 2020 18:48:34; Domain=.vnexpress.net; Path=/\x0a\x0a[...truncated...]\x0a'}

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Set-Cookie: device_env=4; expires=Fri, 05-Jun-2020 10:48:34 GMT; Max-Age=604800; path=/; domain=vnexpress.net
+Set-Cookie: device_env_real=4; expires=Fri, 05-Jun-2020 10:48:34 GMT; Max-Age=604800; path=/; domain=vnexpress.net
+
+[...truncated...]

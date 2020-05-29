@@ -1,0 +1,313 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 10177whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: HIT
+xdCache: HIT
+Server: 16477whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Xe - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:44:46 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/oto-xe-may.rss</link>
+    <item>
+      <title>Ôtô điện rộng đường sản xuất tại Việt Nam</title>
+      <description><![CDATA[<a href="https://vnexpress.net/oto-dien-rong-duong-san-xuat-tai-viet-nam-4107336.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/xedientaiVietnamvnexpress-1590-5022-2694-1590742510.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=C0KK16ieiaAyVe30zyx2kQ" ></a></br>Hưởng thuế nhập khẩu linh kiện 0%, ôtô điện sản xuất trong nước được miễn yêu cầu về sản lượng tối thiểu ở hai kỳ xét ưu đãi đầu. ]]></description>
+      <pubDate>Fri, 29 May 2020 16:04:35 +0700</pubDate>
+      <link>https://vnexpress.net/oto-dien-rong-duong-san-xuat-tai-viet-nam-4107336.html</link>
+      <guid>https://vnexpress.net/oto-dien-rong-duong-san-xuat-tai-viet-nam-4107336.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nissan - Renault - Mitsubishi - tựa nhau mà sống</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nissan-renault-mitsubishi-tua-nhau-ma-song-4105335.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/dsgydoixgaefuw4-1590724508-4396-1590724593.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=a0b70yvIEexiOgTPeIotoA" ></a></br>Sau 18 năm cống hiến giúp đưa Michelin trở thành nhà sản xuất lốp xe lớn nhất thế giới, Carlos Ghosn nhận nhiệm vụ mới: tái thiết Renault.]]></description>
+      <pubDate>Fri, 29 May 2020 11:01:04 +0700</pubDate>
+      <link>https://vnexpress.net/nissan-renault-mitsubishi-tua-nhau-ma-song-4105335.html</link>
+      <guid>https://vnexpress.net/nissan-renault-mitsubishi-tua-nhau-ma-song-4105335.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cách ra, vào ôtô an toàn và không hại cột sống</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cach-ra-vao-oto-an-toan-va-khong-hai-cot-song-4107037.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/videocapture1590722980221-1590-7713-1210-1590723076.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2nrzROvMu4kEXd1te0rzXg" ></a></br>Nên đưa phần mông vào trước rồi mới nhấc chân là cách vào xe tốt cho cột sống nhưng không nhiều tài xế áp dụng.]]></description>
+      <pubDate>Fri, 29 May 2020 10:31:51 +0700</pubDate>
+      <link>https://vnexpress.net/cach-ra-vao-oto-an-toan-va-khong-hai-cot-song-4107037.html</link>
+      <guid>https://vnexpress.net/cach-ra-vao-oto-an-toan-va-khong-hai-cot-song-4107037.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xe máy chở hai đứa trẻ suýt đấu đầu ôtô</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xe-may-cho-hai-dua-tre-suyt-dau-dau-oto-4106578.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/videocapture1590636706933-1590-9120-6896-1590636927.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wKoGPjlyFbKeB6C4oBCquQ" ></a></br>Người phụ nữ chở theo hai em bé đầu không đội mũ bảo hiểm, đi ngược chiều ngay khúc cua khuất hôm 24/5 tại Phạm Văn Đồng.]]></description>
+      <pubDate>Fri, 29 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/xe-may-cho-hai-dua-tre-suyt-dau-dau-oto-4106578.html</link>
+      <guid>https://vnexpress.net/xe-may-cho-hai-dua-tre-suyt-dau-dau-oto-4106578.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Rùa ghim xuyên kính lái ôtô đang chạy</title>
+      <description><![CDATA[<a href="https://vnexpress.net/rua-ghim-xuyen-kinh-lai-oto-dang-chay-4106529.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/Xe3-1590658528-2955-1590659275.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lesS4M_O6rG8LNYeoKSR3A" ></a></br>Nữ tài xế giảm tốc độ khi thấy có vật bay về phía mình, cùng lúc con rùa ghim thẳng vào kính chắn gió, một ngày tháng 5 ở Georgia.]]></description>
+      <pubDate>Fri, 29 May 2020 05:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/rua-ghim-xuyen-kinh-lai-oto-dang-chay-4106529.html</link>
+      <guid>https://vnexpress.net/rua-ghim-xuyen-kinh-lai-oto-dang-chay-4106529.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người Nhện sẽ dùng xe Hyundai thay cho Audi</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-nhen-se-dung-xe-hyundai-thay-cho-audi-4107141.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/HyundaiSonata1-1590725547-1453-1590725837.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=vFFsjNoR5nc4vUTlEkUAkg" ></a></br>Quan hệ hợp tác mới giữa thương hiệu xe Hàn và hãng phim Sony có thể mang tới cảnh Spider-Man lái một chiếc Elantra.]]></description>
+      <pubDate>Fri, 29 May 2020 13:41:29 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-nhen-se-dung-xe-hyundai-thay-cho-audi-4107141.html</link>
+      <guid>https://vnexpress.net/nguoi-nhen-se-dung-xe-hyundai-thay-cho-audi-4107141.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xe khách vượt ẩu trên cầu, phóng qua đèn đỏ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xe-khach-vuot-au-tren-cau-phong-qua-den-do-4107352.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/khach-1590739932-8402-1590740039.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rjOX8JbG4BVMeVs0wSjdSg" ></a></br>Chiếc xe khách 45 chỗ tạt đầu ôtô để vượt trên cầu rồi tiếp tục lao nhanh qua đèn đỏ hôm 27/5, tại đường Phó Cơ Điều.]]></description>
+      <pubDate>Fri, 29 May 2020 15:30:14 +0700</pubDate>
+      <link>https://vnexpress.net/xe-khach-vuot-au-tren-cau-phong-qua-den-do-4107352.html</link>
+      <guid>https://vnexpress.net/xe-khach-vuot-au-tren-cau-phong-qua-den-do-4107352.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người phụ nữ ngã khỏi xe máy khi trông thấy cảnh sát</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-phu-nu-nga-khoi-xe-may-khi-trong-thay-canh-sat-4107076.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/ezgif38c83335067ce-1590720089-5617-1590720096.gif?w=900&h=0&q=100&dpr=1&fit=crop&s=KqwERSxlxfKRZIWibz2uJw" ></a></br>Thấy xe cảnh sát chạy tới, người phụ nữ không đội mũ bảo hiểm nhảy khỏi ghế sau xe máy và ngã đập mặt, hôm 21/5 ở Itaituba.]]></description>
+      <pubDate>Fri, 29 May 2020 09:55:59 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-phu-nu-nga-khoi-xe-may-khi-trong-thay-canh-sat-4107076.html</link>
+      <guid>https://vnexpress.net/nguoi-phu-nu-nga-khoi-xe-may-khi-trong-thay-canh-sat-4107076.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>BMW series 4 sắp ra mắt với lưới tản nhiệt 'khổng lồ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bmw-series-4-sap-ra-mat-voi-luoi-tan-nhiet-khong-lo-4106687.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/G22BMW4SeriesVNEXPRESS-1590654-6545-7725-1590655137.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=oOcfI2dtdzKkw3hXR_y2EQ" ></a></br>Lưới tản nhiệt lớn trên X7 không gây nhiều tranh cãi nhưng điều này khó lặp lại với mẫu coupe BMW series 4 2021 ra mắt vào 2/6. ]]></description>
+      <pubDate>Fri, 29 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/bmw-series-4-sap-ra-mat-voi-luoi-tan-nhiet-khong-lo-4106687.html</link>
+      <guid>https://vnexpress.net/bmw-series-4-sap-ra-mat-voi-luoi-tan-nhiet-khong-lo-4106687.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hãng cho thuê xe trả thưởng triệu đô trước khi phá sản</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hang-cho-thue-xe-tra-thuong-trieu-do-truoc-khi-pha-san-4106626.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/Hertz1-1590653196-7862-1590653207.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=8IlfPufYJfbInahaCBm0IA" ></a></br>Hertz trả cho giới chủ tổng cộng 16,2 triệu USD vào ngày 19/5, chỉ ba ngày trước khi nộp đơn phá sản.]]></description>
+      <pubDate>Fri, 29 May 2020 05:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/hang-cho-thue-xe-tra-thuong-trieu-do-truoc-khi-pha-san-4106626.html</link>
+      <guid>https://vnexpress.net/hang-cho-thue-xe-tra-thuong-trieu-do-truoc-khi-pha-san-4106626.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Có voucher 350 triệu nên mua Lux SA 2.0?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/co-voucher-350-trieu-nen-mua-lux-sa-2-0-4107113.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/095257suvluxsa20-1590719484-6947-1590719493.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=TRfZkTM7C_GNDznPfMhHXQ" ></a></br>Có ý định đổi xe, tôi đang có voucher 350 triệu, nên muốn mua một chiếc Lux SA 2.0. (Nguyễn Cường)]]></description>
+      <pubDate>Fri, 29 May 2020 14:16:49 +0700</pubDate>
+      <link>https://vnexpress.net/co-voucher-350-trieu-nen-mua-lux-sa-2-0-4107113.html</link>
+      <guid>https://vnexpress.net/co-voucher-350-trieu-nen-mua-lux-sa-2-0-4107113.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Toyota Land Prado 2013 giá 1,45 tỷ nên mua?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toyota-land-prado-2013-gia-1-45-ty-nen-mua-4107123.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/maxresdefault-1590719887-15907-8948-1316-1590719934.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=1un0GZlNWwCtDlmc-OEa0w" ></a></br>Xe của người quen bán lại, chạy 111.000 km, bản đầy đủ, xin hỏi giá trên mua lại có hợp lý. (Đức Toản)]]></description>
+      <pubDate>Fri, 29 May 2020 13:41:01 +0700</pubDate>
+      <link>https://vnexpress.net/toyota-land-prado-2013-gia-1-45-ty-nen-mua-4107123.html</link>
+      <guid>https://vnexpress.net/toyota-land-prado-2013-gia-1-45-ty-nen-mua-4107123.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>VinFast hợp tác đào tạo nhân lực ngành cơ điện, ôtô</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vinfast-hop-tac-dao-tao-nhan-luc-nganh-co-dien-oto-4107122.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/anh3jpg-1590720182-1590720194-6994-8505-1590720867.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=be7D8zWK11BHDW7PloTF1w" ></a></br>Hãng xe Việt hợp tác với 5 trường cao đẳng, triển khai mô hình liên kết đào tạo ngành cơ điện tử và kỹ thuật ôtô trên toàn quốc.]]></description>
+      <pubDate>Fri, 29 May 2020 10:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/vinfast-hop-tac-dao-tao-nhan-luc-nganh-co-dien-oto-4107122.html</link>
+      <guid>https://vnexpress.net/vinfast-hop-tac-dao-tao-nhan-luc-nganh-co-dien-oto-4107122.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Corolla Altis 2.0V 2016 giá 750 triệu có hợp lý?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/corolla-altis-2-0v-2016-gia-750-trieu-co-hop-ly-4107101.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/images-1590719211-2936-1590719213.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=uqoxwbd2TmA7lMIWeUUb0A" ></a></br>Xe còn mới, chạy được 22.000 km, người quen muốn bán lại với giá 750 triệu xin hỏi có nên mua lại. (Nguyễn Đức)]]></description>
+      <pubDate>Fri, 29 May 2020 09:45:51 +0700</pubDate>
+      <link>https://vnexpress.net/corolla-altis-2-0v-2016-gia-750-trieu-co-hop-ly-4107101.html</link>
+      <guid>https://vnexpress.net/corolla-altis-2-0v-2016-gia-750-trieu-co-hop-ly-4107101.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Quay đầu ở vạch liền màu vàng bị phạt thế nào?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/quay-dau-o-vach-lien-mau-vang-bi-phat-the-nao-4106688.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/vang-1590650484-3877-1590650494.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=FtQJKl9RK59-vLEPhrJIJw" ></a></br>Tôi thấy nhiều ôtô quay đầu ở vạch liền màu vàng gây tắc đường mà không bị xử lý, xin hỏi lỗi này bị phạt thế nào. (Bùi Trọng)]]></description>
+      <pubDate>Fri, 29 May 2020 09:42:57 +0700</pubDate>
+      <link>https://vnexpress.net/quay-dau-o-vach-lien-mau-vang-bi-phat-the-nao-4106688.html</link>
+      <guid>https://vnexpress.net/quay-dau-o-vach-lien-mau-vang-bi-phat-the-nao-4106688.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>VinFast chạy thử ôtô điện</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vinfast-chay-thu-oto-dien-4106624.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/photo-2020-05-28-10-04-42-1590-3665-1312-1590641968.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=oDp3Renl_G6PgoPv1OjcEg" ></a></br>Chuyên gia của hãng chạy thử chiếc crossover động cơ điện với kích thước nhỉnh hơn xe cỡ C.]]></description>
+      <pubDate>Thu, 28 May 2020 11:41:38 +0700</pubDate>
+      <link>https://vnexpress.net/vinfast-chay-thu-oto-dien-4106624.html</link>
+      <guid>https://vnexpress.net/vinfast-chay-thu-oto-dien-4106624.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ôtô gỗ của nghệ nhân Việt</title>
+      <description><![CDATA[<a href="https://vnexpress.net/oto-go-cua-nghe-nhan-viet-4106620.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/DIEUKHACOTOVNEXPRESS-159064686-5905-6481-1590648238.png?w=900&h=0&q=100&dpr=1&fit=crop&s=Lr6_b5LDCgoM6zgfaC54BA" ></a></br>Những mô hình ôtô có cả hệ thống treo mô phỏng, gương, lốp, lưới tản nhiệt giống xe thật, được chế tạo bởi người Việt. ]]></description>
+      <pubDate>Thu, 28 May 2020 14:42:50 +0700</pubDate>
+      <link>https://vnexpress.net/oto-go-cua-nghe-nhan-viet-4106620.html</link>
+      <guid>https://vnexpress.net/oto-go-cua-nghe-nhan-viet-4106620.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>10 mẫu xe đời 2019 tồn kho nhiều nhất</title>
+      <description><![CDATA[<a href="https://vnexpress.net/10-mau-xe-doi-2019-ton-kho-nhieu-nhat-4106543.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/FordRanger1-1590638667-9708-1590638890.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ZPMbLrexrEB3LCjFIAIeow" ></a></br>Mẫu bán tải Ford Ranger thuộc Top 5 xe đời 2019 "chây ì" tại các đại lý, với lượng tồn là 41,9%, theo iSeeCars.]]></description>
+      <pubDate>Thu, 28 May 2020 14:04:48 +0700</pubDate>
+      <link>https://vnexpress.net/10-mau-xe-doi-2019-ton-kho-nhieu-nhat-4106543.html</link>
+      <guid>https://vnexpress.net/10-mau-xe-doi-2019-ton-kho-nhieu-nhat-4106543.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Range Rover Velar - quý tộc hiền lành</title>
+      <description><![CDATA[<a href="https://vnexpress.net/range-rover-velar-quy-toc-hien-lanh-4106455.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/rangerovervelar-1590638402-159-8423-2665-1590638428.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=S1K5W3OMafNZVpUL4pm9hw" ></a></br>Velar mang thiết kế unisex phù hợp cả nam và nữ, động cơ 2.0 turbo ở mức vừa phải, không quá thể thao, giá 5,4 tỷ.]]></description>
+      <pubDate>Thu, 28 May 2020 11:00:28 +0700</pubDate>
+      <link>https://vnexpress.net/range-rover-velar-quy-toc-hien-lanh-4106455.html</link>
+      <guid>https://vnexpress.net/range-rover-velar-quy-toc-hien-lanh-4106455.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xe bán tải đứt đôi sau cú đâm</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xe-ban-tai-dut-doi-sau-cu-dam-4106179.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/ezgif379d6df3f4049-1590635926-5563-1590635950.gif?w=900&h=0&q=100&dpr=1&fit=crop&s=Ew-4LkuyVhsbpeIkM4RFHQ" ></a></br>Leo lên dải phân cách, xe bán tải trượt ngang sang làn ngược chiều và bị ôtô khác đâm vuông góc khiến cả ba người trên xe thiệt mạng.]]></description>
+      <pubDate>Thu, 28 May 2020 08:11:47 +0700</pubDate>
+      <link>https://vnexpress.net/xe-ban-tai-dut-doi-sau-cu-dam-4106179.html</link>
+      <guid>https://vnexpress.net/xe-ban-tai-dut-doi-sau-cu-dam-4106179.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ý nghĩa tên gọi những ôtô phổ biến tại Việt Nam</title>
+      <description><![CDATA[<a href="https://vnexpress.net/y-nghia-ten-goi-nhung-oto-pho-bien-tai-viet-nam-4105998.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/santafevnexpress-1590569504-5789-1590569695.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ziWxqdJsppETHNpxypNqvQ" ></a></br>Đằng sau tên gọi Vios, Fortuner của Toyota, Accent, Santa Fe của Hyundai, Ranger của Ford, Civic của Honda đại diện cho điều gì? ]]></description>
+      <pubDate>Thu, 28 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/y-nghia-ten-goi-nhung-oto-pho-bien-tai-viet-nam-4105998.html</link>
+      <guid>https://vnexpress.net/y-nghia-ten-goi-nhung-oto-pho-bien-tai-viet-nam-4105998.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bộ sưu tập 200 xế 'khủng' của con trai trùm bất động sản</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bo-suu-tap-200-xe-khung-cua-con-trai-trum-bat-dong-san-4106058.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/RollsRoyce3-1590569281-5044-1590569419.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=YwkmXds0slI1DyK8xjtMdw" ></a></br>Rohit Roy sở hữu hơn 200 xe để ở các garage riêng tại một số cơ ngơi trên thế giới, từ Rolls-Royce Cullinan tới Bugatti Veyron.]]></description>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/bo-suu-tap-200-xe-khung-cua-con-trai-trum-bat-dong-san-4106058.html</link>
+      <guid>https://vnexpress.net/bo-suu-tap-200-xe-khung-cua-con-trai-trum-bat-dong-san-4106058.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xe tải phóng ngược chiều trên cao tốc</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xe-tai-phong-nguoc-chieu-tren-cao-toc-4105271.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/xetai-1590463177-1907-1590640681.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=VmL593qMoc2nEvwD2gElEQ" ></a></br>Chiếc xe tải cỡ lớn phóng ngược chiều ở làn tốc độ 100 km/h, km 51 cao tốc Bắc Giang - Lạng Sơn, hôm 20/5.]]></description>
+      <pubDate>Thu, 28 May 2020 14:24:38 +0700</pubDate>
+      <link>https://vnexpress.net/xe-tai-phong-nguoc-chieu-tren-cao-toc-4105271.html</link>
+      <guid>https://vnexpress.net/xe-tai-phong-nguoc-chieu-tren-cao-toc-4105271.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xe tải lao qua đèn đỏ giữa đường đông đúc</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xe-tai-lao-qua-den-do-giua-duong-dong-duc-4105825.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/videocapture1590547062523-1590-5862-7996-1590586799.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=FcZagy0DD9cG5g1GQNH9qQ" ></a></br>Chiếc xe tải cỡ lớn lao vù qua ngã tư đông xe khi đèn tín hiệu bật đỏ hôm 20/5 đoạn chợ La Cả, đường Lê Trọng Tấn, Hà Đông.]]></description>
+      <pubDate>Thu, 28 May 2020 09:47:59 +0700</pubDate>
+      <link>https://vnexpress.net/xe-tai-lao-qua-den-do-giua-duong-dong-duc-4105825.html</link>
+      <guid>https://vnexpress.net/xe-tai-lao-qua-den-do-giua-duong-dong-duc-4105825.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Kia Rio 2021 lần đầu dùng công nghệ hybrid</title>
+      <description><![CDATA[<a href="https://vnexpress.net/kia-rio-2021-lan-dau-dung-cong-nghe-hybrid-4105708.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/2021KiaRioBai2-1590542326-7259-1590550881.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Au9jjDVhZR-9vCvee41ueQ" ></a></br>Rio thế hệ thứ tư tinh chỉnh kiểu dáng, bổ sung công nghệ và tính năng an toàn, lắp động cơ xăng-điện 1.0.]]></description>
+      <pubDate>Thu, 28 May 2020 06:36:00 +0700</pubDate>
+      <link>https://vnexpress.net/kia-rio-2021-lan-dau-dung-cong-nghe-hybrid-4105708.html</link>
+      <guid>https://vnexpress.net/kia-rio-2021-lan-dau-dung-cong-nghe-hybrid-4105708.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mitsubishi Attrage - lựa chọn 'vừa miếng' cho lần đầu mua xe</title>
+      <description><![CDATA[<a href="https://vnexpress.net/mitsubishi-attrage-lua-chon-vua-mieng-cho-lan-dau-mua-xe-4106366.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/attrage1200pxvne-1590596540-15-5927-5054-1590596680.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=zfjISYnifRPOsR-UIbc-Jg" ></a></br>Mẫu xe cỡ B có mức giá vừa phải, thiết kế trẻ trung và trang bị tốt hơn nhiều thế hệ trước.]]></description>
+      <pubDate>Thu, 28 May 2020 08:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/mitsubishi-attrage-lua-chon-vua-mieng-cho-lan-dau-mua-xe-4106366.html</link>
+      <guid>https://vnexpress.net/mitsubishi-attrage-lua-chon-vua-mieng-cho-lan-dau-mua-xe-4106366.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cầm vô-lăng đúng cách theo các chuyên gia</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cam-vo-lang-dung-cach-theo-cac-chuyen-gia-4105501.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/thaotaccamvolangantoanhieuqua1-5831-4312-1590725548.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wEHO08VVILByQBK6WB-_Zw" ></a></br>Tư thế 9 giờ và 3 giờ được các chuyên gia lái xe của các hãng coi là an toàn và hiệu quả nhất hiện nay, nhưng nhiều tài xế chưa chấp nhận.]]></description>
+      <pubDate>Wed, 27 May 2020 09:42:33 +0700</pubDate>
+      <link>https://vnexpress.net/cam-vo-lang-dung-cach-theo-cac-chuyen-gia-4105501.html</link>
+      <guid>https://vnexpress.net/cam-vo-lang-dung-cach-theo-cac-chuyen-gia-4105501.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ôtô gập đôi như tờ giấy khi đâm cột điện</title>
+      <description><![CDATA[<a href="https://vnexpress.net/oto-gap-doi-nhu-to-giay-khi-dam-cot-dien-4105226.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/otolaocotdiengaygaptaixethietm-4683-2724-1590546029.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=SD5BFc_KOFwiY7c2RMGodA" ></a></br>Ôtô màu trắng đang lấn làn đột ngột chuyển hướng, trượt như tên bắn vào cột điện và gãy gập làm đôi, hôm 24/5 ở Valle de Chalco.]]></description>
+      <pubDate>Wed, 27 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/oto-gap-doi-nhu-to-giay-khi-dam-cot-dien-4105226.html</link>
+      <guid>https://vnexpress.net/oto-gap-doi-nhu-to-giay-khi-dam-cot-dien-4105226.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Thanh niên 'đo đường' vì hai học sinh - ai sai?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/thanh-nien-do-duong-vi-hai-hoc-sinh-ai-sai-4105448.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/batngodanhlaihaicobedixedienqu-3837-1540-1590546174.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6YyrmbEKZA0v24yDBIxUpg" ></a></br>Video hai cô bé điều khiển xe máy điện bất ngờ đánh lái quật ngã nam thanh niên đi xe máy gây tranh cãi.]]></description>
+      <pubDate>Wed, 27 May 2020 07:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/thanh-nien-do-duong-vi-hai-hoc-sinh-ai-sai-4105448.html</link>
+      <guid>https://vnexpress.net/thanh-nien-do-duong-vi-hai-hoc-sinh-ai-sai-4105448.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>BMW series 5 thay đổi diện mạo</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bmw-series-5-thay-doi-dien-mao-4105782.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/BMWseries51-1590550085-8673-1590551467.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=iG6eh5NnkA7l0iTWf50d8A" ></a></br>Series 5 phiên bản nâng cấp làm mới ngoại thất, khá tương đồng với series 3, thêm hệ thống hybrid.]]></description>
+      <pubDate>Wed, 27 May 2020 11:44:37 +0700</pubDate>
+      <link>https://vnexpress.net/bmw-series-5-thay-doi-dien-mao-4105782.html</link>
+      <guid>https://vnexpress.net/bmw-series-5-thay-doi-dien-mao-4105782.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đám đông hò nhau khiêng ôtô chắn đường xe cứu hỏa</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dam-dong-ho-nhau-khieng-oto-chan-duong-xe-cuu-hoa-4105509.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/Xe6-1590485770-6166-1590485928.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=0-59NPxCCQVQBAYn_SE5LQ" ></a></br>Khoảng 30 người đàn ông xúm vào nhích từng chút ôtô màu đen, dọn đường cho xe cứu hỏa vào khu chung cư, hôm 23/5 ở Saint Petersburg.]]></description>
+      <pubDate>Wed, 27 May 2020 10:02:45 +0700</pubDate>
+      <link>https://vnexpress.net/dam-dong-ho-nhau-khieng-oto-chan-duong-xe-cuu-hoa-4105509.html</link>
+      <guid>https://vnexpress.net/dam-dong-ho-nhau-khieng-oto-chan-duong-xe-cuu-hoa-4105509.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mercedes VRC - ôtô biến hình như robot</title>
+      <description><![CDATA[<a href="https://vnexpress.net/mercedes-vrc-oto-bien-hinh-nhu-robot-4105431.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/MercedesVRC1-1590480850-7158-1590482567.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mpGpYBcDQ0jzTiYYWVF6gg" ></a></br>Mẫu Mercedes VRC concept năm 1995 có thể thay đổi giữa bốn kiểu xe khác nhau: sedan, wagon, mui trần và bán tải.]]></description>
+      <pubDate>Wed, 27 May 2020 08:12:14 +0700</pubDate>
+      <link>https://vnexpress.net/mercedes-vrc-oto-bien-hinh-nhu-robot-4105431.html</link>
+      <guid>https://vnexpress.net/mercedes-vrc-oto-bien-hinh-nhu-robot-4105431.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Khách mua ôtô tiết kiệm bao nhiêu tiền nếu trước bạ giảm 50%</title>
+      <description><![CDATA[<a href="https://vnexpress.net/khach-mua-oto-tiet-kiem-bao-nhieu-tien-neu-truoc-ba-giam-50-4105477.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/ToyotaViosVNEXPRESS-1590485871-3359-1590486517.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=cSWKIXeiB_kQRz8KTnekYA" ></a></br>Với Hyundai i10 giá 445 triệu, chi phí lăn bánh giảm 23 triệu, trong khi chiếc Mercedes S450 giá 4,969 tỷ, khách tiết kiệm 243 triệu đồng. ]]></description>
+      <pubDate>Wed, 27 May 2020 06:32:00 +0700</pubDate>
+      <link>https://vnexpress.net/khach-mua-oto-tiet-kiem-bao-nhieu-tien-neu-truoc-ba-giam-50-4105477.html</link>
+      <guid>https://vnexpress.net/khach-mua-oto-tiet-kiem-bao-nhieu-tien-neu-truoc-ba-giam-50-4105477.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Những quy định mới về taxi công nghệ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nhung-quy-dinh-moi-ve-taxi-cong-nghe-4104627.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/vios4-1590467990-1590468000-5311-1590478880.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=IABCG3LueKeXJVRz135IKw" ></a></br>Thế nào gọi là kinh doanh vận tải, xe taxi công nghệ được quyền lựa chọn giữa gắn mào hoặc dùng chữ phản quang trên kính.]]></description>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nhung-quy-dinh-moi-ve-taxi-cong-nghe-4104627.html</link>
+      <guid>https://vnexpress.net/nhung-quy-dinh-moi-ve-taxi-cong-nghe-4104627.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đại gia Việt đổi Porsche, Mercedes lấy xe VinFast</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dai-gia-viet-doi-porsche-mercedes-lay-xe-vinfast-4105790.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/porschemacan-1590545837-159054-8700-7218-1590547289.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rV0l1Oy_fakgC_dJHcbTvg" ></a></br>Khách Việt mang Porsche Macan, Mercedes GLC đến Smart Solution bán lại, đổi lấy mẫu SUV VinFast Lux SA2.0.]]></description>
+      <pubDate>Wed, 27 May 2020 10:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/dai-gia-viet-doi-porsche-mercedes-lay-xe-vinfast-4105790.html</link>
+      <guid>https://vnexpress.net/dai-gia-viet-doi-porsche-mercedes-lay-xe-vinfast-4105790.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Motor Image Việt Nam khai trương đại lý Subaru thứ hai tại Cần Thơ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/motor-image-viet-nam-khai-truong-dai-ly-subaru-thu-hai-tai-can-tho-4105476.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/596-1590457203-1590548453-7824-1590548492.png?w=900&h=0&q=100&dpr=1&fit=crop&s=luMP4nqtsQtTI__VUtA5GQ" 

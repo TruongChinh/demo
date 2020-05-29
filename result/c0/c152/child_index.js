@@ -1,0 +1,9 @@
+var child = [
+  { 'dupe': false, 'type': 32, 'name': 'cac-benh', 'dir': 'c0', 'linked': 2, 'url': 'https://vnexpress.net/suc-khoe/cac-benh', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'dan-ong', 'dir': 'c1', 'linked': 2, 'url': 'https://vnexpress.net/suc-khoe/dan-ong', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'dinh-duong', 'dir': 'c2', 'linked': 2, 'url': 'https://vnexpress.net/suc-khoe/dinh-duong', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'khoe-dep', 'dir': 'c3', 'linked': 2, 'url': 'https://vnexpress.net/suc-khoe/khoe-dep', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'tin-tuc', 'dir': 'c4', 'linked': 2, 'url': 'https://vnexpress.net/suc-khoe/tin-tuc', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'tu-van', 'dir': 'c5', 'linked': 2, 'url': 'https://vnexpress.net/suc-khoe/tu-van', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'ung-thu', 'dir': 'c6', 'linked': 2, 'url': 'https://vnexpress.net/suc-khoe/ung-thu', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 }
+];

@@ -1,0 +1,292 @@
+2020-May-07 20:17:55 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-07 20:17:55 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-07 20:18:31 PM [http-nio-8080-exec-2] INFO  application.controller.api.AppApiController - Success
+2020-May-07 23:01:57 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-07 23:01:57 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-07 23:11:16 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-07 23:11:16 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-07 23:11:40 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-07 23:11:41 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-07 23:16:20 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-07 23:16:21 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-07 23:18:20 PM [http-nio-9999-exec-3] ERROR application.controller.api.ScanApiController - null
+2020-May-07 23:33:45 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-07 23:33:45 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-07 23:39:25 PM [http-nio-9999-exec-4] ERROR application.controller.api.ScanApiController - null
+2020-May-10 16:38:43 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-10 16:38:43 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-10 16:39:35 PM [http-nio-9999-exec-8] ERROR application.controller.api.ScanApiController - null
+2020-May-10 16:40:59 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-10 16:40:59 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-10 16:41:39 PM [http-nio-9999-exec-2] ERROR application.controller.api.ScanApiController - null
+2020-May-10 16:59:06 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-10 16:59:06 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-10 17:01:22 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-10 17:01:22 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-10 17:02:15 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-10 17:02:15 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-10 17:04:43 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-10 17:04:43 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-10 17:05:15 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-10 17:05:15 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-12 18:25:59 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-12 18:25:59 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-12 18:26:31 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-12 18:26:31 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-12 18:28:07 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-12 18:28:08 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-12 18:35:26 PM [http-nio-8080-exec-3] ERROR application.controller.api.ScanApiController - null
+2020-May-12 18:35:57 PM [http-nio-8080-exec-3] ERROR application.controller.api.ScanApiController - null
+2020-May-12 18:37:38 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-12 18:37:38 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-12 18:37:50 PM [http-nio-8080-exec-10] ERROR application.controller.api.ScanApiController - null
+2020-May-12 18:44:31 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-12 18:44:32 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-12 18:48:04 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-12 18:48:04 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-13 22:36:15 PM [http-nio-8080-exec-28] ERROR application.controller.api.ScanApiController - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2020-May-13 22:36:25 PM [http-nio-8080-exec-31] ERROR application.controller.api.ScanApiController - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2020-May-13 22:39:13 PM [http-nio-8080-exec-20] ERROR application.controller.api.ScanApiController - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2020-May-13 22:39:31 PM [http-nio-8080-exec-36] ERROR application.controller.api.ScanApiController - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2020-May-13 22:39:56 PM [http-nio-8080-exec-33] ERROR application.controller.api.ScanApiController - could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2020-May-16 05:52:43 AM [http-nio-8080-exec-39] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-4] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-16] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-26] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-22] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-14] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-8] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-9] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-13] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-7] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:43 AM [http-nio-8080-exec-2] ERROR application.controller.api.ScanApiController - Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManager is closed
+2020-May-16 05:52:55 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-16 05:52:55 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-16 05:55:52 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-16 05:55:52 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-16 05:59:59 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-16 05:59:59 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-16 06:02:01 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-16 06:02:01 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-16 06:03:22 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-16 06:03:22 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-16 06:13:14 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-16 06:13:14 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-16 06:15:04 AM [http-nio-8080-exec-6] ERROR application.controller.api.ScanApiController - null
+2020-May-16 09:06:10 AM [http-nio-8080-exec-5] ERROR application.controller.api.ScanApiController - null
+2020-May-16 09:06:24 AM [http-nio-8080-exec-10] ERROR application.controller.api.ScanApiController - null
+2020-May-16 09:08:38 AM [http-nio-8080-exec-2] ERROR application.controller.api.ScanApiController - null
+2020-May-16 09:08:47 AM [http-nio-8080-exec-4] ERROR application.controller.api.ScanApiController - null
+2020-May-16 09:08:52 AM [http-nio-8080-exec-6] ERROR application.controller.api.ScanApiController - null
+2020-May-18 23:00:19 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-18 23:00:19 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-18 23:01:07 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-18 23:01:08 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-18 23:04:49 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-18 23:04:49 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-18 23:06:14 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-18 23:06:14 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-18 23:18:58 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-18 23:18:58 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-18 23:56:23 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-18 23:56:23 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:00:42 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:00:42 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:03:08 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:03:08 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:04:10 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:04:10 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:07:25 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:07:26 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:08:31 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:08:31 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:10:51 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:10:51 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:15:03 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:15:04 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:15:50 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:15:51 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:18:06 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:18:06 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:19:41 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:19:42 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:20:14 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:20:14 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:20:58 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:20:59 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:26:41 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:26:42 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:28:03 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:28:04 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:28:53 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:28:53 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:30:09 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:30:09 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:32:43 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:32:43 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:33:14 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:33:14 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:33:54 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:33:55 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:34:41 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:34:41 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:36:58 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:36:59 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:38:53 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:38:54 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:41:07 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:41:07 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:42:18 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:42:19 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:45:28 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:45:28 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:46:12 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:46:12 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:48:25 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:48:25 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:49:57 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:49:57 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:52:07 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:52:08 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:52:58 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:52:58 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 00:57:17 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 00:57:17 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:09:25 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:09:25 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:13:03 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:13:03 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:20:01 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:20:02 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:21:22 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:21:23 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:22:42 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:22:43 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:23:52 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:23:52 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:28:04 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:28:04 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:31:56 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:31:56 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:32:27 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:32:27 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:34:06 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:34:06 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:35:56 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:35:57 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:38:16 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:38:16 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:41:21 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:41:22 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:44:45 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:44:45 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:45:04 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:45:05 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:46:16 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:46:16 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:47:17 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:47:17 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:47:52 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:47:53 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:48:30 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:48:31 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:49:29 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:49:29 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:50:05 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:50:05 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:50:50 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:50:50 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:51:33 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:51:33 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:51:54 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 01:51:55 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 01:52:43 AM [http-nio-8080-exec-6] ERROR application.controller.api.ScanApiController - null
+2020-May-19 02:03:40 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:03:41 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:05:12 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:05:13 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:05:32 AM [http-nio-8080-exec-1] ERROR application.controller.api.ScanApiController - null
+2020-May-19 02:05:36 AM [http-nio-8080-exec-2] ERROR application.controller.api.ScanApiController - null
+2020-May-19 02:06:45 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:06:45 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:07:09 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:07:09 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:07:14 AM [http-nio-8080-exec-1] ERROR application.controller.api.ScanApiController - null
+2020-May-19 02:07:58 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:07:58 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:08:46 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:08:47 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:16:55 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:16:55 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:17:35 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:17:35 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:19:43 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:19:44 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 02:21:33 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 02:21:34 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 22:40:50 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 22:40:50 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 22:42:33 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 22:42:33 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 22:43:01 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 22:43:02 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-19 22:45:32 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-19 22:45:32 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-20 02:23:10 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-20 02:23:10 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-20 02:24:06 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-20 02:24:07 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-20 02:25:40 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-20 02:25:41 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-20 02:36:01 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-20 02:36:01 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-20 02:36:37 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-20 02:36:37 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-22 23:45:57 PM [http-nio-8080-exec-8] ERROR application.controller.api.ScanApiController - null
+2020-May-22 23:46:08 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-22 23:46:09 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-23 04:35:05 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-23 04:35:06 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-23 04:43:37 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-23 04:43:37 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-23 04:50:51 AM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-23 04:50:51 AM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-26 13:13:10 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-26 13:13:10 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-26 13:13:46 PM [http-nio-8080-exec-8] ERROR application.controller.api.ScanApiController - null
+2020-May-26 13:16:29 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-26 13:16:30 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-26 13:16:53 PM [http-nio-8080-exec-1] ERROR application.controller.api.ScanApiController - null
+2020-May-26 13:17:01 PM [http-nio-8080-exec-2] ERROR application.controller.api.ScanApiController - null
+2020-May-26 13:18:10 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-26 13:18:10 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-26 13:18:25 PM [http-nio-8080-exec-1] ERROR application.controller.api.ScanApiController - null
+2020-May-26 13:18:50 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-26 13:18:51 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-26 13:19:14 PM [http-nio-8080-exec-8] ERROR application.controller.api.ScanApiController - null
+2020-May-26 13:21:06 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-26 13:21:07 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-26 13:44:14 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-26 13:44:14 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 16:42:37 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 16:42:37 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 16:51:15 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 16:51:16 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 16:55:44 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 16:55:44 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 17:01:53 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 17:01:54 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 17:15:14 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 17:15:15 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 17:30:27 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 17:30:27 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 17:37:25 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 17:37:26 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 17:39:50 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 17:39:51 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 17:44:23 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 17:44:23 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 17:47:08 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 17:47:08 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers
+2020-May-29 17:48:16 PM [restartedMain] DEBUG application.config.WebConfig - run defaultTemplateResolver
+2020-May-29 17:48:17 PM [restartedMain] DEBUG application.config.WebConfig - run addResourceHandlers

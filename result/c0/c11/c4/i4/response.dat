@@ -1,0 +1,65 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 11177whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: MISS
+xdCache: MISS
+Server: 16477whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Ý kiến - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:48:35 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/y-kien.rss</link>
+    <item>
+      <title>'Người sống thử khác gì đã qua một đời vợ chồng'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/photo115312840758671545972291-2279-5261-1590728261.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ghcMMXhmEnKX0SjBbkSJJg" ></a></br>Sống thử là cùng ăn, cùng ở, cùng sinh hoạt... như vợ chồng, chỉ khác việc lập gia đình ở một tờ giấy hôn thú.]]></description>
+      <pubDate>Fri, 29 May 2020 17:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html</link>
+      <guid>https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Từ chuyện cây đổ nghĩ về những sân trường bị bê tông hóa</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/text108000000906still013159045-3986-9775-1590724101.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=TsvyLgKEDA55uAJsv7wWTQ" ></a></br>Tại sao các cây phượng bên đường làng không bị bê tông xâm chiếm, không bị bật gốc như những cây trồng trong sân trường?]]></description>
+      <pubDate>Fri, 29 May 2020 15:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html</link>
+      <guid>https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người bán dùng dây buộc to, đẫm nước 'để cua tươi lâu'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/190514439631495725561-15907209-1360-2076-1590721067.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Q4NDdcbbic8-NL5Nww73fQ" ></a></br>'Dây ngoài yếu tố buộc cua, còn có tác dụng giữ ẩm, giúp cua không bị chết khi các khớp chân và càng khô' - người bán cua giải thích.]]></description>
+      <pubDate>Fri, 29 May 2020 10:21:47 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html</link>
+      <guid>https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Kết hôn sớm mất cơ hội báo hiếu cha mẹ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/unnamed-1590718224-1590718263-2819-1590718266.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QuoOEHHx3g1faoKPEuGDig" ></a></br>Tôi 27 tuổi, công việc ổn nhưng quyết định độc thân thêm ba, bốn năm nữa để giúp ba mẹ trả nợ, sửa nhà và nuôi các em.]]></description>
+      <pubDate>Fri, 29 May 2020 09:24:16 +0700</pubDate>
+      <link>https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html</link>
+      <guid>https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn vay 50 triệu đồng, đòi trả góp 4 triệu mỗi tháng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/muontien-1590666475-1590666505-9501-1590666511.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=7LDHdO941K_-K2-936nHYw" 

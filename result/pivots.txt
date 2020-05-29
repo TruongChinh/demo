@@ -1,0 +1,311 @@
+GET https://vnexpress.net/ name=https://vnexpress.net/ type=serv linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=138941 notes=9 sig=0x229cb913
+GET https://vnexpress.net/error.html/ name=error.html type=dir linked=yes browsers=0 browser_used=FAST dup=0 returns_404 code=404 len=53337 notes=15 sig=0x3692a8c
+GET https://vnexpress.net/error.html/%24{arrArticle.share_url} name=${arrArticle.share_url} type=unknown linked=yes browsers=0 browser_used=FAST dup=0 returns_404 code=404 len=53337 notes=0 sig=0xffdfffff
+GET https://vnexpress.net/error.html/%24{data[i].share_url} name=${data[i].share_url} type=unknown linked=yes browsers=0 browser_used=FAST dup=1 returns_404 code=404 len=53337 notes=0 sig=0xffdfffff
+GET https://vnexpress.net/error.html/%24{data[i][\x27thumb_list\x27][keyImage]} name=${data[i][\x27thumb_list\x27][keyImage]} type=unknown linked=yes browsers=0 browser_used=FAST dup=1 returns_404 code=404 len=53337 notes=0 sig=0xffdfffff
+GET https://vnexpress.net/error.html/?check=1 name=check type=param linked=yes browsers=0 browser_used=FAST dup=0 returns_404 code=404 len=53337 notes=0 sig=0xffbfffff
+GET https://vnexpress.net/interactive/ name=interactive type=dir linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/interactive/2016/ name=2016 type=dir linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/interactive/2016/bang-gia-xe name=bang-gia-xe type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/lg-bi-chi-trich-vi-video-chup-len-co-gai-4105140.html.net/ name=lg-bi-chi-trich-vi-video-chup-len-co-gai-4105140.html.net type=dir linked=no browsers=0 browser_used=FAST dup=0 code=301 len=0 notes=2 sig=0xfffad56b
+GET https://vnexpress.net/lien-he-toa-soan/ name=lien-he-toa-soan type=dir linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/4-smartphone-duoi-9-trieu-dong-do-suc-4105005.html name=4-smartphone-duoi-9-trieu-dong-do-suc-4105005.html type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=155264 notes=2 sig=0x9ced473a
+GET https://vnexpress.net/5-tu-lanh-hai-canh-gia-duoi-5-trieu-dong-4105352.html name=5-tu-lanh-hai-canh-gia-duoi-5-trieu-dong-4105352.html type=file linked=yes browsers=0 browser_used=FAST dup=1 code=200 len=155851 notes=2 sig=0x9ced473a
+GET https://vnexpress.net/ai-doan-tinh-cach-qua-anh-selfie-4105320.html name=ai-doan-tinh-cach-qua-anh-selfie-4105320.html type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=147514 notes=15 sig=0x81a532e8
+GET https://vnexpress.net/diem-yeu-trong-tham-vong-cong-nghe-cua-trung-quoc-4105445.html name=diem-yeu-trong-tham-vong-cong-nghe-cua-trung-quoc-4105445.html type=file linked=yes browsers=0 browser_used=FAST dup=1 code=200 len=151506 notes=2 sig=0x9ced473a
+GET https://vnexpress.net/iphone-se-2020-duoc-quan-tam-nhat-dong-nam-a-4105207.html name=iphone-se-2020-duoc-quan-tam-nhat-dong-nam-a-4105207.html type=file linked=yes browsers=0 browser_used=FAST dup=1 code=200 len=152654 notes=2 sig=0x9ced473a
+GET https://vnexpress.net/lg-bi-chi-trich-vi-video-chup-len-co-gai-4105140.html name=lg-bi-chi-trich-vi-video-chup-len-co-gai-4105140.html type=file linked=yes browsers=0 browser_used=FAST dup=1 code=200 len=150786 notes=2 sig=0x9ced473a
+GET https://vnexpress.net/realme-ra-smartwatch-va-tv-dau-tien-4105239.html name=realme-ra-smartwatch-va-tv-dau-tien-4105239.html type=file linked=yes browsers=0 browser_used=FAST dup=1 code=200 len=150834 notes=15 sig=0x81a532e8
+GET https://vnexpress.net/rss name=rss type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=94270 notes=13 sig=0x3d321cd4
+GET https://vnexpress.net/rss/cuoi.rss/ name=cuoi.rss type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=48553 notes=0 sig=0xfffbffff
+GET https://vnexpress.net/rss/oto-xe-may.rss/ name=oto-xe-may.rss type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=51651 notes=64 sig=0x4e9be3c5
+GET https://vnexpress.net/rss/so-hoa.rss/ name=so-hoa.rss type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=43267 notes=54 sig=0x87740104
+GET https://vnexpress.net/rss/tam-su.rss/ name=tam-su.rss type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=33761 notes=0 sig=0xfffbffff
+GET https://vnexpress.net/rss/y-kien.rss/ name=y-kien.rss type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=53149 notes=64 sig=0x2ec52b1d
+GET https://vnexpress.net/rss/du-lich.rss name=du-lich.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/gia-dinh.rss name=gia-dinh.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/giai-tri.rss name=giai-tri.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/giao-duc.rss name=giao-duc.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/khoa-hoc.rss name=khoa-hoc.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/kinh-doanh.rss name=kinh-doanh.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/phap-luat.rss name=phap-luat.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/startup.rss name=startup.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/suc-khoe.rss name=suc-khoe.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/the-gioi.rss name=the-gioi.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/the-thao.rss name=the-thao.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/thoi-su.rss name=thoi-su.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/tin-moi-nhat.rss name=tin-moi-nhat.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/tin-noi-bat.rss name=tin-noi-bat.rss type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rss/tin-xem-nhieu.rss name=tin-xem-nhieu.rss type=unknown linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=52431 notes=0 sig=0xffdfffff
+GET https://vnexpress.net/tai-khoan-instagram-cua-messi-khong-co-nguoi-theo-doi-4105634.html name=tai-khoan-instagram-cua-messi-khong-co-nguoi-theo-doi-4105634.html type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=147631 notes=18 sig=0x3e3a50fa
+GET https://vnexpress.net/tiktok-la-ung-dung-kiem-tien-nhieu-nhat-the-gioi-4105262.html name=tiktok-la-ung-dung-kiem-tien-nhieu-nhat-the-gioi-4105262.html type=file linked=yes browsers=0 browser_used=FAST dup=1 code=200 len=150819 notes=2 sig=0x9ced473a
+GET https://vnexpress.net/4-smartphone-duoi-9-trieu-dong-do-suc-4105005.html.net name=4-smartphone-duoi-9-trieu-dong-do-suc-4105005.html.net type=pathinfo linked=no browsers=0 browser_used=FAST dup=0 code=301 len=0 notes=6 sig=0x55bc2dbb
+GET https://vnexpress.net/4-smartphone-duoi-9-trieu-dong-do-suc-4105005.html.rss name=4-smartphone-duoi-9-trieu-dong-do-suc-4105005.html.rss type=pathinfo linked=no browsers=0 browser_used=FAST dup=0 code=301 len=0 notes=6 sig=0x938da1db
+GET https://vnexpress.net/5-tu-lanh-hai-canh-gia-duoi-5-trieu-dong-4105352.html.rss name=5-tu-lanh-hai-canh-gia-duoi-5-trieu-dong-4105352.html.rss type=pathinfo linked=no browsers=0 browser_used=FAST dup=1 code=301 len=0 notes=6 sig=0x938da1db
+GET https://vnexpress.net/diem-yeu-trong-tham-vong-cong-nghe-cua-trung-quoc-4105445.html.net name=diem-yeu-trong-tham-vong-cong-nghe-cua-trung-quoc-4105445.html.net type=pathinfo linked=no browsers=0 browser_used=FAST dup=0 code=301 len=0 notes=5 sig=0x630d028a
+GET https://vnexpress.net/diem-yeu-trong-tham-vong-cong-nghe-cua-trung-quoc-4105445.html.rss name=diem-yeu-trong-tham-vong-cong-nghe-cua-trung-quoc-4105445.html.rss type=pathinfo linked=no browsers=0 browser_used=FAST dup=0 code=301 len=0 notes=6 sig=0x74b46fab
+GET https://vnexpress.net/tai-khoan-instagram-cua-messi-khong-co-nguoi-theo-doi-4105634.html.net name=tai-khoan-instagram-cua-messi-khong-co-nguoi-theo-doi-4105634.html.net type=pathinfo linked=no browsers=0 browser_used=FAST dup=1 code=301 len=0 notes=5 sig=0x630d028a
+GET https://vnexpress.net/tai-khoan-instagram-cua-messi-khong-co-nguoi-theo-doi-4105634.html.rss name=tai-khoan-instagram-cua-messi-khong-co-nguoi-theo-doi-4105634.html.rss type=pathinfo linked=no browsers=0 browser_used=FAST dup=1 code=301 len=0 notes=6 sig=0x938da1db
+GET https://vnexpress.net/10-mau-xe-doi-2019-ton-kho-nhieu-nhat-4106543.html name=10-mau-xe-doi-2019-ton-kho-nhieu-nhat-4106543.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/10-smartphone-pho-bien-nhat-the-gioi-dau-2020-4106575.html name=10-smartphone-pho-bien-nhat-the-gioi-dau-2020-4106575.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/20-hang-xe-khong-ban-duoc-chiec-nao-4104359.html name=20-hang-xe-khong-ban-duoc-chiec-nao-4104359.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/5-thoi-xa-u-xam-pha-m-lo-i-i-ch-co-ng-do-ng-cu-a-nhie-u-nguo-i-vie-t-4102860.html name=5-thoi-xa-u-xam-pha-m-lo-i-i-ch-co-ng-do-ng-cu-a-nhie-u-nguo-i-vie-t-4102860.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/500-trieu-co-the-mua-xe-7-cho-nao-4105138.html name=500-trieu-co-the-mua-xe-7-cho-nao-4105138.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/an-cu-lac-nghiep-khong-lien-quan-mua-nha-hay-o-thue-4105881.html name=an-cu-lac-nghiep-khong-lien-quan-mua-nha-hay-o-thue-4105881.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/anh name=anh type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/anh-trai-trum-ma-tuy-escobar-kien-apple-2-6-ty-usd-4105795.html name=anh-trai-trum-ma-tuy-escobar-kien-apple-2-6-ty-usd-4105795.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/ba-viec-can-lam-de-giao-vien-duoc-tra-luong-xung-dang-4104978.html name=ba-viec-can-lam-de-giao-vien-duoc-tra-luong-xung-dang-4104978.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/ban-be-chi-cot-la-nguoi-song-phang-tien-bac-4103815.html name=ban-be-chi-cot-la-nguoi-song-phang-tien-bac-4103815.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/ban-tot-30-nam-vi-chua-bao-gio-mien-phi-cho-nhau-4104852.html name=ban-tot-30-nam-vi-chua-bao-gio-mien-phi-cho-nhau-4104852.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html name=ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/bat-den-ban-ngay-khong-giup-giam-tai-nan-giao-thong-4105783.html name=bat-den-ban-ngay-khong-giup-giam-tai-nan-giao-thong-4105783.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/bat-den-xe-may-ban-ngay-loi-hay-hai-4105168.html name=bat-den-xe-may-ban-ngay-loi-hay-hai-4105168.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/bay-lon-nhao-trong-oto-vi-khong-that-day-an-toan-4105179.html name=bay-lon-nhao-trong-oto-vi-khong-that-day-an-toan-4105179.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/be-ta-c-vi-no-150-trie-u-do-ng-vay-no-ng-4102864.html name=be-ta-c-vi-no-150-trie-u-do-ng-vay-no-ng-4102864.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/bmw-series-4-sap-ra-mat-voi-luoi-tan-nhiet-khong-lo-4106687.html name=bmw-series-4-sap-ra-mat-voi-luoi-tan-nhiet-khong-lo-4106687.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/bmw-series-5-thay-doi-dien-mao-4105782.html name=bmw-series-5-thay-doi-dien-mao-4105782.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/bo-suu-tap-200-xe-khung-cua-con-trai-trum-bat-dong-san-4106058.html name=bo-suu-tap-200-xe-khung-cua-con-trai-trum-bat-dong-san-4106058.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/boc-khung-sat-chong-trom-cay-sao-khong-dung-camera-4102990.html name=boc-khung-sat-chong-trom-cay-sao-khong-dung-camera-4102990.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/bon-sai-lam-bong-da-cua-bau-duc-4104966.html name=bon-sai-lam-bong-da-cua-bau-duc-4104966.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/bong-ma-deepfake-dang-lan-ra-doi-thuc-4105835.html name=bong-ma-deepfake-dang-lan-ra-doi-thuc-4105835.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cach-ra-vao-oto-an-toan-va-khong-hai-cot-song-4107037.html name=cach-ra-vao-oto-an-toan-va-khong-hai-cot-song-4107037.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cam-vo-lang-dung-cach-theo-cac-chuyen-gia-4105501.html name=cam-vo-lang-dung-cach-theo-cac-chuyen-gia-4105501.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/can-nhac-thien-hoa-hoc-toi-pham-au-dam-4106172.html name=can-nhac-thien-hoa-hoc-toi-pham-au-dam-4106172.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/ceo-twitter-ai-se-de-doa-cong-viec-lap-trinh-vien-4106420.html name=ceo-twitter-ai-se-de-doa-cong-viec-lap-trinh-vien-4106420.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cha-me-ban-dat-cuu-anh-trai-vay-nang-lai-4103612.html name=cha-me-ban-dat-cuu-anh-trai-vay-nang-lai-4103612.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/chan-oto-giup-do-nguoi-di-xe-may-4104811.html name=chan-oto-giup-do-nguoi-di-xe-may-4104811.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/chat-luong-xe-may-dien-vinfast-so-voi-xe-may-xang-4104820.html name=chat-luong-xe-may-dien-vinfast-so-voi-xe-may-xang-4104820.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cho-con-hoc-truong-quoc-te-la-dau-tu-may-rui-4103919.html name=cho-con-hoc-truong-quoc-te-la-dau-tu-may-rui-4103919.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/co-vay-muon-mua-nha-vi-tam-ly-o-tro-4102981.html name=co-vay-muon-mua-nha-vi-tam-ly-o-tro-4102981.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/co-voucher-350-trieu-nen-mua-lux-sa-2-0-4107113.html name=co-voucher-350-trieu-nen-mua-lux-sa-2-0-4107113.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/con-toi-khong-hoc-truong-quoc-te-van-gianh-hoc-bong-90-tai-my-4103446.html name=con-toi-khong-hoc-truong-quoc-te-van-gianh-hoc-bong-90-tai-my-4103446.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cong-ty-me-tiktok-am-tham-roi-trung-quoc-4107132.html name=cong-ty-me-tiktok-am-tham-roi-trung-quoc-4107132.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/corolla-altis-2-0v-2016-gia-750-trieu-co-hop-ly-4107101.html name=corolla-altis-2-0v-2016-gia-750-trieu-co-hop-ly-4107101.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cuoi name=cuoi type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cuoi/anh name=anh type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cuoi/tieu-pham name=tieu-pham type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cuoi/video name=video type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/cyber-security-la-chan-thong-tin-doanh-nghiep-4106285.html name=cyber-security-la-chan-thong-tin-doanh-nghiep-4106285.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/dai-gia-viet-doi-porsche-mercedes-lay-xe-vinfast-4105790.html name=dai-gia-viet-doi-porsche-mercedes-lay-xe-vinfast-4105790.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/dam-dong-ho-nhau-khieng-oto-chan-duong-xe-cuu-hoa-4105509.html name=dam-dong-ho-nhau-khieng-oto-chan-duong-xe-cuu-hoa-4105509.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/danh-gia-tv-8k-samsung-q950ts-4105051.html name=danh-gia-tv-8k-samsung-q950ts-4105051.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/day-sao-do-khong-dung-quyen-luc-de-bat-nat-4104407.html name=day-sao-do-khong-dung-quyen-luc-de-bat-nat-4104407.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/dien-thoai-can-cao-cap-dua-giam-gia-4106188.html name=dien-thoai-can-cao-cap-dua-giam-gia-4106188.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/dieu-luat-230-bao-ve-cac-cong-ty-internet-cua-my-the-nao-4107133.html name=dieu-luat-230-bao-ve-cac-cong-ty-internet-cua-my-the-nao-4107133.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/doi-dep-450-nghin-dong-vo-toi-mac-ca-con-150-nghin-4103688.html name=doi-dep-450-nghin-dong-vo-toi-mac-ca-con-150-nghin-4103688.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/doi-song name=doi-song type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/doi-song/bai-hoc-song name=bai-hoc-song type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/doi-song/nha name=nha type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/doi-song/tieu-dung name=tieu-dung type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/doi-song/to-am name=to-am type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/du-lich name=du-lich type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/du-lich/anh-video name=anh-video type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/du-lich/cam-nang name=cam-nang type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/du-lich/dau-chan name=dau-chan type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/du-lich/diem-den name=diem-den type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/du-lich/tu-van name=tu-van type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/dung-oto-sua-xe-dap-cho-tre-nho-tren-duong-4101854.html name=dung-oto-sua-xe-dap-cho-tre-nho-tren-duong-4101854.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/dung-xe-khong-can-vi-pham-de-cho-csgt-kho-cho-tai-xe-4104049.html name=dung-xe-khong-can-vi-pham-de-cho-csgt-kho-cho-tai-xe-4104049.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/elon-musk-nguoi-hung-nhieu-tai-tieng-4105602.html name=elon-musk-nguoi-hung-nhieu-tai-tieng-4105602.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/facebook-bi-to-dung-tung-noi-dung-bat-hop-phap-4106704.html name=facebook-bi-to-dung-tung-noi-dung-bat-hop-phap-4106704.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/facebook-ra-ung-dung-collab-canh-tranh-voi-tiktok-4106389.html name=facebook-ra-ung-dung-collab-canh-tranh-voi-tiktok-4106389.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/gia-dinh name=gia-dinh type=unknown linked=yes browsers=0 browser_used=FAST dup=0 returns_404 code=302 len=0 notes=0 sig=0xffdfffff
+GET https://vnexpress.net/giai-phap-in-laser-tiet-kiem-cua-hp-4101788.html name=giai-phap-in-laser-tiet-kiem-cua-hp-4101788.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giai-tri name=giai-tri type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giai-tri/gioi-sao name=gioi-sao type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giai-tri/lam-dep name=lam-dep type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giai-tri/nhac name=nhac type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giai-tri/phim name=phim type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giai-tri/sach name=sach type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giai-tri/san-khau-my-thuat name=san-khau-my-thuat type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giai-tri/thoi-trang name=thoi-trang type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giao-duc name=giao-duc type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giao-duc/du-hoc name=du-hoc type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giao-duc/giao-duc-40 name=giao-duc-40 type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giao-duc/hoc-tieng-anh name=hoc-tieng-anh type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giao-duc/trac-nghiem name=trac-nghiem type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/giao-duc/tuyen-sinh name=tuyen-sinh type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/gioi-cong-nghe-lo-sac-lenh-cua-trump-gay-tac-dung-nguoc-4107125.html name=gioi-cong-nghe-lo-sac-lenh-cua-trump-gay-tac-dung-nguoc-4107125.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/goc-nhin name=goc-nhin type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/google-bi-kien-vi-theo-doi-vi-tri-nguoi-dung-android-4106500.html name=google-bi-kien-vi-theo-doi-vi-tri-nguoi-dung-android-4106500.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/google-ho-tro-1-000-usd-cho-moi-nhan-vien-lam-viec-tu-xa-4106196.html name=google-ho-tro-1-000-usd-cho-moi-nhan-vien-lam-viec-tu-xa-4106196.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/google-microsoft-bi-to-tiep-tay-cho-cong-ty-giam-sat-trung-quoc-4105973.html name=google-microsoft-bi-to-tiep-tay-cho-cong-ty-giam-sat-trung-quoc-4105973.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/hagl-ngup-lan-vi-bau-duc-ham-xuat-khau-cau-thu-4106046.html name=hagl-ngup-lan-vi-bau-duc-ham-xuat-khau-cau-thu-4106046.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/hang-chau-danh-gia-loi-song-nguoi-dan-bang-qr-code-4105568.html name=hang-chau-danh-gia-loi-song-nguoi-dan-bang-qr-code-4105568.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/hang-cho-thue-xe-tra-thuong-trieu-do-truoc-khi-pha-san-4106626.html name=hang-cho-thue-xe-tra-thuong-trieu-do-truoc-khi-pha-san-4106626.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/hang-tram-nghin-oto-cho-thue-sap-do-bo-thi-truong-xe-cu-4104730.html name=hang-tram-nghin-oto-cho-thue-sap-do-bo-thi-truong-xe-cu-4104730.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/hang-xom-nhet-bot-xop-vao-ong-xa-xe-ford-mustang-4104604.html name=hang-xom-nhet-bot-xop-vao-ong-xa-xe-ford-mustang-4104604.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/hieu-ro-khai-niem-moto-theo-luat-4104543.html name=hieu-ro-khai-niem-moto-theo-luat-4104543.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/hoc-truong-quoc-te-chi-vi-muon-con-du-hoc-4103114.html name=hoc-truong-quoc-te-chi-vi-muon-con-du-hoc-4103114.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/infographics name=infographics type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/iphone-12-se-ra-mat-vao-thang-11-4106386.html name=iphone-12-se-ra-mat-vao-thang-11-4106386.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/iphone-13-se-khong-co-cong-vat-ly-4106584.html name=iphone-13-se-khong-co-cong-vat-ly-4106584.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html name=ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khach-mua-oto-tiet-kiem-bao-nhieu-tien-neu-truoc-ba-giam-50-4105477.html name=khach-mua-oto-tiet-kiem-bao-nhieu-tien-neu-truoc-ba-giam-50-4105477.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khi-cha-me-khong-muon-ket-ban-voi-con-tren-facebook-4106052.html name=khi-cha-me-khong-muon-ket-ban-voi-con-tren-facebook-4106052.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khoa-hoc name=khoa-hoc type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khoa-hoc/chuyen-la name=chuyen-la type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khoa-hoc/hoi-dap name=hoi-dap type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khoa-hoc/the-gioi-dong-vat name=the-gioi-dong-vat type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khoa-hoc/thuong-thuc name=thuong-thuc type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khoa-hoc/trong-nuoc name=trong-nuoc type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/khong-nen-trong-cay-phuong-trong-san-truong-4106596.html name=khong-nen-trong-cay-phuong-trong-san-truong-4106596.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kia-rio-2021-lan-dau-dung-cong-nghe-hybrid-4105708.html name=kia-rio-2021-lan-dau-dung-cong-nghe-hybrid-4105708.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kiem-soat-khi-thai-xe-may-lam-ngay-di-4105470.html name=kiem-soat-khi-thai-xe-may-lam-ngay-di-4105470.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh name=kinh-doanh type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/bat-dong-san name=bat-dong-san type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/chung-khoan name=chung-khoan type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/doanh-nghiep name=doanh-nghiep type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/ebank name=ebank type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/hang-hoa name=hang-hoa type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/quoc-te name=quoc-te type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/thuong-mai-dien-tu name=thuong-mai-dien-tu type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/tien-cua-toi name=tien-cua-toi type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-doanh/vi-mo name=vi-mo type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/kinh-te-mat-can-bang-vi-dong-tien-do-vao-bat-dong-san-4104863.html name=kinh-te-mat-can-bang-vi-dong-tien-do-vao-bat-dong-san-4104863.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/lam-them-giup-toi-bot-ao-tuong-ban-than-4105174.html name=lam-them-giup-toi-bot-ao-tuong-ban-than-4105174.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/land-cruiser-gia-500-trieu-do-1-5-ty-dong-do-choi-4105268.html name=land-cruiser-gia-500-trieu-do-1-5-ty-dong-do-choi-4105268.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/lexus-lx570-sau-10-nam-bieu-tuong-ben-bi-cua-dai-gia-viet-4104497.html name=lexus-lx570-sau-10-nam-bieu-tuong-ben-bi-cua-dai-gia-viet-4104497.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/lg-bi-chi-trich-vi-video-chup-len-co-gai-4105140.html.rss name=lg-bi-chi-trich-vi-video-chup-len-co-gai-4105140.html.rss type=unknown linked=no browsers=0 browser_used=FAST dup=0 code=301 len=0 notes=1 sig=0xffdfffff
+GET https://vnexpress.net/loat-laptop-cho-dan-van-phong-tu-10-trieu-dong-4105287.html name=loat-laptop-cho-dan-van-phong-tu-10-trieu-dong-4105287.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/loat-tv-4k-55-inch-gia-10-trieu-dong-4107026.html name=loat-tv-4k-55-inch-gia-10-trieu-dong-4107026.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/luong-thap-nhung-co-nha-oto-nho-biet-lo-xa-4106774.html name=luong-thap-nhung-co-nha-oto-nho-biet-lo-xa-4106774.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/luyen-giai-de-khien-hoc-sinh-thanh-ga-choi-4103547.html name=luyen-giai-de-khien-hoc-sinh-thanh-ga-choi-4103547.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/mang-internet-nhanh-nhat-the-gioi-toc-do-44-2-tb-giay-4105432.html name=mang-internet-nhanh-nhat-the-gioi-toc-do-44-2-tb-giay-4105432.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/mark-zuckerberg-co-phan-biet-facebook-voi-twitter-4107058.html name=mark-zuckerberg-co-phan-biet-facebook-voi-twitter-4107058.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/mark-zuckerberg-mang-xa-hoi-khong-nen-lam-trong-tai-4107163.html name=mark-zuckerberg-mang-xa-hoi-khong-nen-lam-trong-tai-4107163.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/mercedes-s-class-the-he-moi-sua-luoi-tan-nhiet-va-den-pha-4105311.html name=mercedes-s-class-the-he-moi-sua-luoi-tan-nhiet-va-den-pha-4105311.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/mercedes-vrc-oto-bien-hinh-nhu-robot-4105431.html name=mercedes-vrc-oto-bien-hinh-nhu-robot-4105431.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/mitsubishi-attrage-lua-chon-vua-mieng-cho-lan-dau-mua-xe-4106366.html name=mitsubishi-attrage-lua-chon-vua-mieng-cho-lan-dau-mua-xe-4106366.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/mitsubishi-outlander-2020-xe-gia-dinh-thuc-dung-4104866.html name=mitsubishi-outlander-2020-xe-gia-dinh-thuc-dung-4104866.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/motor-image-viet-nam-khai-truong-dai-ly-subaru-thu-hai-tai-can-tho-4105476.html name=motor-image-viet-nam-khai-truong-dai-ly-subaru-thu-hai-tai-can-tho-4105476.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/mua-bao-hiem-xe-may-khong-vi-mong-boi-thuong-4105949.html name=mua-bao-hiem-xe-may-khong-vi-mong-boi-thuong-4105949.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nen-bo-to-sao-do-trong-truong-hoc-4104305.html name=nen-bo-to-sao-do-trong-truong-hoc-4104305.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nen-mua-cr-v-ban-g-hay-sorento-may-dau-4105147.html name=nen-mua-cr-v-ban-g-hay-sorento-may-dau-4105147.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html name=nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nguoi-chong-tinh-te-se-dua-luong-cho-vo-giu-4106648.html name=nguoi-chong-tinh-te-se-dua-luong-cho-vo-giu-4106648.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nguoi-mua-oto-luon-o-keo-duoi-so-voi-dai-ly-4104339.html name=nguoi-mua-oto-luon-o-keo-duoi-so-voi-dai-ly-4104339.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nguoi-nhen-se-dung-xe-hyundai-thay-cho-audi-4107141.html name=nguoi-nhen-se-dung-xe-hyundai-thay-cho-audi-4107141.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nguoi-phu-nu-nga-khoi-xe-may-khi-trong-thay-canh-sat-4107076.html name=nguoi-phu-nu-nga-khoi-xe-may-khi-trong-thay-canh-sat-4107076.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html name=nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nhu-cau-phan-mem-vpn-tai-hong-kong-tang-vot-4105902.html name=nhu-cau-phan-mem-vpn-tai-hong-kong-tang-vot-4105902.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nhung-giao-vien-cam-bang-dai-hoc-huong-luong-trung-cap-4103962.html name=nhung-giao-vien-cam-bang-dai-hoc-huong-luong-trung-cap-4103962.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nhung-quy-dinh-moi-ve-taxi-cong-nghe-4104627.html name=nhung-quy-dinh-moi-ve-taxi-cong-nghe-4104627.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nhung-smartphone-sac-nhanh-nhat-the-gioi-4105498.html name=nhung-smartphone-sac-nhanh-nhat-the-gioi-4105498.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nhung-thiet-bi-dien-tu-cai-thien-chat-luong-khong-khi-trong-nha-4105213.html name=nhung-thiet-bi-dien-tu-cai-thien-chat-luong-khong-khi-trong-nha-4105213.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nissan-renault-mitsubishi-tua-nhau-ma-song-4105335.html name=nissan-renault-mitsubishi-tua-nhau-ma-song-4105335.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/nissan-teana-2011-gia-380-trieu-nen-mua-4105139.html name=nissan-teana-2011-gia-380-trieu-nen-mua-4105139.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-di-nguoc-duong-bi-ep-lui-4104628.html name=oto-di-nguoc-duong-bi-ep-lui-4104628.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-dien-rong-duong-san-xuat-tai-viet-nam-4107336.html name=oto-dien-rong-duong-san-xuat-tai-viet-nam-4107336.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-gap-doi-nhu-to-giay-khi-dam-cot-dien-4105226.html name=oto-gap-doi-nhu-to-giay-khi-dam-cot-dien-4105226.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-go-cua-nghe-nhan-viet-4106620.html name=oto-go-cua-nghe-nhan-viet-4106620.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-xe-may name=oto-xe-may type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-xe-may/dien-dan name=dien-dan type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-xe-may/thi-bang-lai name=thi-bang-lai type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-xe-may/thi-truong name=thi-truong type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/oto-xe-may/tu-van name=tu-van type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/pha-t-minh-bu-t-chi-cho-hoc-sinh-viet-4104486.html name=pha-t-minh-bu-t-chi-cho-hoc-sinh-viet-4104486.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/phap-luat name=phap-luat type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/phap-luat/ho-so-pha-an name=ho-so-pha-an type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/phap-luat/tu-van name=tu-van type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/phat-cay-xang-gam-hang-30-trieu-dong-khong-du-suc-ran-de-4106679.html name=phat-cay-xang-gam-hang-30-trieu-dong-khong-du-suc-ran-de-4106679.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/quay-dau-o-vach-lien-mau-vang-bi-phat-the-nao-4106688.html name=quay-dau-o-vach-lien-mau-vang-bi-phat-the-nao-4106688.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/range-rover-velar-quy-toc-hien-lanh-4106455.html name=range-rover-velar-quy-toc-hien-lanh-4106455.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/rua-ghim-xuyen-kinh-lai-oto-dang-chay-4106529.html name=rua-ghim-xuyen-kinh-lai-oto-dang-chay-4106529.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/sai-gon-thieu-cong-vien-vi-gia-dat-qua-cao-4104348.html name=sai-gon-thieu-cong-vien-vi-gia-dat-qua-cao-4104348.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/sai-lam-co-ban-bang-moi-gia-cua-nguoi-ban-hang-online-4105225.html name=sai-lam-co-ban-bang-moi-gia-cua-nguoi-ban-hang-online-4105225.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/samsung-bat-dau-san-xuat-chip-cho-galaxy-note20-4106907.html name=samsung-bat-dau-san-xuat-chip-cho-galaxy-note20-4106907.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/santa-fe-lo-thiet-ke-moi-4105256.html name=santa-fe-lo-thiet-ke-moi-4105256.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/smartphone-4-camera-gia-duoi-5-trieu-dong-4106194.html name=smartphone-4-camera-gia-duoi-5-trieu-dong-4106194.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/smartphone-tot-nhat-the-gioi-nua-dau-2020-4106135.html name=smartphone-tot-nhat-the-gioi-nua-dau-2020-4106135.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-hoa name=so-hoa type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-hoa/dien-tu-gia-dung name=dien-tu-gia-dung type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-hoa/doi-song-so name=doi-song-so type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-hoa/kinh-nghiem name=kinh-nghiem type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-hoa/mot-ngay-tru-mua-tranh-nang-qua-ong-kinh-reno3-4105323.html name=mot-ngay-tru-mua-tranh-nang-qua-ong-kinh-reno3-4105323.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-hoa/reno3-seflie-thieu-sang-net-khong-kem-camera-sau-4107401.html name=reno3-seflie-thieu-sang-net-khong-kem-camera-sau-4107401.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-hoa/san-pham name=san-pham type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-hoa/video name=video type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/so-sanh-he-thong-treo-toyota-land-cruiser-va-lexus-lx570-4104940.html name=so-sanh-he-thong-treo-toyota-land-cruiser-va-lexus-lx570-4104940.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-hut-tu-tv-tran-vien-99-dau-tien-tren-the-gioi-4107273.html name=suc-hut-tu-tv-tran-vien-99-dau-tien-tren-the-gioi-4107273.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-khoe name=suc-khoe type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-khoe/cac-benh name=cac-benh type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-khoe/dan-ong name=dan-ong type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-khoe/dinh-duong name=dinh-duong type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-khoe/khoe-dep name=khoe-dep type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-khoe/tin-tuc name=tin-tuc type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-khoe/tu-van name=tu-van type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/suc-khoe/ung-thu name=ung-thu type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tai-xe-tu-thu-yeu-xe-hon-yeu-vo-4104326.html name=tai-xe-tu-thu-yeu-xe-hon-yeu-vo-4104326.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tam-su name=tam-su type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tam-su/chuyen-gia-go-roi name=chuyen-gia-go-roi type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tam-su/hen-ho name=hen-ho type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tay-lai-xe-phan-khoi-lon-tron-ve-bi-barie-quat-nga-4103601.html name=tay-lai-xe-phan-khoi-lon-tron-ve-bi-barie-quat-nga-4103601.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/thanh-nien-do-duong-vi-hai-hoc-sinh-ai-sai-4105448.html name=thanh-nien-do-duong-vi-hai-hoc-sinh-ai-sai-4105448.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/thay-co-so-sanh-che-bai-hoc-sinh-yeu-4106972.html name=thay-co-so-sanh-che-bai-hoc-sinh-yeu-4106972.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-gioi name=the-gioi type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-gioi/cuoc-song-do-day name=cuoc-song-do-day type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-gioi/nguoi-viet-5-chau name=nguoi-viet-5-chau type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-gioi/phan-tich name=phan-tich type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-gioi/quan-su name=quan-su type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-gioi/tu-lieu name=tu-lieu type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao name=the-thao type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/bong-da name=bong-da type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/cac-mon-khac name=cac-mon-khac type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/du-lieu-bong-da name=du-lieu-bong-da type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/f1 name=f1 type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/hau-truong name=hau-truong type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/photo name=photo type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/tennis name=tennis type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/tuong-thuat name=tuong-thuat type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/the-thao/video name=video type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/thoi-su name=thoi-su type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/thoi-su/giao-thong name=giao-thong type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/thoi-su/mekong name=mekong type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/thoi-su/nong-nghiep-sach name=nong-nghiep-sach type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tin-nong name=tin-nong type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tin-tuc-24h name=tin-tuc-24h type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tin-xem-nhieu name=tin-xem-nhieu type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/toi-bi-hang-xom-doi-100-trieu-vi-xay-lan-1-75-m2-dat-4105639.html name=toi-bi-hang-xom-doi-100-trieu-vi-xay-lan-1-75-m2-dat-4105639.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/toi-dam-me-y-duoc-nhung-hai-long-lam-giao-vien-tieng-anh-4103379.html name=toi-dam-me-y-duoc-nhung-hai-long-lam-giao-vien-tieng-anh-4103379.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/toi-doi-boi-thuong-bao-hiem-xe-may-thanh-cong-nhu-the-nao-4103623.html name=toi-doi-boi-thuong-bao-hiem-xe-may-thanh-cong-nhu-the-nao-4103623.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/toi-muon-ngan-can-khi-ai-do-dinh-lam-giao-vien-4105734.html name=toi-muon-ngan-can-khi-ai-do-dinh-lam-giao-vien-4105734.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/toi-tim-duoc-viec-o-chau-au-nhu-the-nao-4104605.html name=toi-tim-duoc-viec-o-chau-au-nhu-the-nao-4104605.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/toi-tin-giac-mo-cua-bau-duc-4106490.html name=toi-tin-giac-mo-cua-bau-duc-4106490.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/toi-tra-no-3-500-usd-moi-thang-de-mua-nha-4105374.html name=toi-tra-no-3-500-usd-moi-thang-de-mua-nha-4105374.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/toyota-land-prado-2013-gia-1-45-ty-nen-mua-4107123.html name=toyota-land-prado-2013-gia-1-45-ty-nen-mua-4107123.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tre-di-hoc-som-gio-xay-ra-chuyen-ai-chiu-trach-nhiem-4104673.html name=tre-di-hoc-som-gio-xay-ra-chuyen-ai-chiu-trach-nhiem-4104673.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tro-ngai-lon-nhat-cua-huawei-khong-phai-la-chip-4106800.html name=tro-ngai-lon-nhat-cua-huawei-khong-phai-la-chip-4106800.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html name=tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/ung-xu-linh-hoat-de-hoc-sinh-khong-phai-dung-nang-4103580.html name=ung-xu-linh-hoat-de-hoc-sinh-khong-phai-dung-nang-4103580.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vaccine name=vaccine type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vat-lon-xin-cap-so-do-khi-86-nguoi-dan-hai-long-voi-cong-chuc-4104653.html name=vat-lon-xin-cap-so-do-khi-86-nguoi-dan-hai-long-voi-cong-chuc-4104653.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vay-mot-ty-dong-mua-nha-sai-gon-hay-dat-binh-duong-4104395.html name=vay-mot-ty-dong-mua-nha-sai-gon-hay-dat-binh-duong-4104395.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vay-ngan-hang-50-mua-nha-co-lieu-linh-4102557.html name=vay-ngan-hang-50-mua-nha-co-lieu-linh-4102557.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vi-sao-internet-di-dong-van-nhanh-du-dut-cap-4105578.html name=vi-sao-internet-di-dong-van-nhanh-du-dut-cap-4105578.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/viet-nam-khong-can-vo-dich-aff-cup-2020-bang-moi-gia-4104925.html name=viet-nam-khong-can-vo-dich-aff-cup-2020-bang-moi-gia-4104925.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/viet-nam-tron-tinh-nghia-voi-benh-nhan-phi-cong-4103002.html name=viet-nam-tron-tinh-nghia-voi-benh-nhan-phi-cong-4103002.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vinfast-chay-thu-oto-dien-4106624.html name=vinfast-chay-thu-oto-dien-4106624.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vinfast-hop-tac-dao-tao-nhan-luc-nganh-co-dien-oto-4107122.html name=vinfast-hop-tac-dao-tao-nhan-luc-nganh-co-dien-oto-4107122.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vinsmart-ban-duoc-1-2-trieu-smartphone-4106452.html name=vinsmart-ban-duoc-1-2-trieu-smartphone-4106452.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vo-chong-tien-ai-nay-giu-4106809.html name=vo-chong-tien-ai-nay-giu-4106809.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vo-co-truyen-that-the-mma-vi-khong-con-vu-khi-4104133.html name=vo-co-truyen-that-the-mma-vi-khong-con-vu-khi-4104133.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vo-kiem-tien-gioi-cung-khong-the-ep-chong-lo-viec-nha-4105353.html name=vo-kiem-tien-gioi-cung-khong-the-ep-chong-lo-viec-nha-4105353.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/vo-mong-cong-vien-o-sai-gon-4104729.html name=vo-mong-cong-vien-o-sai-gon-4104729.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/von-20-trieu-kinh-doanh-gi-de-tang-thu-nhap-sau-covid-19-4107098.html name=von-20-trieu-kinh-doanh-gi-de-tang-thu-nhap-sau-covid-19-4107098.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/world-cup-2022 name=world-cup-2022 type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xay-dung-quy-trinh-an-toan-truong-hoc-sau-vu-cay-de-13-hoc-sinh-4105517.html name=xay-dung-quy-trinh-an-toan-truong-hoc-sau-vu-cay-de-13-hoc-sinh-4105517.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xe name=xe type=unknown linked=yes browsers=0 browser_used=FAST dup=1 returns_404 code=302 len=0 notes=0 sig=0xffdfffff
+GET https://vnexpress.net/xe-ban-tai-dut-doi-sau-cu-dam-4106179.html name=xe-ban-tai-dut-doi-sau-cu-dam-4106179.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xe-ben-trong-tai-300-tan-chay-bang-dien-4104531.html name=xe-ben-trong-tai-300-tan-chay-bang-dien-4104531.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xe-khach-vuot-au-tren-cau-phong-qua-den-do-4107352.html name=xe-khach-vuot-au-tren-cau-phong-qua-den-do-4107352.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xe-may-bat-den-ban-ngay-ton-bao-nhieu-tien-xang-4105818.html name=xe-may-bat-den-ban-ngay-ton-bao-nhieu-tien-xang-4105818.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xe-may-cho-hai-dua-tre-suyt-dau-dau-oto-4106578.html name=xe-may-cho-hai-dua-tre-suyt-dau-dau-oto-4106578.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xe-may-dang-rut-ho-so-duoc-phep-luu-thong-4105196.html name=xe-may-dang-rut-ho-so-duoc-phep-luu-thong-4105196.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xe-tai-lao-qua-den-do-giua-duong-dong-duc-4105825.html name=xe-tai-lao-qua-den-do-giua-duong-dong-duc-4105825.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xe-tai-phong-nguoc-chieu-tren-cao-toc-4105271.html name=xe-tai-phong-nguoc-chieu-tren-cao-toc-4105271.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xiaomi-co-the-ngung-san-xuat-smartphone-4g-tu-2020-4106315.html name=xiaomi-co-the-ngung-san-xuat-smartphone-4g-tu-2020-4106315.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/xiaomi-hoi-sinh-dong-smartphone-sat-thu-phan-cung-4105687.html name=xiaomi-hoi-sinh-dong-smartphone-sat-thu-phan-cung-4105687.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/y-kien name=y-kien type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/y-nghia-ten-goi-nhung-oto-pho-bien-tai-viet-nam-4105998.html name=y-nghia-ten-goi-nhung-oto-pho-bien-tai-viet-nam-4105998.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched
+GET https://vnexpress.net/youtube-xoa-binh-luan-noi-xau-chinh-quyen-trung-quoc-4105808.html name=youtube-xoa-binh-luan-noi-xau-chinh-quyen-trung-quoc-4105808.html type=unknown linked=yes browsers=0 browser_used=FAST not_fetched

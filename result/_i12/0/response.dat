@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:34 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Set-Cookie: device_env=4; Expires=Fri, 29 May 2020 18:48:34; Domain=.vnexpress.net; Path=/
+
+[...truncated...]

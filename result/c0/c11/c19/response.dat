@@ -1,0 +1,512 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 11977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 11177whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: EXPIRED
+xdCache: EXPIRED
+Server: 16577whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Tin xem nhiều - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:48:35 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/tin-xem-nhieu.rss</link>
+    <item>
+      <title>Cây đổ, đè 18 học sinh</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cay-do-de-18-hoc-sinh-4105143.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/cye13hocsinh6-1590465043-9906-1590465208.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=s0jVYNvp9dVu-r-moHTDkQ" ></a></br> Cây phượng cổ thụ trong sân trường THCS Bạch Đằng, quận 3, bất ngờ bật gốc, đè 18 học sinh lớp 6 khiến một em tử vong, sáng 26/5. ]]></description>
+      <pubDate>Tue, 26 May 2020 08:15:29 +0700</pubDate>
+      <link>https://vnexpress.net/cay-do-de-18-hoc-sinh-4105143.html</link>
+      <guid>https://vnexpress.net/cay-do-de-18-hoc-sinh-4105143.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Lão nông nghèo canh gác dự án tỷ đô</title>
+      <description><![CDATA[<a href="https://vnexpress.net/lao-nong-ngheo-canh-gac-du-an-ty-do-4104248.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/Phamtanluc-1590426174-3715-1590426193.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2MWRsQd8DIwAokh4H2TcSg" ></a></br>5 năm qua, trên cao tốc Đà Nẵng - Quảng Ngãi, diễn ra cuộc đối đầu giữa một lão nông nghèo và một nhà thầu có doanh thu hàng năm 7 tỷ nhân dân     tệ. ]]></description>
+      <pubDate>Wed, 27 May 2020 05:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/lao-nong-ngheo-canh-gac-du-an-ty-do-4104248.html</link>
+      <guid>https://vnexpress.net/lao-nong-ngheo-canh-gac-du-an-ty-do-4104248.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hiệu trưởng: 'Cây đổ trong trường là trách nhiệm của tôi'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hieu-truong-cay-do-trong-truong-la-trach-nhiem-cua-toi-4105373.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/NguyenVanPhucHieutruongQ3JPG-1-5914-2271-1590486276.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=3Yt_42sPxLNmwhsbSlPiwQ" ></a></br>Ông Nguyễn Vạn Phúc, Hiệu trưởng THCS Bạch Đằng, giọng day dứt khi nhận trách nhiệm về việc cây phượng đổ, đè 18 học sinh khiến một em tử vong. ]]></description>
+      <pubDate>Tue, 26 May 2020 16:05:30 +0700</pubDate>
+      <link>https://vnexpress.net/hieu-truong-cay-do-trong-truong-la-trach-nhiem-cua-toi-4105373.html</link>
+      <guid>https://vnexpress.net/hieu-truong-cay-do-trong-truong-la-trach-nhiem-cua-toi-4105373.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Lam Trường thắng kiện</title>
+      <description><![CDATA[<a href="https://vnexpress.net/lam-truong-thang-kien-4105048.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/lamtruong-1590424339-7260-1590424367.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=dVxyePWMdGXFP3mWcWjoaA" ></a></br>Ca sĩ Lam Trường và người thân cho rằng, anh trai tự ý bán tài sản chung của gia đình - gần 4.000 m2 đất ở quận 9, là không đúng, và được toà chấp nhận.]]></description>
+      <pubDate>Tue, 26 May 2020 00:05:00 +0700</pubDate>
+      <link>https://vnexpress.net/lam-truong-thang-kien-4105048.html</link>
+      <guid>https://vnexpress.net/lam-truong-thang-kien-4105048.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cây phượng bật gốc, đè học sinh trong 5 giây</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/thoi-su/cay-phuong-bat-goc-de-hoc-sinh-trong-5-giay-4105850.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/cameracaydodehocsinh159055-159-5117-1308-1590634655.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=a_j7DaCDP1RzjQ40pUM5cg" ></a></br>Camera ghi lại khoảnh khắc cây phượng cao hơn 10 mét bật gốc, đè 18 học sinh trường THCS Bạch Đằng, quận 3 đang ngồi ăn sáng, hôm 26/5.]]></description>
+      <pubDate>Wed, 27 May 2020 10:22:39 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/thoi-su/cay-phuong-bat-goc-de-hoc-sinh-trong-5-giay-4105850.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/thoi-su/cay-phuong-bat-goc-de-hoc-sinh-trong-5-giay-4105850.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nước tràn xuống hạ du sau vỡ đập</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/thoi-su/nuoc-tran-xuong-ha-du-sau-vo-dap-4106657.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/STREAM4-1590643860-7848-1590643895.gif?w=900&h=0&q=100&dpr=1&fit=crop&s=wZncnegIffjbSFjK5UxdBw" ></a></br> Hàng trăm nghìn m3 nước chảy tràn xuống hạ du sau khi vỡ đập Đầm Thìn lúc 7h sáng 28/5, khiến chính quyền phải sơ tán dân. ]]></description>
+      <pubDate>Thu, 28 May 2020 12:56:52 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/thoi-su/nuoc-tran-xuong-ha-du-sau-vo-dap-4106657.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/thoi-su/nuoc-tran-xuong-ha-du-sau-vo-dap-4106657.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người đàn ông chuyển giới Việt đầu tiên sinh con</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-dan-ong-chuyen-gioi-viet-dau-tien-sinh-con-4105257.html"><img src="https://i1-suckhoe.vnecdn.net/2020/05/26/vnexpressnguoidanongchuyengioi-6067-1236-1590503474.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=byngZgx2fg_nuELKtio7IA" ></a></br>Minh Khang, 24 tuổi, ở Đồng Tháp, là người chuyển giới nam, thụ thai tự nhiên và vừa sinh thường một bé gái thành công.]]></description>
+      <pubDate>Wed, 27 May 2020 00:02:00 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-dan-ong-chuyen-gioi-viet-dau-tien-sinh-con-4105257.html</link>
+      <guid>https://vnexpress.net/nguoi-dan-ong-chuyen-gioi-viet-dau-tien-sinh-con-4105257.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Thi thử 15 bộ đề lý thuyết bằng lái ôtô</title>
+      <description><![CDATA[<a href="https://vnexpress.net/interactive/2016/thi-sat-hach-lai-xe"><img src="https://i1-vnexpress.vnecdn.net/2017/10/20/sat-hach-ly-thuyet-bang-lai-oto-b2-1508516555.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Pt0TIZ7AtlteeeJPYqb8Dw" ></a></br>15 bộ đề, kèm gợi ý đáp án đúng và câu hỏi thường gặp dành cho người chuẩn bị thi bằng lái B2.]]></description>
+      <pubDate>Fri, 20 Oct 2017 23:23:20 +0700</pubDate>
+      <link>https://vnexpress.net/interactive/2016/thi-sat-hach-lai-xe</link>
+      <guid>https://vnexpress.net/interactive/2016/thi-sat-hach-lai-xe</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hậu quả nếu Mỹ hủy 'trạng thái đặc biệt' của Hong Kong</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hau-qua-neu-my-huy-trang-thai-dac-biet-cua-hong-kong-4106440.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/medium20200527d8a438cd5a-15906-9109-8222-1590648507.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=hp9sgaPS4iKCIx4FrYFNZQ" ></a></br>Mỹ có thể hủy trạng thái đặc biệt của Hong Kong khi Trung Quốc thông qua luật an ninh mới, khiến lợi ích các bên đều bị ảnh hưởng.]]></description>
+      <pubDate>Thu, 28 May 2020 14:45:05 +0700</pubDate>
+      <link>https://vnexpress.net/hau-qua-neu-my-huy-trang-thai-dac-biet-cua-hong-kong-4106440.html</link>
+      <guid>https://vnexpress.net/hau-qua-neu-my-huy-trang-thai-dac-biet-cua-hong-kong-4106440.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vỡ đập ở Phú Thọ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-dap-o-phu-tho-4106606.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/992927085361585803983718639174-2522-9454-1590640461.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tCh9cbZy6_o6Jfr5PeBgyg" ></a></br>Đập Đầm Thìn rộng hơn 15 ha, chứa khoảng 600.000 m3 nước ở xã Cấp Dẫn, huyện Cẩm Khê, tỉnh Phú Thọ bị vỡ lúc 7h sáng 28/5.]]></description>
+      <pubDate>Thu, 28 May 2020 11:35:08 +0700</pubDate>
+      <link>https://vnexpress.net/vo-dap-o-phu-tho-4106606.html</link>
+      <guid>https://vnexpress.net/vo-dap-o-phu-tho-4106606.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>5 đại án được yêu cầu điều tra xong trong năm 2020</title>
+      <description><![CDATA[<a href="https://vnexpress.net/5-dai-an-duoc-yeu-cau-dieu-tra-xong-trong-nam-2020-4105366.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/settop1-1590483006-5600-1590483043.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mHF5ary0dPeMVkGfNtatQw" ></a></br>Ban Chỉ đạo Trung ương về phòng, chống tham nhũng yêu cầu tập trung điều tra, xử lý cá nhân liên quan vụ án Nhật Cường, Sabeco, Sagri, Gang thép Thái Nguyên...]]></description>
+      <pubDate>Tue, 26 May 2020 13:37:45 +0700</pubDate>
+      <link>https://vnexpress.net/5-dai-an-duoc-yeu-cau-dieu-tra-xong-trong-nam-2020-4105366.html</link>
+      <guid>https://vnexpress.net/5-dai-an-duoc-yeu-cau-dieu-tra-xong-trong-nam-2020-4105366.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Triệu đồng một con cua biển 'khổng lồ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/trieu-dong-mot-con-cua-bien-khong-lo-4106757.html"><img src="https://i1-kinhdoanh.vnecdn.net/2020/05/28/cua-kl-1590654654-1590655026-3674-1590656029.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=RCx6k0sA8xXg4guHWfDYHw" ></a></br>Loại cua biển có trọng lượng 1,5 kg đang được giới "sành ăn" mua với giá cả triệu đồng mỗi con. ]]></description>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/trieu-dong-mot-con-cua-bien-khong-lo-4106757.html</link>
+      <guid>https://vnexpress.net/trieu-dong-mot-con-cua-bien-khong-lo-4106757.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đỗ Hùng Dũng đoạt Quả Bóng Vàng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/do-hung-dung-doat-qua-bong-vang-4105603-tong-thuat.html"><img src="https://i1-thethao.vnecdn.net/2020/05/26/06c1d581da35206b7924-159050522-7362-4583-1590505233.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=AuRvGx4KMiF0C4Bc7m5DMw" ></a></br>Vượt qua Quang Hải và Trọng Hoàng trong năm 2019, tiền vệ Hà Nội lần đầu đoạt giải thưởng cá nhân cao quý nhất của bóng đá Việt Nam.]]></description>
+      <pubDate>Tue, 26 May 2020 19:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/do-hung-dung-doat-qua-bong-vang-4105603-tong-thuat.html</link>
+      <guid>https://vnexpress.net/do-hung-dung-doat-qua-bong-vang-4105603-tong-thuat.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cảnh sát lội suối tìm bé trai mất tích</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/thoi-su/canh-sat-loi-suoi-tim-be-trai-mat-tich-4106659.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/994259522951010501635511408477-6485-6296-1590644883.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_GRy_c0wmS4FLXdvYv645g" ></a></br>20 cảnh sát được huy động mò tìm bé trai 4 tuổi bị mất tích sau khi ngã xuống mương nước ở phường Thái Hòa, thị xã Tân Uyên, chiều 27/5.]]></description>
+      <pubDate>Thu, 28 May 2020 12:41:51 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/thoi-su/canh-sat-loi-suoi-tim-be-trai-mat-tich-4106659.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/thoi-su/canh-sat-loi-suoi-tim-be-trai-mat-tich-4106659.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bệnh nhân phi công tỉnh lại</title>
+      <description><![CDATA[<a href="https://vnexpress.net/benh-nhan-phi-cong-tinh-lai-4106276.html"><img src="https://i1-suckhoe.vnecdn.net/2020/05/27/1-1590578441-7067-1590578603.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=cRM9JjJQi_Vb3wQhkY3ecw" ></a></br>Bệnh nhân phi công ngày 27/5 đã tỉnh, có phản xạ ho và cử động được các ngón tay; cơ hoành và các cơ khác còn liệt.]]></description>
+      <pubDate>Wed, 27 May 2020 18:46:48 +0700</pubDate>
+      <link>https://vnexpress.net/benh-nhan-phi-cong-tinh-lai-4106276.html</link>
+      <guid>https://vnexpress.net/benh-nhan-phi-cong-tinh-lai-4106276.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cựu kế toán trưởng Tổng công ty CP Vận tải Dầu khí bị bắt</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cuu-ke-toan-truong-tong-cong-ty-cp-van-tai-dau-khi-bi-bat-4106896.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/Kimanh-1590669987-2517-1590670149.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=P8ht3yIP39BjjaCi4kkIsA" ></a></br>Nguyễn Thị Kim Anh, nguyên kế toán trưởng, trưởng ban tài chính Tổng công ty CP Vận tải Dầu khí (PVTrans) bị bắt vì lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản.]]></description>
+      <pubDate>Thu, 28 May 2020 19:58:13 +0700</pubDate>
+      <link>https://vnexpress.net/cuu-ke-toan-truong-tong-cong-ty-cp-van-tai-dau-khi-bi-bat-4106896.html</link>
+      <guid>https://vnexpress.net/cuu-ke-toan-truong-tong-cong-ty-cp-van-tai-dau-khi-bi-bat-4106896.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cơ sở cai nghiện ngụy trang trong cửa hàng đồ gỗ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/co-so-cai-nghien-nguy-trang-trong-cua-hang-do-go-4105301.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/canhsat-1590474498-2493-1590477632.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=p2oM35mCizUxVSOpbLwzeQ" ></a></br>Gần 100 cảnh sát hình sự, ma túy, cơ động... cùng cơ quan chức năng kiểm tra căn nhà 4 tầng, phát hiện 95 người cai nghiện ma túy.]]></description>
+      <pubDate>Tue, 26 May 2020 14:37:32 +0700</pubDate>
+      <link>https://vnexpress.net/co-so-cai-nghien-nguy-trang-trong-cua-hang-do-go-4105301.html</link>
+      <guid>https://vnexpress.net/co-so-cai-nghien-nguy-trang-trong-cua-hang-do-go-4105301.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Cả một trời thương nhớ' - bài hát xe duyên Hà Hồ, Kim Lý</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ca-mot-troi-thuong-nho-bai-hat-xe-duyen-ha-ho-kim-ly-4105163.html"><img src="https://i1-giaitri.vnecdn.net/2020/05/27/hongochatop-1590549704-7264-1590549957.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=3C7NFv2r3xp-LqxX3Q3pyg" ></a></br>Khi quay MV "Cả một trời thương nhớ", Hồ Ngọc Hà phải uống bia để lấy can đảm trong lần đầu hôn Kim Lý.]]></description>
+      <pubDate>Wed, 27 May 2020 11:14:11 +0700</pubDate>
+      <link>https://vnexpress.net/ca-mot-troi-thuong-nho-bai-hat-xe-duyen-ha-ho-kim-ly-4105163.html</link>
+      <guid>https://vnexpress.net/ca-mot-troi-thuong-nho-bai-hat-xe-duyen-ha-ho-kim-ly-4105163.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Anh tuyên bố sẽ cấp quyền công dân cho người Hong Kong</title>
+      <description><![CDATA[<a href="https://vnexpress.net/anh-tuyen-bo-se-cap-quyen-cong-dan-cho-nguoi-hong-kong-4107096.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/ymdominic280520-1590724475-5282-1590724655.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=J9FrezYnw0j8otTAoV9WlA" ></a></br>Ngoại trưởng Anh cho biết dân Hong Kong có hộ chiếu hải ngoại có thể được nước này cấp quyền công dân nếu Bắc Kinh không rút luật an ninh.]]></description>
+      <pubDate>Fri, 29 May 2020 11:04:22 +0700</pubDate>
+      <link>https://vnexpress.net/anh-tuyen-bo-se-cap-quyen-cong-dan-cho-nguoi-hong-kong-4107096.html</link>
+      <guid>https://vnexpress.net/anh-tuyen-bo-se-cap-quyen-cong-dan-cho-nguoi-hong-kong-4107096.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người sống sót kể chuyện nhảy khỏi máy bay Pakistan</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-song-sot-ke-chuyen-nhay-khoi-may-bay-pakistan-4105319.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/methodetimesprodwebbin3db585a6-5585-5615-1590477248.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9z9wRQpwsS0M_XYvlGJ7Qw" ></a></br>Muhammad Zubair tháo dây an toàn, cố nhoài ra khỏi chiếc máy bay đang bốc cháy của hãng Hàng không Quốc tế Pakistan, rồi nhảy xuống từ độ cao 3 mét.]]></description>
+      <pubDate>Tue, 26 May 2020 14:17:14 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-song-sot-ke-chuyen-nhay-khoi-may-bay-pakistan-4105319.html</link>
+      <guid>https://vnexpress.net/nguoi-song-sot-ke-chuyen-nhay-khoi-may-bay-pakistan-4105319.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tranh cãi về tu sĩ Ấn Độ 80 năm sống nhờ 'khí trời'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tranh-cai-ve-tu-si-an-do-80-nam-song-nho-khi-troi-4106598.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/prahladjani2202001362902-15906-6716-7615-1590654120.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ebHTgS4TLdNpNrQajHeErg" ></a></br>Prahlad Jani rời nhà vào rừng tu hành lúc mới 7 tuổi và dừng ăn uống hoàn toàn, dành phần lớn thời gian trong ngày ngồi thiền.]]></description>
+      <pubDate>Thu, 28 May 2020 21:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/tranh-cai-ve-tu-si-an-do-80-nam-song-nho-khi-troi-4106598.html</link>
+      <guid>https://vnexpress.net/tranh-cai-ve-tu-si-an-do-80-nam-song-nho-khi-troi-4106598.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đề xuất 'thiến hóa học' tội phạm xâm hại trẻ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/de-xuat-thien-hoa-hoc-toi-pham-xam-hai-tre-4105867.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/201410090856162554DSC3079DB123-4578-2504-1590551879.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=q0KJsomjlLuBs4pVdDn-4g" ></a></br>Đại biểu Nguyễn Ngọc Phương đề xuất mở rộng hình thức "thiến hóa học", lao động công ích, công khai danh tính tội phạm xâm hại trẻ em. ]]></description>
+      <pubDate>Wed, 27 May 2020 11:53:22 +0700</pubDate>
+      <link>https://vnexpress.net/de-xuat-thien-hoa-hoc-toi-pham-xam-hai-tre-4105867.html</link>
+      <guid>https://vnexpress.net/de-xuat-thien-hoa-hoc-toi-pham-xam-hai-tre-4105867.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cầu Thủ Thiêm 2 dần thành hình</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/thoi-su/cau-thu-thiem-2-dan-thanh-hinh-4104900.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/ThuThiem2JPG-1590500584-3281-1590500616.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=cdhf5JUdKBquwRHwdQRvsg" ></a></br>Cầu Thủ Thiêm 2 bắc qua sông Sài Gòn, nối quận 1 với quận 2 đã lắp đặt dây văng và dự kiến thông xe kỹ thuật vào cuối năm.]]></description>
+      <pubDate>Wed, 27 May 2020 06:00:00 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/thoi-su/cau-thu-thiem-2-dan-thanh-hinh-4104900.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/thoi-su/cau-thu-thiem-2-dan-thanh-hinh-4104900.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người đòi bạn trả hai tờ vé số độc đắc thua kiện</title>
+      <description><![CDATA[Tòa phúc thẩm bác yêu cầu của ông Hồ Thanh Tâm - kiện đòi bạn thân hai tờ vé số trúng giải độc đắc trị giá 3,6 tỷ đồng, vì cho rằng không có căn cứ.]]></description>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-doi-ban-tra-hai-to-ve-so-doc-dac-thua-kien-4105391.html</link>
+      <guid>https://vnexpress.net/nguoi-doi-ban-tra-hai-to-ve-so-doc-dac-thua-kien-4105391.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ông Tập 'chuẩn bị cho kịch bản tồi tệ nhất'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ong-tap-chuan-bi-cho-kich-ban-toi-te-nhat-4105214.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/tapcanbinh-1590464050-9438-1590464478.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lAWAKxLDX2WBAbN9bbzYng" ></a></br>Trung Quốc chuyển tập trung xuất khẩu sang phát triển thị trường nội địa có thể cho thấy ông Tập chuẩn bị cho kịch bản tệ nhất, theo giới phân tích.]]></description>
+      <pubDate>Tue, 26 May 2020 11:48:14 +0700</pubDate>
+      <link>https://vnexpress.net/ong-tap-chuan-bi-cho-kich-ban-toi-te-nhat-4105214.html</link>
+      <guid>https://vnexpress.net/ong-tap-chuan-bi-cho-kich-ban-toi-te-nhat-4105214.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hiện trường cây phượng đổ, đè 18 học sinh</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/thoi-su/hien-truong-cay-phuong-do-de-18-hoc-sinh-4105293.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/text108000000906still013-15904-5137-3191-1590464689.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=MQeSk54ou78WHeTh2LExLQ" ></a></br>Cây phượng cổ thụ cao hơn 10 mét trong sân trường THCS Bạch Đằng bật gốc, đè trúng 18 học sinh lớp 6 khiến một em tử vong, sáng 26/5.]]></description>
+      <pubDate>Tue, 26 May 2020 10:46:08 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/thoi-su/hien-truong-cay-phuong-do-de-18-hoc-sinh-4105293.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/thoi-su/hien-truong-cay-phuong-do-de-18-hoc-sinh-4105293.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người tu hành 80 năm 'không ăn, không uống' qua đời</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-tu-hanh-80-nam-khong-an-khong-uong-qua-doi-4106544.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/7700272a9fc411ea80550ae12e46-1-5478-7556-1590636138.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=zoUi0m3bnoKK38m5Fm7VAA" ></a></br>Prahlad Jani, người tuyên bố nhiều thập kỷ không ăn, không uống nhờ "được ban thuốc trường sinh bất lão", qua đời ở tuổi 90.]]></description>
+      <pubDate>Thu, 28 May 2020 10:47:24 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-tu-hanh-80-nam-khong-an-khong-uong-qua-doi-4106544.html</link>
+      <guid>https://vnexpress.net/nguoi-tu-hanh-80-nam-khong-an-khong-uong-qua-doi-4106544.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Trump ký sắc lệnh về mạng xã hội</title>
+      <description><![CDATA[<a href="https://vnexpress.net/trump-ky-sac-lenh-ve-mang-xa-hoi-4106962.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/trump155JPG-1590707161-1646-1590707213.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=q-xyh3Ijy4LZRzFURim3NQ" ></a></br>Trump thông qua sắc lệnh về các công ty mạng xã hội hôm 28/5, gọi đây là "động thái bảo vệ tự do ngôn luận của Mỹ".]]></description>
+      <pubDate>Fri, 29 May 2020 06:07:30 +0700</pubDate>
+      <link>https://vnexpress.net/trump-ky-sac-lenh-ve-mang-xa-hoi-4106962.html</link>
+      <guid>https://vnexpress.net/trump-ky-sac-lenh-ve-mang-xa-hoi-4106962.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cuộc đời vua sòng bài Macau Stanley Ho</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cuoc-doi-vua-song-bai-macau-stanley-ho-4105579.html"><img src="https://i1-kinhdoanh.vnecdn.net/2020/05/26/stanley-ho-1-1590494990-3022-1590495575.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=NbyxJbEc4ZWJV-tnvaEHEQ" ></a></br>Stanley Ho trải qua nhiều biến cố, nhưng không chấp nhận đầu hàng dễ dàng. Điều duy nhất cản bước ông chỉ là bệnh tật khi tuổi già.]]></description>
+      <pubDate>Tue, 26 May 2020 19:21:08 +0700</pubDate>
+      <link>https://vnexpress.net/cuoc-doi-vua-song-bai-macau-stanley-ho-4105579.html</link>
+      <guid>https://vnexpress.net/cuoc-doi-vua-song-bai-macau-stanley-ho-4105579.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cầu hơn 1.000 tỷ ở Nam Định thông xe</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/thoi-su/cau-hon-1-000-ty-o-nam-dinh-thong-xe-4106151.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/cuthnhlong-1590568593-6990-159-9217-7329-1590627039.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rcYATcd4JtoXnlEQYeL0Tw" ></a></br>Cầu vượt sông Ninh Cơ dài 2,3 km, rộng 12 mét kết nối trung tâm TP Nam Định đến khu du lịch biển Thịnh Long được thông xe, sau hai năm xây dựng.]]></description>
+      <pubDate>Thu, 28 May 2020 06:00:00 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/thoi-su/cau-hon-1-000-ty-o-nam-dinh-thong-xe-4106151.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/thoi-su/cau-hon-1-000-ty-o-nam-dinh-thong-xe-4106151.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chiến hạm Mỹ áp sát Hoàng Sa</title>
+      <description><![CDATA[<a href="https://vnexpress.net/chien-ham-my-ap-sat-hoang-sa-4106982.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/chienhammy1-1590713861-5367-1590714031.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=yo_D5FY2GuIGyyM4-sPwgA" ></a></br>Tàu khu trục USS Mustin tuần tra tự do hàng hải gần quần đảo Hoàng Sa thuộc chủ quyền Việt Nam bị Trung Quốc chiếm đóng trái phép.  ]]></description>
+      <pubDate>Fri, 29 May 2020 08:15:32 +0700</pubDate>
+      <link>https://vnexpress.net/chien-ham-my-ap-sat-hoang-sa-4106982.html</link>
+      <guid>https://vnexpress.net/chien-ham-my-ap-sat-hoang-sa-4106982.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bốn nước tố Trung Quốc vi phạm nghĩa vụ với Hong Kong</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bon-nuoc-to-trung-quoc-vi-pham-nghia-vu-voi-hong-kong-4106905.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/hongkong5-1590673748-6221-1590674082.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=qzhF6-A0QZKhq-8E134ivg" ></a></br>Kế hoạch áp luật an ninh của Trung Quốc đã vi phạm các nghĩa vụ quốc tế với Hong Kong, theo tuyên bố chung của Mỹ, Anh, Canada và Australia.]]></description>
+      <pubDate>Thu, 28 May 2020 21:07:11 +0700</pubDate>
+      <link>https://vnexpress.net/bon-nuoc-to-trung-quoc-vi-pham-nghia-vu-voi-hong-kong-4106905.html</link>
+      <guid>https://vnexpress.net/bon-nuoc-to-trung-quoc-vi-pham-nghia-vu-voi-hong-kong-4106905.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Nội chiến' giành tài sản của gia đình vua sòng bài Macau</title>
+      <description><![CDATA[<a href="https://vnexpress.net/noi-chien-gianh-tai-san-cua-gia-dinh-vua-song-bai-macau-4105662.html"><img src="https://i1-kinhdoanh.vnecdn.net/2020/05/27/stanleyho215904951902720159-15-4865-7781-1590517239.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QjK2irfd8QjqGLKL8J9CZg" ></a></br>Không chỉ có gia sản lớn và tầm ảnh hưởng rộng, ông Stanley Ho còn có một gia đình cũng lớn không kém với 4 người vợ và 17 người con.]]></description>
+      <pubDate>Wed, 27 May 2020 06:14:09 +0700</pubDate>
+      <link>https://vnexpress.net/noi-chien-gianh-tai-san-cua-gia-dinh-vua-song-bai-macau-4105662.html</link>
+      <guid>https://vnexpress.net/noi-chien-gianh-tai-san-cua-gia-dinh-vua-song-bai-macau-4105662.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Em đòi cưới khi biết lương tháng tôi gần 300 triệu</title>
+      <description><![CDATA[Tôi 33 tuổi, gần đây mới quen một người con gái 20 tuổi, rất đẹp và dịu dàng nhưng cũng sắc sảo.]]></description>
+      <pubDate>Thu, 28 May 2020 14:43:47 +0700</pubDate>
+      <link>https://vnexpress.net/em-doi-cuoi-khi-biet-luong-thang-toi-gan-300-trieu-4106473.html</link>
+      <guid>https://vnexpress.net/em-doi-cuoi-khi-biet-luong-thang-toi-gan-300-trieu-4106473.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hồng Kim Bảo bệnh tật tuổi già</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hong-kim-bao-benh-tat-tuoi-gia-4105170.html"><img src="https://i1-giaitri.vnecdn.net/2020/05/26/hngkimbo-1590459561-9365-1590459565.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=0Jnsro-Mx5_02TXuuyy2dA" ></a></br>Sao võ thuật Hong Kong Hồng Kim Bảo bệnh tiểu đường, cao huyết áp... và phải áp dụng chế độ ăn kiêng nghiêm ngặt.]]></description>
+      <pubDate>Tue, 26 May 2020 09:14:19 +0700</pubDate>
+      <link>https://vnexpress.net/hong-kim-bao-benh-tat-tuoi-gia-4105170.html</link>
+      <guid>https://vnexpress.net/hong-kim-bao-benh-tat-tuoi-gia-4105170.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nguồn cơn Trung Quốc đáp trả Australia</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguon-con-trung-quoc-dap-tra-australia-4105789.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/scomo1-1590561682-6827-1590561833.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=8pyEfwZ4m69BxumnjohHKA" ></a></br>Vài ngày sau khi Ngoại trưởng Australia lần đầu kêu gọi điều tra nguồn gốc nCoV, đại sứ Trung Quốc tại nước này cảnh báo về làn sóng tẩy chay.]]></description>
+      <pubDate>Thu, 28 May 2020 02:21:00 +0700</pubDate>
+      <link>https://vnexpress.net/nguon-con-trung-quoc-dap-tra-australia-4105789.html</link>
+      <guid>https://vnexpress.net/nguon-con-trung-quoc-dap-tra-australia-4105789.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đường dây đánh bạc hơn 64.000 tỷ đồng qua mạng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/duong-day-danh-bac-hon-64-000-ty-dong-qua-mang-4106887.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/bac-1590666322-8601-1590666354.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=3qiwmG7C3AX3aNWHlNk1vQ" ></a></br>Trương Ngọc Tú, 37 tuổi, cầm đầu trò chơi đánh bạc trực tuyến quy mô hơn 64.000 tỷ đồng với hàng triệu tài khoản.]]></description>
+      <pubDate>Thu, 28 May 2020 19:25:35 +0700</pubDate>
+      <link>https://vnexpress.net/duong-day-danh-bac-hon-64-000-ty-dong-qua-mang-4106887.html</link>
+      <guid>https://vnexpress.net/duong-day-danh-bac-hon-64-000-ty-dong-qua-mang-4106887.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đài Loan đặt cược vào tên lửa để răn đe Trung Quốc</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dai-loan-dat-cuoc-vao-ten-lua-de-ran-de-trung-quoc-4105191.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/TienKung31001-1590463740-9521-1590463874.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=M80MPkgZcl0ZqxP9Wl5I6w" ></a></br>Đài Loan có thể nâng cấp và mua sắm nhiều tên lửa hiện đại với hy vọng cầm chân được quân đội Trung Quốc nếu xung đột nổ ra.]]></description>
+      <pubDate>Wed, 27 May 2020 01:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/dai-loan-dat-cuoc-vao-ten-lua-de-ran-de-trung-quoc-4105191.html</link>
+      <guid>https://vnexpress.net/dai-loan-dat-cuoc-vao-ten-lua-de-ran-de-trung-quoc-4105191.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ví điện tử đồng loạt giục người dùng gửi ảnh chân dung</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vi-dien-tu-dong-loat-giuc-nguoi-dung-gui-anh-chan-dung-4105988.html"><img src="https://i1-kinhdoanh.vnecdn.net/2020/05/27/dsc00700-1590577985-1590578018-9746-1590578144.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=0nPTPcN0HRT3ep-13CS3tA" ></a></br>Gần đây, người dùng ví điện tử được yêu cầu cập nhật ảnh CMND và chụp chân dung, nếu muốn sử dụng tiếp.]]></description>
+      <pubDate>Thu, 28 May 2020 06:02:08 +0700</pubDate>
+      <link>https://vnexpress.net/vi-dien-tu-dong-loat-giuc-nguoi-dung-gui-anh-chan-dung-4105988.html</link>
+      <guid>https://vnexpress.net/vi-dien-tu-dong-loat-giuc-nguoi-dung-gui-anh-chan-dung-4105988.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Anh chỉ đến với tôi vì nhu cầu tình dục</title>
+      <description><![CDATA[Tôi 32 tuổi, không còn trẻ để mộng mơ về tình yêu. Tôi sống tình cảm, không tính toán thiệt hơn. ]]></description>
+      <pubDate>Tue, 26 May 2020 10:33:55 +0700</pubDate>
+      <link>https://vnexpress.net/anh-chi-den-voi-toi-vi-nhu-cau-tinh-duc-4101004.html</link>
+      <guid>https://vnexpress.net/anh-chi-den-voi-toi-vi-nhu-cau-tinh-duc-4101004.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Trump: Mỹ sẽ hành động với Trung Quốc trong tuần này</title>
+      <description><![CDATA[<a href="https://vnexpress.net/trump-my-se-hanh-dong-voi-trung-quoc-trong-tuan-nay-4105709.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/trump-1590541203-8080-1590541477.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=g0_2XgUeYx9vPZZRQ_9glA" ></a></br>Trump cảnh báo ông đang chuẩn bị hành động chống lại Trung Quốc tuần này vì dự luật an ninh Hong Kong, song không nêu chi tiết.]]></description>
+      <pubDate>Wed, 27 May 2020 08:08:20 +0700</pubDate>
+      <link>https://vnexpress.net/trump-my-se-hanh-dong-voi-trung-quoc-trong-tuan-nay-4105709.html</link>
+      <guid>https://vnexpress.net/trump-my-se-hanh-dong-voi-trung-quoc-trong-tuan-nay-4105709.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Quốc hội Mỹ thông qua dự luật người Duy Ngô Nhĩ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/quoc-hoi-my-thong-qua-du-luat-nguoi-duy-ngo-nhi-4106385.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/Pelosi47251589601892-159062377-2370-3725-1590623849.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lFS8M5hrhe_o3a84I7_0OQ" ></a></br>Quốc hội Mỹ thông qua dự luật Duy Ngô Nhĩ với chỉ một phiếu chống, dọn đường cho các biện pháp trừng phạt quan chức Trung Quốc.]]></description>
+      <pubDate>Thu, 28 May 2020 07:06:00 +0700</pubDate>
+      <link>https://vnexpress.net/quoc-hoi-my-thong-qua-du-luat-nguoi-duy-ngo-nhi-4106385.html</link>
+      <guid>https://vnexpress.net/quoc-hoi-my-thong-qua-du-luat-nguoi-duy-ngo-nhi-4106385.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chàng trai Việt đưa món ăn đơn giản lên đẳng cấp 5 sao</title>
+      <description><![CDATA[<a href="https://vnexpress.net/chang-trai-viet-dua-mon-an-don-gian-len-dang-cap-5-sao-4105636.html"><img src="https://i1-giadinh.vnecdn.net/2020/05/27/anh-nhan-1-1590541882-4580-1590541914.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=D0HiT2xLnZkuShPkEwsZ0g" ></a></br>Lê Đức Nhân, chàng trai độc thân sống tại Nhật tự học cách trang trí món ăn trên đĩa (Plating) giống phong cách ở các nhà hàng 5 sao.]]></description>
+      <pubDate>Wed, 27 May 2020 10:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/chang-trai-viet-dua-mon-an-don-gian-len-dang-cap-5-sao-4105636.html</link>
+      <guid>https://vnexpress.net/chang-trai-viet-dua-mon-an-don-gian-len-dang-cap-5-sao-4105636.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>VinFast chạy thử ôtô điện</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vinfast-chay-thu-oto-dien-4106624.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/photo-2020-05-28-10-04-42-1590-3665-1312-1590641968.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=oDp3Renl_G6PgoPv1OjcEg" ></a></br>Chuyên gia của hãng chạy thử chiếc crossover động cơ điện với kích thước nhỉnh hơn xe cỡ C.]]></description>
+      <pubDate>Thu, 28 May 2020 11:41:38 +0700</pubDate>
+      <link>https://vnexpress.net/vinfast-chay-thu-oto-dien-4106624.html</link>
+      <guid>https://vnexpress.net/vinfast-chay-thu-oto-dien-4106624.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hai phụ huynh đưa tiền nâng điểm được trả tự do tại tòa</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hai-phu-huynh-dua-tien-nang-diem-duoc-tra-tu-do-tai-toa-4106897.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/IMG8022JPG-1590727479-2270-1590727486.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=yQ1ucu8pDHkQRIKCCmGLWw" ></a></br>Sau bản án đọc gần 4 tiếng, HĐXX tuyên án tù treo với hai nữ bị cáo đưa hối lộ 300-440 triệu đồng nhờ nâng điểm cho con trai đỗ vào trường công an.]]></description>
+      <pubDate>Fri, 29 May 2020 11:00:04 +0700</pubDate>
+      <link>https://vnexpress.net/hai-phu-huynh-dua-tien-nang-diem-duoc-tra-tu-do-tai-toa-4106897.html</link>
+      <guid>https://vnexpress.net/hai-phu-huynh-dua-tien-nang-diem-duoc-tra-tu-do-tai-toa-4106897.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nhật đánh bại Covid-19 đầy bất ngờ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nhat-danh-bai-covid-19-day-bat-ngo-4104785.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/nhatban3-1590403713-5899-1590403885.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=37GceYfdWRnbHhUTAAoRag" ></a></br>Ghi nhận hơn 800 người chết và số ca nhiễm mới giảm mạnh, Nhật Bản đang làm phẳng đường cong Covid-19 dù không phong tỏa hay xét nghiệm rộng.]]></description>
+      <pubDate>Tue, 26 May 2020 10:59:41 +0700</pubDate>
+      <link>https://vnexpress.net/nhat-danh-bai-covid-19-day-bat-ngo-4104785.html</link>
+      <guid>https://vnexpress.net/nhat-danh-bai-covid-19-day-bat-ngo-4104785.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bệnh nhân nặng nhất miền Bắc hồi phục thần kỳ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/benh-nhan-nang-nhat-mien-bac-hoi-phuc-than-ky-4105633.html"><img src="https://i1-suckhoe.vnecdn.net/2020/05/27/Benh-nhan-ra-vien-4.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lCGlSrdA2yvD4-MYVC-QrA" ></a></br>"Bệnh nhân 19", Lê Tuyết Hằng, 64 tuổi, bệnh lý nền rối loạn tiền đình, trong 80 ngày điều trị Covid-19 tưởng chừng không thể sống được, nay ăn uống đi lại bình thường.]]></description>
+      <pubDate>Wed, 27 May 2020 12:32:55 +0700</pubDate>
+      <link>https://vnexpress.net/benh-nhan-nang-nhat-mien-bac-hoi-phuc-than-ky-4105633.html</link>
+      <guid>https://vnexpress.net/benh-nhan-nang-nhat-mien-bac-hoi-phuc-than-ky-4105633.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bộ Giao thông Vận tải vẫn đề xuất xe máy phải bật đèn nhận diện</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bo-giao-thong-van-tai-van-de-xuat-xe-may-phai-bat-den-nhan-dien-4105652.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/100476492275489065812514268298-7034-1267-1590512117.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=zFKsfV4awVOK_7_rtfgO-w" ></a></br>Hiệu quả giải pháp bật đèn nhận diện xe máy vào ban ngày đã được chứng minh trên cơ sở khoa học và thực tiễn, theo Bộ trưởng Giao thông Vận tải Nguyễn Văn Thể.]]></description>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/bo-giao-thong-van-tai-van-de-xuat-xe-may-phai-bat-den-nhan-dien-4105652.html</link>
+      <guid>https://vnexpress.net/bo-giao-thong-van-tai-van-de-xuat-xe-may-phai-bat-den-nhan-dien-4105652.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Lãnh đạo Bạch Mai: ‘Bệnh nhân không phải con gà béo để bóc lột’</title>
+      <description><![CDATA[<a href="https://vnexpress.net/lanh-dao-bach-mai-benh-nhan-khong-phai-con-ga-beo-de-boc-lot-4105528.html"><img src="https://i1-suckhoe.vnecdn.net/2020/05/26/HUY4729stp-1590486437-7532-1590486645.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=HchcaQU486_VB9yeutvZWA" ></a></br>Phó Giám đốc Dương Đức Hùng cho biết Covid-19 giúp lãnh đạo Bệnh viện Bạch Mai quyết xóa nạn bòn rút tiền người bệnh.]]></description>
+      <pubDate>Wed, 27 May 2020 06:22:00 +0700</pubDate>
+      <link>https://vnexpress.net/lanh-dao-bach-mai-benh-nhan-khong-phai-con-ga-beo-de-boc-lot-4105528.html</link>
+      <guid>https://vnexpress.net/lanh-dao-bach-mai-benh-nhan-khong-phai-con-ga-beo-de-boc-lot-4105528.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hàng trăm nghìn ôtô cho thuê sắp đổ bộ thị trường xe cũ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hang-tram-nghin-oto-cho-thue-sap-do-bo-thi-truong-xe-cu-4104730.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Xe3-1590396265-3625-1590396425.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Tp1nSfHk9J8o4OHbPMdzQw" ></a></br>Sau khi phá sản, hãng cho thuê lớn thứ hai Mỹ Hertz có thể thanh lý phần lớn đội xe 570.000 chiếc, tác động mạnh tới thị trường xe cũ.]]></description>
+      <pubDate>Mon, 25 May 2020 16:32:58 +0700</pubDate>
+      <link>https://vnexpress.net/hang-tram-nghin-oto-cho-thue-sap-do-bo-thi-truong-xe-cu-4104730.html</link>
+      <guid>https://vnexpress.net/hang-tram-nghin-oto-cho-thue-sap-do-bo-thi-truong-xe-cu-4104730.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>80 ngày giật sự sống khỏi cửa tử</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/thoi-su/80-ngay-giat-su-song-khoi-cua-tu-4106320.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/trovetulanranhcuatu159058-1590-1304-9115-1590643964.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2giBSG-rKTfx7UQ9oQAs7w" ></a></br>Cả kíp bác sĩ thay nhau sốc tim 40 phút cho 'bệnh nhân 19' Lê Tuyết Hằng, túc trực từng phút để canh chừng sự sống trong suốt 80 ngày điều trị cho bà.]]></description>
+      <pubDate>Thu, 28 May 2020 10:41:19 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/thoi-su/80-ngay-giat-su-song-khoi-cua-tu-4106320.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/thoi-su/80-ngay-giat-su-song-khoi-cua-tu-4106320.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nghị sĩ Hong Kong ném cây thối giữa cuộc họp</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nghi-si-hong-kong-nem-cay-thoi-giua-cuoc-hop-4106822.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/5f21289a-a094-11ea-8055-0ae12e-3990-2231-1590660864.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=52kBRg9HwvWMjRhCISAFSg" ></a></br>Một nghị sĩ đảng Dân chủ ném túi cây thối rữa về phía chủ tịch Hội đồng Lập pháp Hong Kong, khiến cuộc họp về dự luật quốc ca bị hoãn.]]></description>
+      <pubDate>Thu, 28 May 2020 18:45:46 +0700</pubDate>
+      <link>https://vnexpress.net/nghi-si-hong-kong-nem-cay-thoi-giua-cuoc-hop-4106822.html</link>
+      <guid>https://vnexpress.net/nghi-si-hong-kong-nem-cay-thoi-giua-cuoc-hop-4106822.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vua sòng bài Macau qua đời</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vua-song-bai-macau-qua-doi-4105368.html"><img src="https://i1-kinhdoanh.vnecdn.net/2020/05/26/stanley-ho-1590473246-4966-1590473275.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Y8rwQ1Ey5JJreYthj5TxGA" ></a></br>Stanley Ho Hung-sun, tài phiệt lãnh đạo đế chế casino lớn nhất châu Á SJM Holdings trong hơn nửa thế kỷ, vừa qua đời ở tuổi 98.]]></description>
+      <pubDate>Tue, 26 May 2020 13:11:03 +0700</pubDate>
+      <link>https://vnexpress.net/vua-song-bai-macau-qua-doi-4105368.html</link>
+      <guid>https://vnexpress.net/vua-song-bai-macau-qua-doi-4105368.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Phượng đổ trong sân trường</title>
+      <description><![CDATA[<a href="https://vnexpress.net/phuong-do-trong-san-truong-4106523.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/phuongcothu-1590634175-4474-1590634808.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=GatPjBgGnARj79D7wj_ASQ" ></a></br>Cây phượng có đường kính gốc khoảng một mét, cao hơn 10 m bất ngờ bật gốc, ngã trong sân trường ở TP Buôn Ma Thuột, sáng 28/5. ]]></description>
+      <pubDate>Thu, 28 May 2020 10:04:48 +0700</pubDate>
+      <link>https://vnexpress.net/phuong-do-trong-san-truong-4106523.html</link>
+      <guid>https://vnexpress.net/phuong-do-trong-san-truong-4106523.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đình chỉ công tác hàng loạt cán bộ kiểm tra thuế Công ty Tenma</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dinh-chi-cong-tac-hang-loat-can-bo-kiem-tra-thue-cong-ty-tenma-4105617.html"><img src="https://i1-kinhdoanh.vnecdn.net/2020/05/26/tenma99298909-2484414538555728-8217-5245-1590500808.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=iTSJ-_sCX-v8aqhgRD23FQ" ></a></br>Cục trưởng Hải quan, cựu Phó cục trưởng Thuế Bắc Ninh cùng nhiều cán bộ bị tạm đình chỉ công tác để thanh tra nghi án Công ty Tenma hối lộ.]]></description>
+      <pubDate>Tue, 26 May 2020 20:00:50 +0700</pubDate>
+      <link>https://vnexpress.net/dinh-chi-cong-tac-hang-loat-can-bo-kiem-tra-thue-cong-ty-tenma-4105617.html</link>
+      <guid>https://vnexpress.net/dinh-chi-cong-tac-hang-loat-can-bo-kiem-tra-thue-cong-ty-tenma-4105617.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Giá xăng, dầu tiếp tục tăng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/gia-xang-dau-tiep-tuc-tang-4106667.html"><img src="https://i1-kinhdoanh.vnecdn.net/2020/05/28/xang1200-1590656421-2026-1590656436.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=32pT9y7GB1jycjWMhuAagg" ></a></br>Từ 15h hôm nay (28/5), mỗi lít xăng tăng 882-890 đồng, các mặt hàng dầu cũng thêm 892-974 đồng. ]]></description>
+      <pubDate>Thu, 28 May 2020 15:02:43 +0700</pubDate>
+      <link>https://vnexpress.net/gia-xang-dau-tiep-tuc-tang-4106667.html</link>
+      <guid>https://vnexpress.net/gia-xang-dau-tiep-tuc-tang-4106667.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>125 ngày Việt Nam chống dịch trong mắt người nước ngoài</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/nhip-song/125-ngay-viet-nam-chong-dich-trong-mat-nguoi-nuoc-ngoai-4104869.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/covid-1590414377-3987-15904344-1524-4940-1590453972.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=xzMzl-rkj-KOqMKr--nsGw" ></a></br>Nhiều năm ở TP HCM, võ sư FX LealdelaTorre cho rằng Chính phủ Việt Nam đã hành động nhanh chóng, còn Kris Prihodova thấy cô đã đúng khi không quay về Czech...]]></description>
+      <pubDate>Tue, 26 May 2020 07:30:00 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/nhip-song/125-ngay-viet-nam-chong-dich-trong-mat-nguoi-nuoc-ngoai-4104869.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/nhip-song/125-ngay-viet-nam-chong-dich-trong-mat-nguoi-nuoc-ngoai-4104869.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>40 m quốc lộ 91 sụp xuống sông Hậu</title>
+      <description><![CDATA[<a href="https://vnexpress.net/40-m-quoc-lo-91-sup-xuong-song-hau-4105920.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/satlo2-1590556120-9090-1590556199.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_lVus2BfCntAUTHL9QHZGQ" ></a></br>Sau bốn ngày rạn nứt, 40 m quốc lộ 91 qua xã Bình Mỹ, huyện Châu Phú sụp xuống sông Hậu, khiến hàng chục hộ dân phải di dời khẩn cấp.]]></description>
+      <pubDate>Wed, 27 May 2020 12:25:16 +0700</pubDate>
+      <link>https://vnexpress.net/40-m-quoc-lo-91-sup-xuong-song-hau-4105920.html</link>
+      <guid>https://vnexpress.net/40-m-quoc-lo-91-sup-xuong-song-hau-4105920.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Thành phố phía Đông Sài Gòn sẽ như thế nào?</title>
+      <description><![CDATA[<a href="https://video.vnexpress.net/tin-tuc/thoi-su/thanh-pho-phia-dong-sai-gon-se-nhu-the-nao-4104797.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/saiphamtatthanhcang16154589850-9177-6081-1590572122.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=X64Wm1qGLQVanUOnWcHaGg" ></a></br>TP HCM chọn ý tưởng quy hoạch quận 2, 9 và Thủ Đức thành Khu đô thị sáng tạo phía Đông, có chức năng trọng điểm về tài chính, khoa học, giáo dục...]]></description>
+      <pubDate>Fri, 29 May 2020 09:00:00 +0700</pubDate>
+      <link>https://video.vnexpress.net/tin-tuc/thoi-su/thanh-pho-phia-dong-sai-gon-se-nhu-the-nao-4104797.html</link>
+      <guid>https://video.vnexpress.net/tin-tuc/thoi-su/thanh-pho-phia-dong-sai-gon-se-nhu-the-nao-4104797.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tòa Canada phán quyết bất lợi với Mạnh Vãn Chu</title>
+      <description><![CDATA[<a href="https://vnexpress.net/toa-canada-phan-quyet-bat-loi-voi-manh-van-chu-4106400.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/meng-1590626718-5346-1590626904.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Fny-RKl6yaU2R_lin0awrg" ></a></br>Giám đốc tài chính tập đoàn Huawei Mạnh Vãn Chu không được trả tự do trong phiên tòa hôm 27/5 tại Canada và bị xem xét dẫn độ sang Mỹ.]]></description>
+      <pubDate>Thu, 28 May 2020 08:01:52 +0700</pubDate>
+      <link>https://vnexpress.net/toa-canada-phan-quyet-bat-loi-voi-manh-van-chu-4106400.html</link>
+      <guid>https://vnexpress.net/toa-canada-phan-quyet-bat-loi-voi-manh-van-chu-4106400.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>

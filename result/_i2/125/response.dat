@@ -1,0 +1,97 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 11177whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: MISS
+xdCache: MISS
+Server: 16477whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Ý kiến - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:48:35 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/y-kien.rss</link>
+    <item>
+      <title>'Người sống thử khác gì đã qua một đời vợ chồng'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/photo115312840758671545972291-2279-5261-1590728261.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ghcMMXhmEnKX0SjBbkSJJg" ></a></br>Sống thử là cùng ăn, cùng ở, cùng sinh hoạt... như vợ chồng, chỉ khác việc lập gia đình ở một tờ giấy hôn thú.]]></description>
+      <pubDate>Fri, 29 May 2020 17:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html</link>
+      <guid>https://vnexpress.net/nguoi-song-thu-khac-gi-da-qua-mot-doi-vo-chong-4107252.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Từ chuyện cây đổ nghĩ về những sân trường bị bê tông hóa</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/text108000000906still013159045-3986-9775-1590724101.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=TsvyLgKEDA55uAJsv7wWTQ" ></a></br>Tại sao các cây phượng bên đường làng không bị bê tông xâm chiếm, không bị bật gốc như những cây trồng trong sân trường?]]></description>
+      <pubDate>Fri, 29 May 2020 15:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html</link>
+      <guid>https://vnexpress.net/tu-chuyen-cay-do-nghi-ve-nhung-san-truong-bi-be-tong-hoa-4107174.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người bán dùng dây buộc to, đẫm nước 'để cua tươi lâu'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/190514439631495725561-15907209-1360-2076-1590721067.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Q4NDdcbbic8-NL5Nww73fQ" ></a></br>'Dây ngoài yếu tố buộc cua, còn có tác dụng giữ ẩm, giúp cua không bị chết khi các khớp chân và càng khô' - người bán cua giải thích.]]></description>
+      <pubDate>Fri, 29 May 2020 10:21:47 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html</link>
+      <guid>https://vnexpress.net/nguoi-ban-dung-day-buoc-to-dam-nuoc-de-cua-tuoi-lau-4107136.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Kết hôn sớm mất cơ hội báo hiếu cha mẹ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/unnamed-1590718224-1590718263-2819-1590718266.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QuoOEHHx3g1faoKPEuGDig" ></a></br>Tôi 27 tuổi, công việc ổn nhưng quyết định độc thân thêm ba, bốn năm nữa để giúp ba mẹ trả nợ, sửa nhà và nuôi các em.]]></description>
+      <pubDate>Fri, 29 May 2020 09:24:16 +0700</pubDate>
+      <link>https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html</link>
+      <guid>https://vnexpress.net/ket-hon-som-mat-co-hoi-bao-hieu-cha-me-4107078.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn vay 50 triệu đồng, đòi trả góp 4 triệu mỗi tháng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/muontien-1590666475-1590666505-9501-1590666511.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=7LDHdO941K_-K2-936nHYw" ></a></br>Cậu bạn đồng nghiệp hỏi vay tôi 50 triệu đồng để trả nợ cá độ bóng đá, tôi đồng ý mà không cần thế chấp.]]></description>
+      <pubDate>Fri, 29 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html</link>
+      <guid>https://vnexpress.net/ban-vay-50-trieu-dong-doi-tra-gop-4-trieu-moi-thang-4106890.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Thầy cô so sánh, chê bai học sinh yếu</title>
+      <description><![CDATA[<a href="https://vnexpress.net/thay-co-so-sanh-che-bai-hoc-sinh-yeu-4106972.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/thicuyxhi-1590711431-159071145-8274-7561-1590711463.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=FQnbRtXGmZRBcxvdnPQqiA" ></a></br>Trong lớp, nhiều thầy cô có thói quen lấy những bạn học giỏi ra để làm gương, so sánh với những học sinh yếu hơn.]]></description>
+      <pubDate>Fri, 29 May 2020 14:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/thay-co-so-sanh-che-bai-hoc-sinh-yeu-4106972.html</link>
+      <guid>https://vnexpress.net/thay-co-so-sanh-che-bai-hoc-sinh-yeu-4106972.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vốn 20 triệu, kinh doanh gì để tăng thu nhập sau Covid-19?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/von-20-trieu-kinh-doanh-gi-de-tang-thu-nhap-sau-covid-19-4107098.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/buonban-1590719082-1590719138-2006-1590719143.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=AVl7807kDGHBqCpYz8L6gw" ></a></br>Do dịch Covid-19 công ty tôi cắt giảm giờ làm, tôi muốn buôn bán nhỏ tăng thêm thu nhập.]]></description>
+      <pubDate>Fri, 29 May 2020 12:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/von-20-trieu-kinh-doanh-gi-de-tang-thu-nhap-sau-covid-19-4107098.html</link>
+      <guid>https://vnexpress.net/von-20-trieu-kinh-doanh-gi-de-tang-thu-nhap-sau-covid-19-4107098.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Phạt cây xăng găm hàng 30 triệu đồng không đủ sức răn đe'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/phat-cay-xang-gam-hang-30-trieu-dong-khong-du-suc-ran-de-4106679.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/xangvungocphan1590638205366215-8376-2600-1590649597.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=17osHgz0OkLKe1g9syzO4A" ></a></br>Cần phải có mức xử phạt thật nặng, thậm chí rút giấy phép kinh doanh đối với các đại lý xăng dầu có hành vi 'găm hàng' chờ tăng giá.]]></description>
+      <pubDate>Thu, 28 May 2020 21:07:43 +0700</pubDate>
+      <link>https://vnexpress.net/phat-cay-xang-gam-hang-30-trieu-dong-khong-du-suc-ran-de-4106679.html</link>
+      <guid>https://vnexpress.net/phat-cay-xang-gam-hang-30-trieu-dong-khong-du-suc-ran-de-4106679.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vợ chồng 'tiền ai nấy giữ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-chong-tien-ai-nay-giu-4106809.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/67c3f2a206e2efbcb6f3-159065684-5105-7594-1590656910.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9gca6qeLmLRyIruodOthNA" 

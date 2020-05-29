@@ -1,0 +1,902 @@
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+XHandledFor: 16377whvndd10bf7c7468e873e79ba2ad41
+Server: 16377whvndd10bf7c7468e873e79ba2ad41
+Date: Fri, 29 May 2020 10:48:35 GMT
+X-Page-Speed: 1.13.35.2-0
+Cache-Control: max-age=0, no-cache
+Content-Encoding: gzip
+
+<!doctype html>
+<html lang="vi">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=100"/>
+<meta property="fb:app_id" content="1547540628876392"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="canonical" href="https://vnexpress.net"/>
+<meta http-equiv="REFRESH" content="1800"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<link rel="dns-prefetch" href="//s.eclick.vn"/>
+<link rel="dns-prefetch" href="//s.vnecdn.net"/>
+<link rel="dns-prefetch" href="//la.vnecdn.net"/>
+<link rel="dns-prefetch" href="https://usi-saas.vnexpress.net"/>
+<link rel="dns-prefetch" href="//core.polyad.net"/>
+<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+<link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+<link rel="dns-prefetch" href="http://b.scorecardresearch.com"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-title" content="Vnexpress.net"/>
+<meta name="description" content="Thông tin nhanh &amp; mới nhất được cập nhật hàng giờ. Tin tức Việt Nam &amp; thế giới về xã hội, kinh doanh, pháp luật, khoa học, công nghệ, sức khoẻ, đời sống, văn hóa, rao vặt, tâm sự...">
+<meta name="keywords" content="VnExpress,Vietnam News Daily,Economy,Online,Internet,Magazine,Gateway,FPT,Portal,Tin nhanh,cập nhật,báo điện tử,việt báo,tin việt,VietNews,mua bán,rao vặt,tư vấn,việc làm,Hà Nội,Sài Gòn,tin tức,Huế,Đà Nẵng,VDC,Netnam,Saigonnet,Sggp,VET,Nhân dân,Lao động,Kinh tế,Kinh doanh,Tin nhanh,cap nhat,bao dien tu,Vietbao,TinViet,Mua Ban,Rao Vat,Tu Van,Viec Lam,Hanoi,Ha Noi,Saigon,Sai gon,Tin tuc,Tintuc,Hue,Da Nang,Danang,Nhandan,Nhan dan,Laodong,Lao dong,Kinhte,Kinh te,Kinhdoanh,Kinh doanh">
+<meta name="tt_article_id" content="1000000"/>
+<meta name="tt_page_type" content="site"/>
+<meta name="tt_category_id" content="1000000"/>
+<meta name="tt_site_id" content="1000000"/>
+<!-- add meta for pvtt -->
+<!-- end meta for pvtt -->
+<meta property="og:image" itemprop="thumbnailUrl" content="https://s1.vnecdn.net/vnexpress/restruct/i/v47/logo_default.jpg"/>
+<meta name="dc.created" content="2001-02-26"/>
+<meta name="dc.publisher" content="VnExpress"/>
+<meta name="dc.rights.copyright" content="VnExpress"/>
+<meta name="dc.creator.name" content="VnExpress"/>
+<meta name="dc.creator.email" content="webmaster@vnexpress.net"/>
+<meta name="dc.identifier" content="https://vnexpress.net/"/>
+<meta name="copyright" content="VnExpress"/>
+<meta name="author" content="VnExpress"/>
+<meta name="dc.language" content="vi-VN"/>
+<meta name="robots" content="index,follow"/>
+<meta http-equiv="content-language" content="vi"/>
+<meta name="geo.placename" content="Ha Noi, Viet Nam"/>
+<meta name="geo.region" content="VN-HN"/>
+<meta name="geo.position" content="21.030624;105.782431"/>
+<meta name="ICBM" content="21.030624, 105.782431"/>
+<meta name="revisit-after" content="days">
+<link rel="alternate" href="https://vnexpress.net" hreflang="vi-vn"/>
+<!-- Twitter Card -->
+<meta name="twitter:card" value="summary">
+<meta name="twitter:url" content="https://vnexpress.net/">
+<meta name="twitter:title" content="Tin nhanh VnExpress - Đọc báo, tin tức online 24h">
+<meta name="twitter:description" content="Thông tin nhanh &amp; mới nhất được cập nhật hàng giờ. Tin tức Việt Nam &amp; thế giới về xã hội, kinh doanh, pháp luật, khoa học, công nghệ, sức khoẻ, đời sống, văn hóa, rao vặt, tâm sự...">
+<meta name="twitter:image" content="https://s1.vnecdn.net/vnexpress/restruct/i/v47/logo_default.jpg"/>
+<meta name="twitter:site" content="@VnEnews">
+<meta name="twitter:creator" content="@VnEnews">
+<!-- End Twitter Card -->
+<!-- iPad icons -->
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v47/logos/72x72.png" sizes="72x72">
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v47/logos/114x114.png" sizes="144x144">
+<!-- iPhone and iPod touch icons -->
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v47/logos/57x57.png" sizes="57x57">
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v47/logos/114x114.png" sizes="114x114">
+<!-- Nokia Symbian -->
+<link rel="nokia-touch-icon" href="https://s1.vnecdn.net/vnexpress/restruct/i/v47/logos/57x57.png">
+<!-- Android icon precomposed so it takes precedence -->
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v47/logos/114x114.png" sizes="1x1">
+<title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+<script type="text/javascript">window.dataLayer=window.dataLayer||[];dataLayer.push({'pageCategory':'1000000'});dataLayer.push({'pageType':'Home'});dataLayer.push({'pagePlatform':'Web'});(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N3FNJF');(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MWV8N2B');(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-50285069-16','auto',{'name':'te'});</script>
+<script data-schema="Organization" type="application/ld+json">
+        {"name":"Tin nhanh VnExpress - \u0110\u1ecdc b\u00e1o, tin t\u1ee9c online 24h","url":"https:\/\/vnexpress.net\/","logo":"https:\/\/s.vnecdn.net\/vnexpress\/restruct\/i\/v14\/graphics\/img_logo_vne_web.gif","alternateName":"Th\u00f4ng tin nhanh & m\u1edbi nh\u1ea5t \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt h\u00e0ng gi\u1edd. Tin t\u1ee9c Vi\u1ec7t Nam & th\u1ebf gi\u1edbi v\u1ec1 x\u00e3 h\u1ed9i, kinh doanh, ph\u00e1p lu\u1eadt, khoa h\u1ecdc, c\u00f4ng ngh\u1ec7, s\u1ee9c kho\u1ebb, \u0111\u1eddi s\u1ed1ng, v\u0103n h\u00f3a, rao v\u1eb7t, t\u00e2m s\u1ef1...","sameAs":["https:\/\/www.facebook.com\/congdongvnexpress\/","https:\/\/twitter.com\/VnEnews","https:\/\/www.youtube.com\/channel\/UCsB2760X9fiA5PXSN0dFh1g\/"],"@type":"Organization","@context":"http:\/\/schema.org"}{"@context":"https:\/\/schema.org","@type":"WebPage","headline":"VnExpress","url":"https:\/\/vnexpress.net\/","thumbnailUrl":"https:\/\/s.vnecdn.net\/vnexpress\/restruct\/i\/v14\/logo_default.jpg","dateCreated":"2017-02-26T00:00:00Z","articleSection":"portal","creator":"VnExpress","keywords":""}
+    </script>
+<link href="https://s1.vnecdn.net/vnexpress/restruct/c/v397/v2_2019/pc/general-inline.css" rel="stylesheet" type="text/css">
+<link href="https://s1.vnecdn.net/vnexpress/restruct/c/v397/v2_2019/pc/general-file.css" rel="stylesheet" type="text/css">
+<link href="https://s1.vnecdn.net/vnexpress/restruct/c/v397/v2_2019/pc/404.css" rel="stylesheet" type="text/css">
+<link href="https://s1.vnecdn.net/vnexpress/restruct/c/v397/v2_2019/pc/webfonts/Merriweather-woff2.css" media="all" rel="stylesheet">
+<title>404</title>
+</head>
+<body>
+<header class="section top-header">
+<div class="container">
+<a href="javascript:;" class="all-menu all-menu-tablet"><span class="hamburger"></span></a>
+<a href="/" class="logo" title="VnExpress - Báo tiếng Việt nhiều người xem nhất">
+<picture><img src="https://s1.vnecdn.net/vnexpress/restruct/i/v75/v2_2019/pc/graphics/logo.svg" alt="VnExpress - Bao tieng Viet nhieu nguoi xem nhat"></picture>
+</a>
+<span class="time-now" id="time-now"></span>
+<div class="right myvne_container">
+<a href="https://vnexpress.net/tin-tuc-24h" class="btn24hqua" title="Mới nhất"><svg class="ic ic-24h"><use xlink:href="#time"></use></svg>Mới nhất</a>
+<a href="https://e.vnexpress.net/" class="evne" title="International"><svg class="ic ic-evne"><use xlink:href="#letter-E"></use></svg>International</a>
+<form class="search" action="https://timkiem.vnexpress.net/" onsubmit="return $('#inp_keyword').val() !='';" method="get">
+<input type="text" placeholder="Tìm kiếm" id="inp_keyword" name="q">
+<button><svg class="ic ic-search"><use xlink:href="#Search"></use></svg></button>
+</form>
+<div id="myvne" class="myvne_taskbar">
+<a href="#" class="log_txt"><svg class="ic ic-user"><use xlink:href="#User"></use></svg> Đăng nhập</a>
+</div>
+</div>
+</div>
+</header>
+<section class="section wrap-main-nav" id="wrap-main-nav">
+<nav class="main-nav">
+<ul class="parent">
+<li class="home"><a href="/" class="flexbox" title="Trang chủ"><svg class="ic ic-home"><use xlink:href="#Home"></use></svg><svg class="ic ic-evne"><use xlink:href="#letter-E"></use></svg></a></li>
+<li class="newlest"><a href="/tin-tuc-24h" title="Mới nhất">Mới nhất</a></li>
+<li class="video ">
+<a title="Video" href="https://video.vnexpress.net">Video</a>
+<ul class="sub">
+<li><a title="Thời sự" href="https://video.vnexpress.net/thoi-su">Thời sự</a></li>
+<li><a title="Nhịp sống" href="https://video.vnexpress.net/nhip-song">Nhịp sống</a></li>
+<li><a title="Food" href="https://video.vnexpress.net/food">Food</a></li>
+<li><a title="Cuộc sống 4.0" href="https://video.vnexpress.net/cuoc-song-4-0">Cuộc sống 4.0</a></li>
+<li><a title="Tôi kể" href="https://video.vnexpress.net/toi-ke">Tôi kể</a></li>
+<li><a title="The Changers" href="https://video.vnexpress.net/the-changers">The Changers</a></li>
+<li><a title="Giải trí" href="https://video.vnexpress.net/giai-tri">Giải trí</a></li>
+<li><a title="Du lịch" href="https://video.vnexpress.net/du-lich">Du lịch</a></li>
+<li><a title="Thể thao" href="https://video.vnexpress.net/the-thao">Thể thao</a></li>
+<li><a title="Thế giới" href="https://video.vnexpress.net/the-gioi">Thế giới</a></li>
+<li><a title="Pháp luật" href="https://video.vnexpress.net/phap-luat">Pháp luật</a></li>
+<li><a title="Kinh doanh" href="https://video.vnexpress.net/kinh-doanh">Kinh doanh</a></li>
+<li><a title="Khoa học" href="https://video.vnexpress.net/khoa-hoc">Khoa học</a></li>
+<li><a title="Giáo dục" href="https://video.vnexpress.net/giao-duc">Giáo dục</a></li>
+<li><a title="Sức khỏe" href="https://video.vnexpress.net/suc-khoe">Sức khỏe</a></li>
+<li><a title="Kid lab" href="https://video.vnexpress.net/kid-lab">Kid lab</a></li>
+</ul>
+</li>
+<li class="thoisu ">
+<a title="Thời sự" href="/thoi-su">Thời sự</a>
+<ul class="sub">
+<li><a title="Giao thông" href="/thoi-su/giao-thong">Giao thông</a></li>
+<li><a title="Mekong" href="/thoi-su/mekong">Mekong</a></li>
+<li><a title="Nông nghiệp sạch" href="/thoi-su/nong-nghiep-sach">Nông nghiệp sạch</a></li>
+</ul>
+</li>
+<li class=""><a title="Góc nhìn" href="/goc-nhin">Góc nhìn</a></li>
+<li class="thegioi ">
+<a title="Thế giới" href="/the-gioi">Thế giới</a>
+<ul class="sub">
+<li><a title="Tư liệu" href="/the-gioi/tu-lieu">Tư liệu</a></li>
+<li><a title="Phân tích" href="/the-gioi/phan-tich">Phân tích</a></li>
+<li><a title="Người Việt 5 châu" href="/the-gioi/nguoi-viet-5-chau">Người Việt 5 châu</a></li>
+<li><a title="Cuộc sống đó đây" href="/the-gioi/cuoc-song-do-day">Cuộc sống đó đây</a></li>
+<li><a title="Quân sự" href="/the-gioi/quan-su">Quân sự</a></li>
+</ul>
+</li>
+<li class="kinhdoanh">
+<a title="Kinh doanh" href="/kinh-doanh">Kinh doanh</a>
+<ul class="sub">
+<li><a title="Doanh nghiệp" href="/kinh-doanh/doanh-nghiep">Doanh nghiệp</a></li>
+<li><a title="Bất động sản" href="/kinh-doanh/bat-dong-san">Bất động sản</a></li>
+<li><a title="Ebank" href="/kinh-doanh/ebank">Ebank</a></li>
+<li><a title="Thương mại điện tử" href="/kinh-doanh/thuong-mai-dien-tu">Thương mại điện tử</a></li>
+<li><a title="Hàng hóa" href="/kinh-doanh/hang-hoa">Hàng hóa</a></li>
+<li><a title="Tiền của tôi" href="/kinh-doanh/tien-cua-toi">Tiền của tôi</a></li>
+<li><a title="Chứng khoán" href="/kinh-doanh/chung-khoan">Chứng khoán</a></li>
+<li><a title="Quốc tế" href="/kinh-doanh/quoc-te">Quốc tế</a></li>
+<li><a title="Vĩ mô" href="/kinh-doanh/vi-mo">Vĩ mô</a></li>
+<li><a title="Startup" href="https://startup.vnexpress.net/">Startup</a></li>
+</ul>
+</li>
+<li class="giaitri ">
+<a title="Giải trí" href="/giai-tri">Giải trí</a>
+<ul class="sub">
+<li><a title="Giới sao" href="/giai-tri/gioi-sao">Giới sao</a></li>
+<li><a title="Video" href="https://video.vnexpress.net/giai-tri">Video</a></li>
+<li><a title="Phim" href="/giai-tri/phim">Phim</a></li>
+<li><a title="Nhạc" href="/giai-tri/nhac">Nhạc</a></li>
+<li><a title="Thời trang" href="/giai-tri/thoi-trang">Thời trang</a></li>
+<li><a title="Làm đẹp" href="/giai-tri/lam-dep">Làm đẹp</a></li>
+<li><a title="Sách" href="/giai-tri/sach">Sách</a></li>
+<li><a title="Sân khấu - Mỹ thuật" href="/giai-tri/san-khau-my-thuat">Sân khấu - Mỹ thuật</a></li>
+</ul>
+</li>
+<li class="thethao ">
+<a title="Thể thao" href="/the-thao">Thể thao</a>
+<ul class="sub">
+<li><a title="Video" href="/the-thao/video">Video</a></li>
+<li><a title="Bóng đá" href="/the-thao/bong-da">Bóng đá</a></li>
+<li><a title="Tennis" href="/the-thao/tennis">Tennis</a></li>
+<li><a title="VM 2020" href="https://vm.vnexpress.net">VM 2020</a></li>
+<li><a title="Các môn khác" href="/the-thao/cac-mon-khac">Các môn khác</a></li>
+<li><a title="Hậu trường" href="/the-thao/hau-truong">Hậu trường</a></li>
+<li><a title="Ảnh" href="/the-thao/photo">Ảnh</a></li>
+<li><a title="Tường thuật" href="/the-thao/tuong-thuat">Tường thuật</a></li>
+<li><a title="F1" href="/the-thao/f1">F1</a></li>
+<li><a title="World Cup 2022" href="/world-cup-2022">World Cup 2022</a></li>
+<li><a title="Lịch thi đấu" href="/the-thao/du-lieu-bong-da">Lịch thi đấu</a></li>
+</ul>
+</li>
+<li class="phapluat ">
+<a title="Pháp luật" href="/phap-luat">Pháp luật</a>
+<ul class="sub">
+<li><a title="Hồ sơ phá án" href="/phap-luat/ho-so-pha-an">Hồ sơ phá án</a></li>
+<li><a title="Tư vấn" href="/phap-luat/tu-van">Tư vấn</a></li>
+</ul>
+</li>
+<li class="giaoduc ">
+<a title="Giáo dục" href="/giao-duc">Giáo dục</a>
+<ul class="sub">
+<li><a title="Tuyển sinh" href="/giao-duc/tuyen-sinh">Tuyển sinh</a></li>
+<li><a title="Trắc nghiệm" href="/giao-duc/trac-nghiem">Trắc nghiệm</a></li>
+<li><a title="Học tiếng anh" href="/giao-duc/hoc-tieng-anh">Học tiếng anh</a></li>
+<li><a title="Du học" href="/giao-duc/du-hoc">Du học</a></li>
+<li><a title="Giáo dục 4.0" href="/giao-duc/giao-duc-40">Giáo dục 4.0</a></li>
+<li><a title="Điểm chuẩn 2018" href="https://diemthi.vnexpress.net/diem-chuan">Điểm chuẩn 2018</a></li>
+<li><a title="Ewiki" href="https://ewiki.vnexpress.net/?utm_source=PC&amp;utm_medium=MenuBar&amp;utm_campaign=TabGiaoDuc">Ewiki</a></li>
+</ul>
+</li>
+<li class="suckhoe ">
+<a title="Sức khỏe" href="/suc-khoe">Sức khỏe</a>
+<ul class="sub">
+<li><a title="Tin tức" href="/suc-khoe/tin-tuc">Tin tức</a></li>
+<li><a title="Các bệnh" href="/suc-khoe/cac-benh">Các bệnh</a></li>
+<li><a title="Tư vấn" href="/suc-khoe/tu-van">Tư vấn</a></li>
+<li><a title="Khỏe đẹp" href="/suc-khoe/khoe-dep">Khỏe đẹp</a></li>
+<li><a title="Đàn ông" href="/suc-khoe/dan-ong">Đàn ông</a></li>
+<li><a title="Dinh dưỡng" href="/suc-khoe/dinh-duong">Dinh dưỡng</a></li>
+<li><a title="Ung thư" href="/suc-khoe/ung-thu">Ung thư</a></li>
+<li><a title="Vaccine" href="/vaccine">Vaccine</a></li>
+</ul>
+</li>
+<li class="doisong ">
+<a title="Đời sống" href="/doi-song">Đời sống</a>
+<ul class="sub">
+<li><a title="Tổ ấm" href="/doi-song/to-am">Tổ ấm</a></li>
+<li><a title="Bài học sống" href="/doi-song/bai-hoc-song">Bài học sống</a></li>
+<li><a title="Nhà" href="/doi-song/nha">Nhà</a></li>
+<li><a title="Tiêu dùng" href="/doi-song/tieu-dung">Tiêu dùng</a></li>
+</ul>
+</li>
+<li class="dulich ">
+<a title="Du lịch" href="/du-lich">Du lịch</a>
+<ul class="sub">
+<li><a title="Điểm đến" href="/du-lich/diem-den">Điểm đến</a></li>
+<li><a title="Dấu chân" href="/du-lich/dau-chan">Dấu chân</a></li>
+<li><a title="Tư vấn" href="/du-lich/tu-van">Tư vấn</a></li>
+<li><a title="Ảnh" href="/du-lich/anh-video">Ảnh</a></li>
+<li><a title="Cẩm nang" href="/du-lich/cam-nang">Cẩm nang</a></li>
+</ul>
+</li>
+<li class="khoahoc ">
+<a title="Khoa học" href="/khoa-hoc">Khoa học</a>
+<ul class="sub">
+<li><a title="Trong nước" href="/khoa-hoc/trong-nuoc">Trong nước</a></li>
+<li><a title="Thường thức" href="/khoa-hoc/thuong-thuc">Thường thức</a></li>
+<li><a title="Thế giới động vật" href="/khoa-hoc/the-gioi-dong-vat">Thế giới động vật</a></li>
+<li><a title="Chuyện lạ" href="/khoa-hoc/chuyen-la">Chuyện lạ</a></li>
+<li><a title="Hỏi - Đáp" href="/khoa-hoc/hoi-dap">Hỏi - Đáp</a></li>
+</ul>
+</li>
+<li class="sohoa ">
+<a title="Số hóa" href="/so-hoa">Số hóa</a>
+<ul class="sub">
+<li><a title="Đời sống số" href="/so-hoa/doi-song-so">Đời sống số</a></li>
+<li><a title="Sản phẩm" href="/so-hoa/san-pham">Sản phẩm</a></li>
+<li><a title="Điện tử gia dụng" href="/so-hoa/dien-tu-gia-dung">Điện tử gia dụng</a></li>
+<li><a title="Kinh nghiệm" href="/so-hoa/kinh-nghiem">Kinh nghiệm</a></li>
+<li><a title="Video" href="/so-hoa/video">Video</a></li>
+</ul>
+</li>
+<li class="xe ">
+<a title="Xe" href="/oto-xe-may">Xe</a>
+<ul class="sub">
+<li><a title="Tư vấn" href="/oto-xe-may/tu-van">Tư vấn</a></li>
+<li><a title="Bảng giá" href="https://vnexpress.net/interactive/2016/bang-gia-xe#all;all">Bảng giá</a></li>
+<li><a title="Thị trường" href="/oto-xe-may/thi-truong">Thị trường</a></li>
+<li><a title="Diễn đàn" href="/oto-xe-may/dien-dan">Diễn đàn</a></li>
+<li><a title="Mua bán" href="https://raovat.vnexpress.net/oto">Mua bán</a></li>
+<li><a title="Thi bằng lái" href="/oto-xe-may/thi-bang-lai">Thi bằng lái</a></li>
+</ul>
+</li>
+<li class=""><a title="Ý kiến" href="/y-kien">Ý kiến</a></li>
+<li class="tamsu ">
+<a title="Tâm sự" href="/tam-su">Tâm sự</a>
+<ul class="sub">
+<li><a title="Chuyên gia gỡ rối" href="/tam-su/chuyen-gia-go-roi">Chuyên gia gỡ rối</a></li>
+<li><a title="Hẹn hò" href="/tam-su/hen-ho">Hẹn hò</a></li>
+</ul>
+</li>
+<li class="cuoi ">
+<a title="Cười" href="/cuoi">Cười</a>
+<ul class="sub">
+<li><a title="Ảnh" href="/cuoi/anh">Ảnh</a></li>
+<li><a title="Tiểu phẩm" href="/cuoi/tieu-pham">Tiểu phẩm</a></li>
+<li><a title="Video" href="/cuoi/video">Video</a></li>
+</ul>
+</li>
+<li class="all-menu has_transition"><a href="javascript:;">Tất cả <span class="hamburger"></span></a></li>
+</ul>
+</nav>
+<section class="wrap-all-menu">
+<div class="container">
+<div class="header-menu">
+<h2 class="name-header">Tất cả chuyên mục</h2>
+<a href="javascript:;" class="close-menu" title="Đóng">Đóng <span class="icon-close"></span></a>
+</div>
+<div class="content-left">
+<div class="width_common scroll-menu-expand scrollbar-inner ss-container" style="height: 634.5px;"><div class="ss-wrapper"><div class="ss-content">
+<div class="row-menu">
+<ul class="cat-menu fix-view-cate-0" data-cate="0">
+<li class="video"><h6><a title="Video" href="https://video.vnexpress.net">Video</a></h6></li>
+<li><h6><a title="Thời sự" href="https://video.vnexpress.net/thoi-su">Thời sự</a></h6></li>
+<li><h6><a title="Nhịp sống" href="https://video.vnexpress.net/nhip-song">Nhịp sống</a></h6></li>
+<li><h6><a title="Food" href="https://video.vnexpress.net/food">Food</a></h6></li>
+<li><h6><a title="Cuộc sống 4.0" href="https://video.vnexpress.net/cuoc-song-4-0">Cuộc sống 4.0</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Tôi kể" href="https://video.vnexpress.net/toi-ke">Tôi kể</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="The Changers" href="https://video.vnexpress.net/the-changers">The Changers</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Giải trí" href="https://video.vnexpress.net/giai-tri">Giải trí</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Du lịch" href="https://video.vnexpress.net/du-lich">Du lịch</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Thể thao" href="https://video.vnexpress.net/the-thao">Thể thao</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Thế giới" href="https://video.vnexpress.net/the-gioi">Thế giới</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Pháp luật" href="https://video.vnexpress.net/phap-luat">Pháp luật</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Kinh doanh" href="https://video.vnexpress.net/kinh-doanh">Kinh doanh</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Khoa học" href="https://video.vnexpress.net/khoa-hoc">Khoa học</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Giáo dục" href="https://video.vnexpress.net/giao-duc">Giáo dục</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Sức khỏe" href="https://video.vnexpress.net/suc-khoe">Sức khỏe</a></h6></li>
+<li class="menu2-0 hidden"><h6><a title="Kid lab" href="https://video.vnexpress.net/kid-lab">Kid lab</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="0"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-1" data-cate="1">
+<li class="thoisu"><h6><a title="Thời sự" href="/thoi-su">Thời sự</a></h6></li>
+<li><h6><a title="Giao thông" href="/thoi-su/giao-thong">Giao thông</a></h6></li>
+<li><h6><a title="Nông nghiệp sạch" href="/thoi-su/nong-nghiep-sach">Nông nghiệp sạch</a></h6></li>
+</ul>
+<ul class="cat-menu">
+<li><h6><a title="Góc nhìn" href="/goc-nhin">Góc nhìn</a></h6></li>
+</ul>
+<ul class="cat-menu fix-view-cate-3" data-cate="3">
+<li class="thegioi"><h6><a title="Thế giới" href="/the-gioi">Thế giới</a></h6></li>
+<li><h6><a title="Tư liệu" href="/the-gioi/tu-lieu">Tư liệu</a></h6></li>
+<li><h6><a title="Phân tích" href="/the-gioi/phan-tich">Phân tích</a></h6></li>
+<li><h6><a title="Người Việt 5 châu" href="/the-gioi/nguoi-viet-5-chau">Người Việt 5 châu</a></h6></li>
+<li><h6><a title="Cuộc sống đó đây" href="/the-gioi/cuoc-song-do-day">Cuộc sống đó đây</a></h6></li>
+<li class="menu2-3 hidden"><h6><a title="Quân sự" href="/the-gioi/quan-su">Quân sự</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="3"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-4" data-cate="4">
+<li class="kinhdoanh"><h6><a title="Kinh doanh" href="/kinh-doanh">Kinh doanh</a></h6></li>
+<li><h6><a title="Doanh nghiệp" href="/kinh-doanh/doanh-nghiep">Doanh nghiệp</a></h6></li>
+<li><h6><a title="Bất động sản" href="/kinh-doanh/bat-dong-san">Bất động sản</a></h6></li>
+<li><h6><a title="Ebank" href="/kinh-doanh/ebank">Ebank</a></h6></li>
+<li><h6><a title="Thương mại điện tử" href="/kinh-doanh/thuong-mai-dien-tu">Thương mại điện tử</a></h6></li>
+<li class="menu2-4 hidden"><h6><a title="Hàng hóa" href="/kinh-doanh/hang-hoa">Hàng hóa</a></h6></li>
+<li class="menu2-4 hidden"><h6><a title="Tiền của tôi" href="/kinh-doanh/tien-cua-toi">Tiền của tôi</a></h6></li>
+<li class="menu2-4 hidden"><h6><a title="Chứng khoán" href="/kinh-doanh/chung-khoan">Chứng khoán</a></h6></li>
+<li class="menu2-4 hidden"><h6><a title="Quốc tế" href="/kinh-doanh/quoc-te">Quốc tế</a></h6></li>
+<li class="menu2-4 hidden"><h6><a title="Vĩ mô" href="/kinh-doanh/vi-mo">Vĩ mô</a></h6></li>
+<li class="menu2-4 hidden"><h6><a title="Startup" href="https://startup.vnexpress.net/">Startup</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="4"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-5" data-cate="5">
+<li class="giaitri"><h6><a title="Giải trí" href="/giai-tri">Giải trí</a></h6></li>
+<li><h6><a title="Giới sao" href="/giai-tri/gioi-sao">Giới sao</a></h6></li>
+<li><h6><a title="Video" href="https://video.vnexpress.net/giai-tri">Video</a></h6></li>
+<li><h6><a title="Phim" href="/giai-tri/phim">Phim</a></h6></li>
+<li class="menu2-5 hidden"><h6><a title="Nhạc" href="/giai-tri/nhac">Nhạc</a></h6></li>
+<li class="menu2-5 hidden"><h6><a title="Thời trang" href="/giai-tri/thoi-trang">Thời trang</a></h6></li>
+<li class="menu2-5 hidden"><h6><a title="Làm đẹp" href="/giai-tri/lam-dep">Làm đẹp</a></h6></li>
+<li class="menu2-5 hidden"><h6><a title="Sách" href="/giai-tri/sach">Sách</a></h6></li>
+<li class="menu2-5 hidden"><h6><a title="Sân khấu - Mỹ thuật" href="/giai-tri/san-khau-my-thuat">Sân khấu - Mỹ thuật</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="5"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-6" data-cate="6">
+<li class="thethao"><h6><a title="Thể thao" href="/the-thao">Thể thao</a></h6></li>
+<li><h6><a title="Video" href="https://video.vnexpress.net/the-thao">Video</a></h6></li>
+<li><h6><a title="Bóng đá" href="/the-thao/bong-da">Bóng đá</a></h6></li>
+<li><h6><a title="Tennis" href="/the-thao/tennis">Tennis</a></h6></li>
+<li><h6><a title="Các môn khác" href="/the-thao/cac-mon-khac">Các môn khác</a></h6></li>
+<li class="menu2-6 hidden"><h6><a title="Hậu trường" href="/the-thao/hau-truong">Hậu trường</a></h6></li>
+<li class="menu2-6 hidden"><h6><a title="Ảnh" href="/the-thao/photo">Ảnh</a></h6></li>
+<li class="menu2-6 hidden"><h6><a title="Tường thuật" href="/the-thao/tuong-thuat">Tường thuật</a></h6></li>
+<li class="menu2-6 hidden"><h6><a title="F1" href="/the-thao/f1">F1</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="6"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-7" data-cate="7">
+<li class="phapluat"><h6><a title="Pháp luật" href="/phap-luat">Pháp luật</a></h6></li>
+<li><h6><a title="Hồ sơ phá án" href="/phap-luat/ho-so-pha-an">Hồ sơ phá án</a></h6></li>
+<li><h6><a title="Tư vấn" href="/phap-luat/tu-van">Tư vấn</a></h6></li>
+</ul>
+<ul class="cat-menu fix-view-cate-8" data-cate="8">
+<li class="giaoduc"><h6><a title="Giáo dục" href="/giao-duc">Giáo dục</a></h6></li>
+<li><h6><a title="Tuyển sinh" href="/giao-duc/tuyen-sinh">Tuyển sinh</a></h6></li>
+<li><h6><a title="Trắc nghiệm" href="/giao-duc/trac-nghiem">Trắc nghiệm</a></h6></li>
+<li><h6><a title="Học tiếng anh" href="/giao-duc/hoc-tieng-anh">Học tiếng anh</a></h6></li>
+<li><h6><a title="Du học" href="/giao-duc/du-hoc">Du học</a></h6></li>
+<li class="menu2-8 hidden"><h6><a title="Giáo dục 4.0" href="/giao-duc/giao-duc-40">Giáo dục 4.0</a></h6></li>
+<li class="menu2-8 hidden"><h6><a title="Điểm chuẩn 2018" href="https://diemthi.vnexpress.net/diem-chuan">Điểm chuẩn 2018</a></h6></li>
+<li class="menu2-8 hidden"><h6><a title="Ewiki" href="https://ewiki.vnexpress.net/?utm_source=PC&amp;utm_medium=MenuBar&amp;utm_campaign=TabGiaoDuc">Ewiki</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="8"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-9" data-cate="9">
+<li class="suckhoe"><h6><a title="Sức khỏe" href="/suc-khoe">Sức khỏe</a></h6></li>
+<li><h6><a title="Tin tức" href="/suc-khoe/tin-tuc">Tin tức</a></h6></li>
+<li><h6><a title="Các bệnh" href="/suc-khoe/cac-benh">Các bệnh</a></h6></li>
+<li><h6><a title="Tư vấn" href="/suc-khoe/tu-van">Tư vấn</a></h6></li>
+<li><h6><a title="Khỏe đẹp" href="/suc-khoe/khoe-dep">Khỏe đẹp</a></h6></li>
+<li class="menu2-9 hidden"><h6><a title="Đàn ông" href="/suc-khoe/dan-ong">Đàn ông</a></h6></li>
+<li class="menu2-9 hidden"><h6><a title="Dinh dưỡng" href="/suc-khoe/dinh-duong">Dinh dưỡng</a></h6></li>
+<li class="menu2-9 hidden"><h6><a title="Ung thư" href="/suc-khoe/ung-thu">Ung thư</a></h6></li>
+<li class="menu2-9 hidden"><h6><a title="Vaccine" href="/vaccine">Vaccine</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="9"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-10" data-cate="10">
+<li class="doisong"><h6><a title="Đời sống" href="/doi-song">Đời sống</a></h6></li>
+<li><h6><a title="Tổ ấm" href="/doi-song/to-am">Tổ ấm</a></h6></li>
+<li><h6><a title="Bài học sống" href="/doi-song/bai-hoc-song">Bài học sống</a></h6></li>
+<li><h6><a title="Nhà" href="/doi-song/nha">Nhà</a></h6></li>
+<li><h6><a title="Tiêu dùng" href="/doi-song/tieu-dung">Tiêu dùng</a></h6></li>
+</ul>
+<ul class="cat-menu fix-view-cate-11" data-cate="11">
+<li class="dulich"><h6><a title="Du lịch" href="/du-lich">Du lịch</a></h6></li>
+<li><h6><a title="Điểm đến" href="/du-lich/diem-den">Điểm đến</a></h6></li>
+<li><h6><a title="Dấu chân" href="/du-lich/dau-chan">Dấu chân</a></h6></li>
+<li><h6><a title="Tư vấn" href="/du-lich/tu-van">Tư vấn</a></h6></li>
+<li><h6><a title="Ảnh" href="/du-lich/anh-video">Ảnh</a></h6></li>
+<li class="menu2-11 hidden"><h6><a title="Cẩm nang" href="/du-lich/cam-nang">Cẩm nang</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="11"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-12" data-cate="12">
+<li class="khoahoc"><h6><a title="Khoa học" href="/khoa-hoc">Khoa học</a></h6></li>
+<li><h6><a title="Trong nước" href="/khoa-hoc/trong-nuoc">Trong nước</a></h6></li>
+<li><h6><a title="Thường thức" href="/khoa-hoc/thuong-thuc">Thường thức</a></h6></li>
+<li><h6><a title="Thế giới động vật" href="/khoa-hoc/the-gioi-dong-vat">Thế giới động vật</a></h6></li>
+<li><h6><a title="Chuyện lạ" href="/khoa-hoc/chuyen-la">Chuyện lạ</a></h6></li>
+<li class="menu2-12 hidden"><h6><a title="Hỏi - Đáp" href="/khoa-hoc/hoi-dap">Hỏi - Đáp</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="12"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-13" data-cate="13">
+<li class="sohoa"><h6><a title="Số hóa" href="/so-hoa">Số hóa</a></h6></li>
+<li><h6><a title="Đời sống số" href="/so-hoa/doi-song-so">Đời sống số</a></h6></li>
+<li><h6><a title="Sản phẩm" href="/so-hoa/san-pham">Sản phẩm</a></h6></li>
+<li><h6><a title="Điện tử gia dụng" href="/so-hoa/dien-tu-gia-dung">Điện tử gia dụng</a></h6></li>
+<li><h6><a title="Kinh nghiệm" href="/so-hoa/kinh-nghiem">Kinh nghiệm</a></h6></li>
+<li class="menu2-13 hidden"><h6><a title="Video" href="/so-hoa/video">Video</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="13"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu fix-view-cate-14" data-cate="14">
+<li class="xe"><h6><a title="Xe" href="/oto-xe-may">Xe</a></h6></li>
+<li><h6><a title="Tư vấn" href="/oto-xe-may/tu-van">Tư vấn</a></h6></li>
+<li><h6><a title="Bảng giá" href="https://vnexpress.net/interactive/2016/bang-gia-xe#all;all">Bảng giá</a></h6></li>
+<li><h6><a title="Thị trường" href="/oto-xe-may/thi-truong">Thị trường</a></h6></li>
+<li><h6><a title="Diễn đàn" href="/oto-xe-may/dien-dan">Diễn đàn</a></h6></li>
+<li class="menu2-14 hidden"><h6><a title="Mua bán" href="https://raovat.vnexpress.net/oto">Mua bán</a></h6></li>
+<li class="menu2-14 hidden"><h6><a title="Thi bằng lái" href="/oto-xe-may/thi-bang-lai">Thi bằng lái</a></h6></li>
+<li class="view-more btn-view-cate" data-cate="14"><a href="javascript:;">Xem thêm</a></li>
+</ul>
+<ul class="cat-menu">
+<li><h6><a title="Ý kiến" href="/y-kien">Ý kiến</a></h6></li>
+</ul>
+<ul class="cat-menu fix-view-cate-16" data-cate="16">
+<li class="tamsu"><h6><a title="Tâm sự" href="/tam-su">Tâm sự</a></h6></li>
+<li><h6><a title="Chuyên gia gỡ rối" href="/tam-su/chuyen-gia-go-roi">Chuyên gia gỡ rối</a></h6></li>
+<li><h6><a title="Hẹn hò" href="/tam-su/hen-ho">Hẹn hò</a></h6></li>
+</ul>
+<ul class="cat-menu fix-view-cate-17" data-cate="17">
+<li class="cuoi"><h6><a title="Cười" href="/cuoi">Cười</a></h6></li>
+<li><h6><a title="Ảnh" href="/cuoi/anh">Ảnh</a></h6></li>
+<li><h6><a title="Tiểu phẩm" href="/cuoi/tieu-pham">Tiểu phẩm</a></h6></li>
+<li><h6><a title="Video" href="/cuoi/video">Video</a></h6></li>
+</ul>
+</div>
+</div></div><div class="ss-scroll ss-hidden"></div></div>
+</div>
+<div class="content-right">
+<ul class="type-news">
+<li class="item-type"><h3><a title="Ảnh" href="/anh">Ảnh</a></h3></li>
+<li class="item-type"><h3><a title="Infographics" href="/infographics">Infographics</a></h3></li>
+</ul>
+<ul class="type-news">
+<li class="item-type"><h3><a title="Mới nhất" href="/tin-tuc-24h">Mới nhất</a></h3></li>
+<li class="item-type"><h3><a title="Xem nhiều" href="/tin-xem-nhieu">Xem nhiều</a></h3></li>
+<li class="item-type"><h3><a title="Tin nóng" href="/tin-nong">Tin nóng</a></h3></li>
+</ul>
+<ul class="list-link">
+<li class="link"><h3><a title="FSell" href="https://raovat.vnexpress.net/?utm_campaign=VNEXPRESS&amp;utm_source=footer&amp;utm_medium=menu">FSell</a></h3></li>
+<li class="link"><h3><a title="Shop VnExpress" href="https://shop.vnexpress.net/?utm_campaign=VNEXPRESS&amp;utm_source=footer&amp;utm_medium=menu">Shop VnExpress</a></h3></li>
+<li class="link"><h3><a title="Startup" href="https://startup.vnexpress.net/">Startup</a></h3></li>
+<li class="link"><h3><a title="Pay VnExpress" href="https://pay.vnexpress.net/">Pay VnExpress</a></h3></li>
+<li class="link"><h3><a title="Quà tặng" href="https://my.vnexpress.net/qua-tang/?utm_campaign=VNEXPRESS&amp;utm_source=footer&amp;utm_medium=menu">Quà tặng</a></h3></li>
+<li class="link"><h3><a title="Tuyển dụng" href="https://fptonline.net/tuyen-dung/">Tuyển dụng</a></h3></li>
+</ul>
+<div class="contact">
+<p>Liên hệ</p>
+<a title="Tòa soạn" href="/lien-he-toa-soan/" class="mail"><svg class="ic ic-mail"><use xlink:href="#Mail"></use></svg>Tòa soạn</a>
+<a title="Liên hệ quảng cáo" href="https://eclick.vn/lien-he" class="ads"><svg class="ic ic-ads"><use xlink:href="#Ads"></use></svg>Quảng cáo</a>
+</div>
+<div class="contact downloadapp">
+<p>Tải ứng dụng</p>
+<a title="VnExpress" href="#down-app-popup_vne" class="app_vne open-popup-link"><svg class="ic ic-vne"><use xlink:href="#letter-E"></use></svg>VnExpress</a>
+<a title="International" href="#down-app-popup_evne" class="app_vne open-popup-link"><svg class="ic ic-vne"><use xlink:href="#letter-E-grey"></use></svg>International</a>
+</div>
+</div>
+</div>
+</section>
+</section>
+<!--container 404-->
+<section class="section page-404">
+<div class="container">
+<form onsubmit="return checkSearch();" method="get" id="form-search" class="wrap-form-404">
+<img src="https://s1.vnecdn.net/vnexpress/restruct/i/v146/v2_2019/pc/graphics/404.svg" alt="" class="icon-404">
+<strong class="title-404">Không tìm thấy đường dẫn này</strong>
+<p>Bạn có thể truy cập vào <a href="/" title="">trang chủ</a> hoặc sử dụng ô dưới đây để tìm kiếm</p>
+<div class="input-search-text width_common">
+<input type="text" placeholder="Tìm kiếm thông tin" id="q">
+<button class="btn"><svg class="ic ic-search"><use xlink:href="#Search"></use></svg></button>
+</div>
+<label for="vne" class="input-radio">
+<input id="vne" type="radio" name="check" checked> <span class="title-input">VnExpress</span>
+</label>
+<label for="google" class="input-radio">
+<input id="google" type="radio" name="check"> <span class="title-input">Google</span>
+</label>
+<p class="width_common note-more-news">Dưới đây là một số tin tức nổi bật trong ngày mà bạn có thể quan tâm.</p>
+</form>
+</div>
+</section>
+<!--End container 404-->
+<section class="section section-suggest-404">
+<div class="container">
+<div class="list-news-five width_common">
+<div class="inner-list-news-five flexbox" id="content-top-news">
+<article class="item-news full-thumb box-placeholder">
+<div class="inner-item-news-five width_common">
+<div class="thumb-art">
+<a title="Loading" href="javascript:;" class="thumb thumb-5x3">
+</a>
+</div>
+<h4 class="title-news"><p class="text line"></p>
+<p class="text"></p></h4>
+<p class="meta-news">
+<p class="text line"></p>
+<p class="text"></p>
+</p>
+</div>
+</article>
+<article class="item-news full-thumb box-placeholder">
+<div class="inner-item-news-five width_common">
+<div class="thumb-art">
+<a title="Loading" href="javascript:;" class="thumb thumb-5x3">
+</a>
+</div>
+<h4 class="title-news"><p class="text line"></p>
+<p class="text"></p></h4>
+<p class="meta-news">
+<p class="text line"></p>
+<p class="text"></p>
+</p>
+</div>
+</article>
+<article class="item-news full-thumb box-placeholder">
+<div class="inner-item-news-five width_common">
+<div class="thumb-art">
+<a title="Loading" href="javascript:;" class="thumb thumb-5x3">
+</a>
+</div>
+<h4 class="title-news"><p class="text line"></p>
+<p class="text"></p></h4>
+<p class="meta-news">
+<p class="text line"></p>
+<p class="text"></p>
+</p>
+</div>
+</article>
+<article class="item-news full-thumb box-placeholder">
+<div class="inner-item-news-five width_common">
+<div class="thumb-art">
+<a title="Loading" href="javascript:;" class="thumb thumb-5x3">
+</a>
+</div>
+<h4 class="title-news"><p class="text line"></p>
+<p class="text"></p></h4>
+<p class="meta-news">
+<p class="text line"></p>
+<p class="text"></p>
+</p>
+</div>
+</article>
+<article class="item-news full-thumb box-placeholder">
+<div class="inner-item-news-five width_common">
+<div class="thumb-art">
+<a title="Loading" href="javascript:;" class="thumb thumb-5x3">
+</a>
+</div>
+<h4 class="title-news"><p class="text line"></p>
+<p class="text"></p></h4>
+<p class="meta-news">
+<p class="text line"></p>
+<p class="text"></p>
+</p>
+</div>
+</article>
+<article class="item-news full-thumb box-placeholder">
+<div class="inner-item-news-five width_common">
+<div class="thumb-art">
+<a title="Loading" href="javascript:;" class="thumb thumb-5x3">
+</a>
+</div>
+<h4 class="title-news"><p class="text line"></p>
+<p class="text"></p></h4>
+<p class="meta-news">
+<p class="text line"></p>
+<p class="text"></p>
+</p>
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
+<!--FOOTER-->
+<footer class="footer container" data-component-runtime="js" data-component-function="initLayout" data-component-input="{}" id="wrapper_footer">
+<div class="inner-footer width_common">
+<ul class="list-menu-footer">
+<li class="item-menu"><h6><a href="/" title="Trang chủ">Trang chủ</a></h6></li>
+<li class="item-menu"><h6><a href="https://video.vnexpress.net" title="Video">Video</a></h6></li>
+<li class="item-menu"><h6><a href="/anh" title="Ảnh">Ảnh</a></h6></li>
+<li class="item-menu"><h6><a href="/infographics" title="Infographics">Infographics</a></h6></li>
+<li class="item-menu border-top" style="padding-top: 15px;border-top: 1px solid #e5e5e5;"><h6><a href="/tin-tuc-24h" title="Mới nhất">Mới nhất</a></h6></li>
+<li class="item-menu"><h6><a href="/tin-xem-nhieu" title="Xem nhiều">Xem nhiều</a></h6></li>
+<li class="item-menu"><h6><a href="/tin-nong" title="Tin nóng">Tin nóng</a></h6></li>
+</ul>
+<ul class="list-menu-footer">
+<li class="item-menu"><h6><a href="/thoi-su" title="Thời sự">Thời sự</a></h6></li>
+<li class="item-menu"><h6><a href="/goc-nhin" title="Góc nhìn">Góc nhìn</a></h6></li>
+<li class="item-menu"><h6><a href="/the-gioi" title="Thế giới">Thế giới</a></h6></li>
+<li class="item-menu"><h6><a href="/phap-luat" title="Pháp luật">Pháp luật</a></h6></li>
+<li class="item-menu"><h6><a href="/kinh-doanh" title="Kinh doanh">Kinh doanh</a></h6></li>
+</ul>
+<ul class="list-menu-footer">
+<li class="item-menu"><h6><a href="/the-thao" title="Thể thao">Thể thao</a></h6></li>
+<li class="item-menu"><h6><a href="/giai-tri" title="Giải trí">Giải trí</a></h6></li>
+<li class="item-menu"><h6><a href="/so-hoa" title="Số hóa">Số hóa</a></h6></li>
+<li class="item-menu"><h6><a href="/du-lich" title="Du lịch">Du lịch</a></h6></li>
+<li class="item-menu"><h6><a href="/xe" title="Xe">Xe</a></h6></li>
+<li class="item-menu"><h6><a href="/khoa-hoc" title="Khoa học">Khoa học</a></h6></li>
+</ul>
+<ul class="list-menu-footer">
+<li class="item-menu"><h6><a href="/giao-duc" title="Giáo dục">Giáo dục</a></h6></li>
+<li class="item-menu"><h6><a href="/gia-dinh" title="Gia đình">Gia đình</a></h6></li>
+<li class="item-menu"><h6><a href="/suc-khoe" title="Sức khỏe">Sức khỏe</a></h6></li>
+<li class="item-menu"><h6><a href="/y-kien" title="Ý kiến">Ý kiến</a></h6></li>
+<li class="item-menu"><h6><a href="/tam-su" title="Tâm sự">Tâm sự</a></h6></li>
+<li class="item-menu"><h6><a href="/cuoi" title="Cười">Cười</a></h6></li>
+</ul>
+<ul class="list-menu-footer">
+<li class="item-menu"><h6><a target="_blank" href="https://raovat.vnexpress.net/" title="Fsell">FSell</a></h6></li>
+<li class="item-menu"><h6><a target="_blank" href="https://shop.vnexpress.net/" title="Shop VnExpress">Shop VnExpress</a></h6></li>
+<li class="item-menu"><h6><a target="_blank" href="https://startup.vnexpress.net/" title="Startup">Startup</a></h6></li>
+<li class="item-menu"><h6><a target="_blank" href="https://pay.vnexpress.net" title="Pay VnExpress">Pay VnExpress</a></h6></li>
+<li class="item-menu"><h6><a target="_blank" href="https://my.vnexpress.net/qua-tang/?utm_campaign=VNEXPRESS&amp;utm_source=footer&amp;utm_medium=menu" title="Quà tặng">Quà tặng</a></h6></li>
+<li class="item-menu"><h6><a target="_blank" href="https://fptonline.net/tuyen-dung/" title="Tuyển dụng">Tuyển dụng</a></h6></li>
+</ul>
+<div class="wrap-contact">
+<div class="contact downloadapp">
+<p>Tải ứng dụng</p>
+<a href="https://play.google.com/store/apps/details?id=fr.playsoft.vnexpress&amp;referrer=utm_source%3Dgoogle%26utm_medium%3Dbanner%26anid%3Dadmob" class="app_vne" title="VnExpress"><svg class="ic ic-vne"><use xlink:href="#letter-E"></use></svg>VnExpress</a>
+<a href="https://play.google.com/store/apps/details?id=fo.vnexpress.eng" class="app_evne" title="International"><svg class="ic ic-evne"><use xlink:href="#letter-E-grey"></use></svg>International</a>
+</div>
+<div class="contact">
+<p>Liên hệ</p>
+<a title="Liên hệ tòa soạn" href="/lien-he-toa-soan" class="mail"><svg class="ic ic-mail"><use xlink:href="#Mail"></use></svg>Tòa soạn</a>
+<a title="Liên hệ quảng cáo" href="https://eclick.vn/lien-he" class="ads"><svg class="ic ic-ads"><use xlink:href="#Ads"></use></svg>Quảng cáo</a>
+</div>
+<div class="hotline">
+<p>Đường dây nóng</p>
+<div class="left">
+<strong>083.888.0123</strong>
+</div>
+<div class="right">
+<strong>082.233.3555</strong>
+</div>
+</div>
+</div>
+</div>
+<div class="copyright width_common">
+<p><a href="/" data-medium="Logo" class="logo_ft" title="VnExpress - Báo tiếng Việt nhiều người xem nhất"><img src="https://s1.vnecdn.net/vnexpress/restruct/i/v335/v2_2019/pc/graphics/logo.svg" alt="VnExpress - Bao tieng Viet nhieu nguoi xem nhat"></a><span class="txt-copyright">© 1997-2020. Toàn bộ bản quyền thuộc VnExpress<br><strong>Báo tiếng Việt nhiều người xem nhất.</strong> Thuộc Bộ Khoa học Công nghệ.</span></p>
+<div class="right flexbox">
+<a href="/rss" data-medium="Menu-Rss" title="RSS">RSS</a>
+<span class="txt-follow">Theo dõi VnExpress trên</span>
+<a href="https://www.facebook.com/congdongvnexpress/" class="social_ft face_ft" title="Facebook"><svg class="ic ic-facebook"><use xlink:href="#Facebook"></use></svg></a>
+<a href="https://twitter.com/VnEnews" class="social_ft twitter_ft" title="Twitter"><svg class="ic ic-twitter"><use xlink:href="#Twitter"></use></svg></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCVRqZH5QnrnbMWhElPBD-MQ?sub_confirmation=1" class="social_ft youtube_ft" title="Youtube"><svg class="ic ic-youtube"><use xlink:href="#Youtube"></use></svg></a>
+</div>
+</div>
+</footer>
+<!--END FOOTER-->
+<!--Back to top-->
+<a href="javascript:;" id="to_top"><svg class="ic ic-arrow-up"><use xlink:href="#Arrow-Up-1"></use></svg></a>
+<script type="text/javascript" src="https://s1.vnecdn.net/vnexpress/restruct/j/v341/v2_2019/pc/common/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="https://s1.vnecdn.net/vnexpress/restruct/j/v341/v2_2019/pc/common/jquery.scrollbar.min.js"></script>
+<script type="text/javascript" src="https://s1.vnecdn.net/vnexpress/restruct/j/v341/v2_2019/pc/common/swiper.min.js"></script>
+<script type="text/javascript" src="https://s1.vnecdn.net/vnexpress/restruct/j/v341/v2_2019/pc/common/common.js"></script>
+<script type="text/javascript">
+  (function (window, document) {
+    let file = 'https://s1.vnecdn.net/vnexpress/restruct/c/v341/v2_2019/pc/images/graphics/icon-vne.svg';
+    revision = 4;
+    if (!document.createElementNS || !document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect)
+        return true;
+    var isLocalStorage = 'localStorage' in window && window['localStorage'] !== null,
+    request,
+    data,
+    insertIT = function () {
+        document.body.insertAdjacentHTML('afterbegin', data);
+    },
+    insert = function () {
+        if (document.body) insertIT();
+        else document.addEventListener('DOMContentLoaded', insertIT);
+    };
+
+    if (isLocalStorage && localStorage.getItem('inlineSVGrev') == revision) {
+        data = localStorage.getItem('inlineSVGdata');
+        if (data) {
+            insert();
+            return true;
+        }
+    }
+    try {
+        request = new XMLHttpRequest();
+        request.open('GET', file, true);
+        request.onload = function () {
+            if (request.status >= 200 && request.status < 400) {
+                data = request.responseText;
+                insert();
+                if (isLocalStorage) {
+                    localStorage.setItem('inlineSVGdata', data);
+                    localStorage.setItem('inlineSVGrev', revision);
+                }
+            }
+        }
+        request.send();
+    }
+    catch (e) {
+    }
+}(window, document));
+  function checkSearch() {
+    var q = $('#q').val();
+    if (!q || q == 'Tìm kiếm thông tin') {
+        alert('Bạn chưa nhập từ khóa');
+        return false;
+    }
+    if ($('#google:checked').length)
+    {
+        q = q+' site:vnexpress.net';
+        var url = 'https://www.google.com/search?q='+q;
+        window.open(url, '_blank');
+        window.focus();
+    }
+    else
+    {
+        var url = '//timkiem.vnexpress.net/?q='+q;
+        window.location.href = url;
+    }
+    return false;
+}
+$(".btn-view-cate").click((e) => {
+    let data = $(e.currentTarget).attr('data-cate');
+    $(".menu2-"+data).removeClass('hidden');
+    $(e.currentTarget).addClass('hidden');
+});
+window.history.pushState("", "", "/error.html");
+var dateOfWeek = ['Chủ nhật','Thứ hai','Thứ ba','Thứ tư','Thứ năm','Thứ sáu','Thứ bảy'];
+var date = new Date();
+// var fullDateTime = dateOfWeek[date.getDay()]+', '+date.getDate()+'/'+(date.getMonth()+1)+'/'+date.getFullYear() + ' ' + date.getHours()+':' +date.getMinutes() + ' (GMT+7)';
+var fullDateTime = dateOfWeek[date.getDay()]+', '+date.getDate()+'/'+(date.getMonth()+1)+'/'+date.getFullYear() + '';
+$('#time-now').html(fullDateTime);
+
+var showTime = function(unixtime){
+    var onNow = new Date();
+    var articleTime = new Date(unixtime*1000);
+    var ago = parseInt((onNow.getTime() - articleTime.getTime())/1000);
+    var minutes = ago/60;
+    var hours = ago/3600;
+    if(minutes < 60)
+    {
+        return '<span class="time-ago" datetime="'+articleTime.getTime()+'">'+Math.ceil(minutes)+"' trước</span>";
+    }
+    else if(minutes >= 60 && hours <= 24)
+    {
+        return '<span class="time-ago" datetime="'+articleTime.getTime()+'">'+Math.round(hours)+"h trước</span>";
+    }
+    else if(hours > 24)
+    {
+        var currentYear = new Date().getFullYear();
+        var articleYear = articleTime.getFullYear();
+        if(articleYear === currentYear)
+        {
+            return articleTime.getDate()+'/'+(articleTime.getMonth()+1);
+        }
+        else if(currentYear > articleYear)
+        {
+            return articleTime.getDate()+'/'+(articleTime.getMonth()+1)+'/'+articleTime.getFullYear();
+        }
+    }
+}
+
+var renderComment = function(arrArticle){
+    var share_url = arrArticle.share_url.split('?');
+    arrArticle.share_url = share_url[0];
+	var data = `
+        <a class="count_cmt" href="${arrArticle.share_url}#box_comment_vne" style="white-space: nowrap; display: none;">
+	     <svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+            <span class="txt_num_comment font_icon" data-type="comment" data-objecttype="${arrArticle.article_type}" data-objectid="${arrArticle.article_id}"></span>
+        </a>
+        `;
+	return data;
+}
+var js_url_vne = 'https://s1.vnecdn.net/vnexpress/restruct/j/v564';
+$.get("https://gw.vnexpress.net/bt?site_id=1000000&category_id=1000000&showed_area=trangchu_beta&data_select=title,lead,privacy,thumbnail_url,share_url,article_type,original_cate,article_category,publish_time&thumb_size=300x180&thumb_quality=100&thumb_dpr=1,2&thumb_fit=crop&limit=6", function(data, status){
+    var html = '';
+    data = data.data['trangchu_beta']['data'];
+    for (var i = 0; i < data.length; i++) {
+        var lead = '';
+        var thumb = '';
+        var classOffthumb = '';
+        if (data[i].off_thumb == 1 || data[i].thumbnail_url == '') {
+            classOffthumb = 'off-thumb';
+            var locationName = '';
+            if (data[i].location_name != null && data[i].location_name != '') {
+                locationName = `<span class="location-stamp">${data[i].location_name}</span>`;
+            }
+            lead = `<a href="${data[i].share_url}" title="${data[i].title}"><p class="description">${locationName}${data[i].lead}</p></a>`;
+        }else{
+            var keyImage = 'thumb_300_180_100_1_crop';
+            if (data[i].thumbnail_url.includes('.gif')) {
+                keyImage = 'thumb_gif_300_180_100_1_crop';
+            }
+            thumb = `<div class="thumb-art">
+                        <a href="${data[i].share_url}" title="${data[i].title}" class="thumb thumb-5x3"> 
+                            <img src="${data[i]['thumb_list'][keyImage]}" alt="${data[i].title}">  
+                        </a>
+                    </div>`;
+        }
+        html += `<article class="item-news full-thumb ${classOffthumb}">
+                    <div class="inner-item-news-five width_common">
+                        ${thumb}
+                        <h4 class="title-news"><a href="${data[i].share_url}" title="${data[i].title}">${data[i].title}</a></h4>
+                        ${lead}
+                        <p class="meta-news">
+                            <span class="time-public">${showTime(data[i].publish_time)}</span>
+                            ${renderComment(data[i])}
+                        </p>
+                    </div>
+                </article>`;
+    }
+    $('#content-top-news').html(html);
+
+    $.getScript("https://s1.vnecdn.net/vnexpress/restruct/j/v564/v3/production/usi.js",function(){
+        if (typeof CmtWidget != 'undefined') {
+            CmtWidget.mix();
+        }
+    });
+  });
+var header = document.getElementById('wrap-main-nav');
+if(header != null)
+{
+    var topHeader = document.querySelector('.section.top-header');
+    var offset = topHeader.offsetTop + topHeader.offsetHeight;
+    stickyMenu(offset);
+    window.addEventListener('scroll', () => {
+        offset = topHeader.offsetTop + topHeader.offsetHeight;
+        stickyMenu(offset);
+    });
+}
+
+function stickyMenu(offset){
+    if (window.pageYOffset > offset) {
+        if(!header.classList.contains('sticky')){
+            header.classList.add('sticky');
+            document.querySelectorAll('#wrap-main-nav a[data-itm-source*="vn_campaign=Header"]').forEach(el => {
+                var newHref = el.getAttribute('data-itm-source').replace('vn_campaign=Header', 'vn_campaign=Pinbar');
+                el.setAttribute('data-itm-source', newHref);
+            });
+        }
+        if(header.classList.contains('show-all-menu')){
+            document.querySelector('html').style.overflow = 'hidden';
+        }
+    } else {
+        if(header.classList.contains('sticky')){
+            header.classList.remove('sticky');
+            document.querySelectorAll('#wrap-main-nav a[data-itm-source*="vn_campaign=Pinbar"]').forEach(el => {
+                var newHref = el.getAttribute('data-itm-source').replace('vn_campaign=Pinbar', 'vn_campaign=Header');
+                el.setAttribute('data-itm-source', newHref);
+            });
+        }
+        if(!header.classList.contains('show-all-menu')){
+            document.querySelector('html').style.overflow = '';
+        }
+    }
+}
+</script>
+</body>
+</html>

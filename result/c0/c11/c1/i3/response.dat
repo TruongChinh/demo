@@ -1,0 +1,57 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 10177whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: HIT
+xdCache: HIT
+Server: 16477whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Xe - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:44:46 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/oto-xe-may.rss</link>
+    <item>
+      <title>Ôtô điện rộng đường sản xuất tại Việt Nam</title>
+      <description><![CDATA[<a href="https://vnexpress.net/oto-dien-rong-duong-san-xuat-tai-viet-nam-4107336.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/xedientaiVietnamvnexpress-1590-5022-2694-1590742510.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=C0KK16ieiaAyVe30zyx2kQ" ></a></br>Hưởng thuế nhập khẩu linh kiện 0%, ôtô điện sản xuất trong nước được miễn yêu cầu về sản lượng tối thiểu ở hai kỳ xét ưu đãi đầu. ]]></description>
+      <pubDate>Fri, 29 May 2020 16:04:35 +0700</pubDate>
+      <link>https://vnexpress.net/oto-dien-rong-duong-san-xuat-tai-viet-nam-4107336.html</link>
+      <guid>https://vnexpress.net/oto-dien-rong-duong-san-xuat-tai-viet-nam-4107336.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nissan - Renault - Mitsubishi - tựa nhau mà sống</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nissan-renault-mitsubishi-tua-nhau-ma-song-4105335.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/dsgydoixgaefuw4-1590724508-4396-1590724593.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=a0b70yvIEexiOgTPeIotoA" ></a></br>Sau 18 năm cống hiến giúp đưa Michelin trở thành nhà sản xuất lốp xe lớn nhất thế giới, Carlos Ghosn nhận nhiệm vụ mới: tái thiết Renault.]]></description>
+      <pubDate>Fri, 29 May 2020 11:01:04 +0700</pubDate>
+      <link>https://vnexpress.net/nissan-renault-mitsubishi-tua-nhau-ma-song-4105335.html</link>
+      <guid>https://vnexpress.net/nissan-renault-mitsubishi-tua-nhau-ma-song-4105335.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cách ra, vào ôtô an toàn và không hại cột sống</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cach-ra-vao-oto-an-toan-va-khong-hai-cot-song-4107037.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/videocapture1590722980221-1590-7713-1210-1590723076.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2nrzROvMu4kEXd1te0rzXg" ></a></br>Nên đưa phần mông vào trước rồi mới nhấc chân là cách vào xe tốt cho cột sống nhưng không nhiều tài xế áp dụng.]]></description>
+      <pubDate>Fri, 29 May 2020 10:31:51 +0700</pubDate>
+      <link>https://vnexpress.net/cach-ra-vao-oto-an-toan-va-khong-hai-cot-song-4107037.html</link>
+      <guid>https://vnexpress.net/cach-ra-vao-oto-an-toan-va-khong-hai-cot-song-4107037.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xe máy chở hai đứa trẻ suýt đấu đầu ôtô</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xe-may-cho-hai-dua-tre-suyt-dau-dau-oto-4106578.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/videocapture1590636706933-1590-9120-6896-1590636927.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wKoGPjlyFbKeB6C4oBCquQ" 

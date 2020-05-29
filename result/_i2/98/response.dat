@@ -1,0 +1,281 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 10377whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: MISS
+xdCache: MISS
+Server: 16277whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Số hóa - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:48:35 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/so-hoa.rss</link>
+    <item>
+      <title>Loạt TV 4K 55 inch giá 10 triệu đồng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/loat-tv-4k-55-inch-gia-10-trieu-dong-4107026.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/LG-UM7100-1590658524.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=UXCRaX_8iY9IfBbczaJOjQ" ></a></br>TV 4K 55 inch của Samsung, LG, Sony trong danh sách đều là sản phẩm của 2019 được giảm giá sâu để dọn đường đón model mới.]]></description>
+      <pubDate>Fri, 29 May 2020 14:46:21 +0700</pubDate>
+      <link>https://vnexpress.net/loat-tv-4k-55-inch-gia-10-trieu-dong-4107026.html</link>
+      <guid>https://vnexpress.net/loat-tv-4k-55-inch-gia-10-trieu-dong-4107026.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Điều luật 230 bảo vệ các công ty Internet của Mỹ thế nào</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dieu-luat-230-bao-ve-cac-cong-ty-internet-cua-my-the-nao-4107133.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/a1-1590728657-6534-1590728665.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_icgCIA79_7SFrBHIQQxfw" ></a></br>Điều 230 trong luật về Chuẩn mực Truyền thông của Mỹ bảo vệ các nền tảng mạng xã hội như Twitter, Facebook, YouTube khỏi các vụ kiện về nội dung. ]]></description>
+      <pubDate>Fri, 29 May 2020 11:57:58 +0700</pubDate>
+      <link>https://vnexpress.net/dieu-luat-230-bao-ve-cac-cong-ty-internet-cua-my-the-nao-4107133.html</link>
+      <guid>https://vnexpress.net/dieu-luat-230-bao-ve-cac-cong-ty-internet-cua-my-the-nao-4107133.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mark Zuckerberg: 'Mạng xã hội không nên làm trọng tài'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/mark-zuckerberg-mang-xa-hoi-khong-nen-lam-trong-tai-4107163.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/markzuckerberg1-1590727350-2369-1590727535.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lNPQR_v8p4ve7qHkPSF_tw" ></a></br>CEO Facebook, Mark Zuckerberg, cho rằng mạng xã hội không nên là nơi kiểm tra tính thực tế của thông tin đăng bởi chính trị gia.]]></description>
+      <pubDate>Fri, 29 May 2020 15:25:08 +0700</pubDate>
+      <link>https://vnexpress.net/mark-zuckerberg-mang-xa-hoi-khong-nen-lam-trong-tai-4107163.html</link>
+      <guid>https://vnexpress.net/mark-zuckerberg-mang-xa-hoi-khong-nen-lam-trong-tai-4107163.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Giới công nghệ lo sắc lệnh của Trump gây tác dụng ngược</title>
+      <description><![CDATA[<a href="https://vnexpress.net/gioi-cong-nghe-lo-sac-lenh-cua-trump-gay-tac-dung-nguoc-4107125.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/FB-6404-1590728623.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=EcXuYTVw2D5AeL3wmU_e7g" ></a></br>Các hãng Internet và chuyên gia công nghệ chỉ trích sắc lệnh mới của Trump, cho rằng nỗ lực bảo vệ phát ngôn trực tuyến của ông có thể phản tác dụng.]]></description>
+      <pubDate>Fri, 29 May 2020 12:09:47 +0700</pubDate>
+      <link>https://vnexpress.net/gioi-cong-nghe-lo-sac-lenh-cua-trump-gay-tac-dung-nguoc-4107125.html</link>
+      <guid>https://vnexpress.net/gioi-cong-nghe-lo-sac-lenh-cua-trump-gay-tac-dung-nguoc-4107125.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mark Zuckerberg cố phân biệt Facebook với Twitter</title>
+      <description><![CDATA[<a href="https://vnexpress.net/mark-zuckerberg-co-phan-biet-facebook-voi-twitter-4107058.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/sssssPNG-1590720114-4695-1590720330.png?w=900&h=0&q=100&dpr=1&fit=crop&s=akaJDbq9F-nS49Lf53Hg0Q" ></a></br>CEO Mark Zuckerberg đang cố gắng tránh xung đột với Tổng thống Donald Trump khi cho rằng cách thức hoạt động của Facebook khác Twitter.]]></description>
+      <pubDate>Fri, 29 May 2020 09:54:10 +0700</pubDate>
+      <link>https://vnexpress.net/mark-zuckerberg-co-phan-biet-facebook-voi-twitter-4107058.html</link>
+      <guid>https://vnexpress.net/mark-zuckerberg-co-phan-biet-facebook-voi-twitter-4107058.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Điện thoại cận cao cấp đua giảm giá</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dien-thoai-can-cao-cap-dua-giam-gia-4106188.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/samsunggalaxya802-1590572566-5860-1590572671.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=i0mxqlAcZWu9qTz7dW6pQg" ></a></br>Nhiều smartphone tầm 15 triệu đồng của Apple, Samsung... đang được điều chỉnh giá xuống dưới 10 triệu đồng. ]]></description>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/dien-thoai-can-cao-cap-dua-giam-gia-4106188.html</link>
+      <guid>https://vnexpress.net/dien-thoai-can-cao-cap-dua-giam-gia-4106188.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Công ty mẹ TikTok âm thầm rời Trung Quốc</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cong-ty-me-tiktok-am-tham-roi-trung-quoc-4107132.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/globalTiktok-1590724154-4892-1590725186.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2jC9sI4w8GIEoGQAtJW5lA" ></a></br>ByteDance, công ty mẹ của TikTok đang từng bước rời bỏ quê nhà Trung Quốc để hướng đến thị trường toàn cầu. Mỹ có thể là đích đến của họ.]]></description>
+      <pubDate>Fri, 29 May 2020 11:44:59 +0700</pubDate>
+      <link>https://vnexpress.net/cong-ty-me-tiktok-am-tham-roi-trung-quoc-4107132.html</link>
+      <guid>https://vnexpress.net/cong-ty-me-tiktok-am-tham-roi-trung-quoc-4107132.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Samsung bắt đầu sản xuất chip cho Galaxy Note20</title>
+      <description><![CDATA[<a href="https://vnexpress.net/samsung-bat-dau-san-xuat-chip-cho-galaxy-note20-4106907.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/gsmarena-002-6104-1590674169.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=5o7p3MD7bfaO4Lwh5z3NcQ" ></a></br>Mẫu chip mới của Samsung là Exynos 992 sẽ được sản xuất theo quy trình 5nm và ra mắt cùng lúc với Galaxy Note20.]]></description>
+      <pubDate>Fri, 29 May 2020 08:26:38 +0700</pubDate>
+      <link>https://vnexpress.net/samsung-bat-dau-san-xuat-chip-cho-galaxy-note20-4106907.html</link>
+      <guid>https://vnexpress.net/samsung-bat-dau-san-xuat-chip-cho-galaxy-note20-4106907.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>iPhone 13 sẽ không có cổng vật lý</title>
+      <description><![CDATA[<a href="https://vnexpress.net/iphone-13-se-khong-co-cong-vat-ly-4106584.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/MartinHajekiPhone7Pro07-159064-4437-2659-1590642145.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=RRaufxC3Hscnyx8MrFKjVQ" ></a></br>Apple được cho là vẫn dùng Lightning cho iPhone thêm một năm, trước khi loại bỏ cổng kết nối này và thay bằng Smart Connector với toàn bộ iPhone 2021.]]></description>
+      <pubDate>Fri, 29 May 2020 08:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/iphone-13-se-khong-co-cong-vat-ly-4106584.html</link>
+      <guid>https://vnexpress.net/iphone-13-se-khong-co-cong-vat-ly-4106584.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Bóng ma' Deepfake đang lan ra đời thực</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bong-ma-deepfake-dang-lan-ra-doi-thuc-4105835.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/fake-8587-1590650879.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=xgpJQDN9eMykzbV2AyRT9w" ></a></br>Ban đầu xuất hiện chủ yếu trong video khiêu dâm, deepfake bắt đầu lan sang lĩnh vực chính trị với nguy cơ tạo ra tác động lớn ngoài đời thực.]]></description>
+      <pubDate>Fri, 29 May 2020 07:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/bong-ma-deepfake-dang-lan-ra-doi-thuc-4105835.html</link>
+      <guid>https://vnexpress.net/bong-ma-deepfake-dang-lan-ra-doi-thuc-4105835.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Reno3 seflie thiếu sáng 'nét' không kém camera sau</title>
+      <description><![CDATA[<a href="https://vnexpress.net/so-hoa/reno3-seflie-thieu-sang-net-khong-kem-camera-sau-4107401.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/dsc01257-jpg-1590742482-6056-1590742590.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_tOaVKr7J80xr_Exb_5rqg" ></a></br>Nhờ độ phân giải 44 megapixel cùng tính năng Siêu chụp đêm, Reno3 cho ảnh selfie sắc nét, màu sắc sâu, tương phản cao ở cả những khung cảnh thiếu sáng.]]></description>
+      <pubDate>Fri, 29 May 2020 16:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/so-hoa/reno3-seflie-thieu-sang-net-khong-kem-camera-sau-4107401.html</link>
+      <guid>https://vnexpress.net/so-hoa/reno3-seflie-thieu-sang-net-khong-kem-camera-sau-4107401.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sức hút từ TV tràn viền 99% đầu tiên trên thế giới</title>
+      <description><![CDATA[<a href="https://vnexpress.net/suc-hut-tu-tv-tran-vien-99-dau-tien-tren-the-gioi-4107273.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/3131231-1590737165-8200-1590737173.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6CBCAGXTIajU2-3_mAer2w" ></a></br>Viền màn hình 2,3 mm, khả năng nâng cấp nguồn phát, tự động điều chỉnh âm lượng... là những điểm nhấn của dòng Samsung QLED 8K mới.]]></description>
+      <pubDate>Fri, 29 May 2020 14:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/suc-hut-tu-tv-tran-vien-99-dau-tien-tren-the-gioi-4107273.html</link>
+      <guid>https://vnexpress.net/suc-hut-tu-tv-tran-vien-99-dau-tien-tren-the-gioi-4107273.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Trở ngại lớn nhất của Huawei không phải là chip</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tro-ngai-lon-nhat-cua-huawei-khong-phai-la-chip-4106800.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/huaweimobileservicesappgallery-1780-5194-1590657224.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=0M0dSLaqAHjEY_6ahf1kfw" ></a></br>Huawei có thể xoay xở đủ chip để sản xuất smartphone, nỗi lo lớn hơn của hãng lúc này là liệu hệ sinh thái ứng dụng HMS có thể sống sót.]]></description>
+      <pubDate>Thu, 28 May 2020 20:50:22 +0700</pubDate>
+      <link>https://vnexpress.net/tro-ngai-lon-nhat-cua-huawei-khong-phai-la-chip-4106800.html</link>
+      <guid>https://vnexpress.net/tro-ngai-lon-nhat-cua-huawei-khong-phai-la-chip-4106800.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>10 smartphone phổ biến nhất thế giới đầu 2020</title>
+      <description><![CDATA[<a href="https://vnexpress.net/10-smartphone-pho-bien-nhat-the-gioi-dau-2020-4106575.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/a1.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=636NxRZHGFVHYPJilchBFw" ></a></br>iPhone 11 thay iPhone XR giữ vị trí số một, cả Apple và Samsung đều có 4 đại diện góp mặt, trong khi Xiaomi có hai.]]></description>
+      <pubDate>Thu, 28 May 2020 14:19:34 +0700</pubDate>
+      <link>https://vnexpress.net/10-smartphone-pho-bien-nhat-the-gioi-dau-2020-4106575.html</link>
+      <guid>https://vnexpress.net/10-smartphone-pho-bien-nhat-the-gioi-dau-2020-4106575.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>CEO Twitter: AI sẽ đe dọa công việc lập trình viên</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ceo-twitter-ai-se-de-doa-cong-viec-lap-trinh-vien-4106420.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/TW-3883-1590627096.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=q54VOSKmnZNitz3eaPLllg" ></a></br>CEO Twitter Jack Dorsey cho rằng sự phát triển của AI có thể khiến nhiều người trong ngành công nghệ mất việc, trong đó có cả kỹ sư phần mềm.]]></description>
+      <pubDate>Thu, 28 May 2020 14:06:14 +0700</pubDate>
+      <link>https://vnexpress.net/ceo-twitter-ai-se-de-doa-cong-viec-lap-trinh-vien-4106420.html</link>
+      <guid>https://vnexpress.net/ceo-twitter-ai-se-de-doa-cong-viec-lap-trinh-vien-4106420.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>VinSmart bán được 1,2 triệu smartphone</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vinsmart-ban-duoc-1-2-trieu-smartphone-4106452.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/a2-1590633004-5793-1590633067.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=s_SZu8kr_4kDV2oboZCoIQ" ></a></br>Tập đoàn VinSmart hôm nay công bố đã bán được 1,2 triệu smartphone trong 17 tháng, trong đó phần lớn doanh số đến từ 4 tháng đầu năm nay.]]></description>
+      <pubDate>Thu, 28 May 2020 09:45:16 +0700</pubDate>
+      <link>https://vnexpress.net/vinsmart-ban-duoc-1-2-trieu-smartphone-4106452.html</link>
+      <guid>https://vnexpress.net/vinsmart-ban-duoc-1-2-trieu-smartphone-4106452.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>iPhone 12 sẽ ra mắt vào tháng 11</title>
+      <description><![CDATA[<a href="https://vnexpress.net/iphone-12-se-ra-mat-vao-thang-11-4106386.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/iPhone121-1590621564-7659-1590621616.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=sDqUQ1_bgEoVxfRqmRjKrA" ></a></br>Ảnh hưởng từ dịch bệnh khiến smartphone mới của Apple năm nay ra mắt muộn hai tháng so với thông lệ.]]></description>
+      <pubDate>Thu, 28 May 2020 08:15:46 +0700</pubDate>
+      <link>https://vnexpress.net/iphone-12-se-ra-mat-vao-thang-11-4106386.html</link>
+      <guid>https://vnexpress.net/iphone-12-se-ra-mat-vao-thang-11-4106386.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Smartphone tốt nhất thế giới nửa đầu 2020</title>
+      <description><![CDATA[<a href="https://vnexpress.net/smartphone-tot-nhat-the-gioi-nua-dau-2020-4106135.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/Oppo-Find-X2-1590562623.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=OjUozq-fZyNQDGMTJ2BREA" ></a></br>Các sản phẩm của Apple, Samsung, Xiaomi, Oppo và OnePlus được đánh giá cao theo các tiêu chí: giá, chất lượng camera, màn hình và hiệu năng.]]></description>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/smartphone-tot-nhat-the-gioi-nua-dau-2020-4106135.html</link>
+      <guid>https://vnexpress.net/smartphone-tot-nhat-the-gioi-nua-dau-2020-4106135.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Facebook bị tố 'dung túng' nội dung bất hợp pháp</title>
+      <description><![CDATA[<a href="https://vnexpress.net/facebook-bi-to-dung-tung-noi-dung-bat-hop-phap-4106704.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/facebook23870891920-1590656911-8822-1590657287.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lPbKqd7f7BAwIFmxiKZM-Q" ></a></br>Một nhóm người dùng đã gửi đơn lên chính quyền Mỹ, tố cáo Facebook bán các loại thuốc cấm công khai và "lấp liếm" khi bị phát hiện.]]></description>
+      <pubDate>Thu, 28 May 2020 16:20:23 +0700</pubDate>
+      <link>https://vnexpress.net/facebook-bi-to-dung-tung-noi-dung-bat-hop-phap-4106704.html</link>
+      <guid>https://vnexpress.net/facebook-bi-to-dung-tung-noi-dung-bat-hop-phap-4106704.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Google bị kiện vì theo dõi vị trí người dùng Android</title>
+      <description><![CDATA[<a href="https://vnexpress.net/google-bi-kien-vi-theo-doi-vi-tri-nguoi-dung-android-4106500.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/imrswebp-1590635767-7101-1590636018.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=e97TaSKPgMW4fxQmFAl_Sg" ></a></br>Ngày 27/5, Tổng chưởng lý bang Arizona Mark Brnovich đệ đơn kiện Google, cáo buộc công ty thu thập dữ liệu vị trí trái phép qua điện thoại Android.]]></description>
+      <pubDate>Thu, 28 May 2020 10:46:23 +0700</pubDate>
+      <link>https://vnexpress.net/google-bi-kien-vi-theo-doi-vi-tri-nguoi-dung-android-4106500.html</link>
+      <guid>https://vnexpress.net/google-bi-kien-vi-theo-doi-vi-tri-nguoi-dung-android-4106500.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Facebook ra ứng dụng Collab cạnh tranh với TikTok</title>
+      <description><![CDATA[<a href="https://vnexpress.net/facebook-ra-ung-dung-collab-canh-tranh-voi-tiktok-4106389.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/ScreenShot20200528at64358AM-15-2942-9181-1590623420.png?w=900&h=0&q=100&dpr=1&fit=crop&s=DtsXGzzQxpCkPmfj5r1hvA" ></a></br>Facebook Collab được coi là bản sao của TikTok khi dùng âm nhạc là yếu tố chủ đạo để sáng tạo, chia sẻ nội dung.]]></description>
+      <pubDate>Thu, 28 May 2020 09:09:43 +0700</pubDate>
+      <link>https://vnexpress.net/facebook-ra-ung-dung-collab-canh-tranh-voi-tiktok-4106389.html</link>
+      <guid>https://vnexpress.net/facebook-ra-ung-dung-collab-canh-tranh-voi-tiktok-4106389.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Google hỗ trợ 1.000 USD cho mỗi nhân viên làm việc từ xa</title>
+      <description><![CDATA[<a href="https://vnexpress.net/google-ho-tro-1-000-usd-cho-moi-nhan-vien-lam-viec-tu-xa-4106196.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/googlebuilding2-1590572444-9300-1590573204.png?w=900&h=0&q=100&dpr=1&fit=crop&s=A-xcHexx8uby_KZuN35KJQ" ></a></br>Những nhân viên làm việc từ xa của Google sẽ được hỗ trợ 1.000 USD để mua thiết bị phục vụ công việc.]]></description>
+      <pubDate>Thu, 28 May 2020 07:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/google-ho-tro-1-000-usd-cho-moi-nhan-vien-lam-viec-tu-xa-4106196.html</link>
+      <guid>https://vnexpress.net/google-ho-tro-1-000-usd-cho-moi-nhan-vien-lam-viec-tu-xa-4106196.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Những thiết bị điện tử cải thiện chất lượng không khí trong nhà</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nhung-thiet-bi-dien-tu-cai-thien-chat-luong-khong-khi-trong-nha-4105213.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/image001-7927-1590599776-15906-2680-8945-1590626237.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QmbYnOGb6jBWlqDgYz9UiQ" ></a></br>Quạt trần, quạt hút, máy lọc không khí, và quạt điện giúp lưu thông, luân chuyển và lọc không khí tại các căn hộ ở đô thị lớn.]]></description>
+      <pubDate>Thu, 28 May 2020 08:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nhung-thiet-bi-dien-tu-cai-thien-chat-luong-khong-khi-trong-nha-4105213.html</link>
+      <guid>https://vnexpress.net/nhung-thiet-bi-dien-tu-cai-thien-chat-luong-khong-khi-trong-nha-4105213.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Khi cha mẹ không muốn kết bạn với con trên Facebook</title>
+      <description><![CDATA[<a href="https://vnexpress.net/khi-cha-me-khong-muon-ket-ban-voi-con-tren-facebook-4106052.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/im190287-1590571382-3742-1590572101.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=L8_-5wGXugym58FhV5DKhQ" ></a></br>Kim Adam đã nhấn nút từ chối con gái 15 tuổi của mình, sau khi bé gửi yêu cầu kết bạn qua tài khoản Facebook.]]></description>
+      <pubDate>Wed, 27 May 2020 19:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/khi-cha-me-khong-muon-ket-ban-voi-con-tren-facebook-4106052.html</link>
+      <guid>https://vnexpress.net/khi-cha-me-khong-muon-ket-ban-voi-con-tren-facebook-4106052.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Elon Musk - người hùng nhiều tai tiếng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/elon-musk-nguoi-hung-nhieu-tai-tieng-4105602.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/992970572610891651393216585564-3799-9832-1590566153.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=t6paSh2Fq-lw3DIUxgkjzQ" ></a></br>Elon Musk có nhiều người ghét và hoài nghi, nhưng ít nhất, NASA hoàn toàn tin tưởng ông, giao cho SpaceX – công ty tư nhân đầu tiên – đưa người vào không gian. ]]></description>
+      <pubDate>Wed, 27 May 2020 14:27:53 +0700</pubDate>
+      <link>https://vnexpress.net/elon-musk-nguoi-hung-nhieu-tai-tieng-4105602.html</link>
+      <guid>https://vnexpress.net/elon-musk-nguoi-hung-nhieu-tai-tieng-4105602.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xiaomi có thể ngừng sản xuất smartphone 4G từ 2020</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xiaomi-co-the-ngung-san-xuat-smartphone-4g-tu-2020-4106315.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/xiaomi-1590588566-7455-1590588624.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=O_crxaDu6ZtOT5ex6bKeHw" ></a></br>CEO Xiaomi tuyên bố ngừng sản xuất smartphone 4G ở thị trường Trung Quốc từ cuối năm nay, tập trung cho công nghệ 5G.]]></description>
+      <pubDate>Wed, 27 May 2020 21:15:26 +0700</pubDate>
+      <link>https://vnexpress.net/xiaomi-co-the-ngung-san-xuat-smartphone-4g-tu-2020-4106315.html</link>
+      <guid>https://vnexpress.net/xiaomi-co-the-ngung-san-xuat-smartphone-4g-tu-2020-4106315.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Smartphone 4 camera giá dưới 5 triệu đồng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/smartphone-4-camera-gia-duoi-5-trieu-dong-4106194.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/GalaxyA21-1590571040-5958-1590571083.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=X9h7gOCzp7KclDSItgFgvw" ></a></br>Galaxy A21s là smartphone rẻ nhất của Samsung được trang bị 4 camera ở mặt lưng, hỗ trợ chụp ảnh góc siêu rộng và macro.]]></description>
+      <pubDate>Wed, 27 May 2020 16:23:25 +0700</pubDate>
+      <link>https://vnexpress.net/smartphone-4-camera-gia-duoi-5-trieu-dong-4106194.html</link>
+      <guid>https://vnexpress.net/smartphone-4-camera-gia-duoi-5-trieu-dong-4106194.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đánh giá TV 8K - Samsung Q950TS</title>
+      <description><![CDATA[<a href="https://vnexpress.net/danh-gia-tv-8k-samsung-q950ts-4105051.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/settop-1590556699-2298-1590556708.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LHlfTwu5bx77CXd8-nBZiA" ></a></br>Mẫu TV 8K của Samsung có thiết kế gần như không viền và khả năng upscale hình ảnh 8K bằng AI tốt. ]]></description>
+      <pubDate>Wed, 27 May 2020 12:18:28 +0700</pubDate>
+      <link>https://vnexpress.net/danh-gia-tv-8k-samsung-q950ts-4105051.html</link>
+      <guid>https://vnexpress.net/danh-gia-tv-8k-samsung-q950ts-4105051.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Google, Microsoft bị tố 'tiếp tay' cho công ty giám sát Trung Quốc</title>
+      <description><![CDATA[<a href="https://vnexpress.net/google-microsoft-bi-to-tiep-tay-cho-cong-ty-giam-sat-trung-quoc-4105973.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/GG-6921-1590554546.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Sp7OaKbNGxOKRrWitVjNcg" ></a></br>Một số hãng như Amazon, Microsoft và Google được cho là đang cung cấp dịch vụ web cho các công ty giám sát Trung Quốc nằm trong "danh sách đen" của Mỹ.]]></description>
+      <pubDate>Wed, 27 May 2020 11:52:39 +0700</pubDate>
+      <link>https://vnexpress.net/google-microsoft-bi-to-tiep-tay-cho-cong-ty-giam-sat-trung-quoc-4105973.html</link>
+      <guid>https://vnexpress.net/google-microsoft-bi-to-tiep-tay-cho-cong-ty-giam-sat-trung-quoc-4105973.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nhu cầu phần mềm VPN tại Hong Kong tăng vọt</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nhu-cau-phan-mem-vpn-tai-hong-kong-tang-vot-4105902.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/raw-1590553666-4793-1590553971.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=sjzG6QK5umtGbnXXLATF1w" ></a></br>Lượng người dùng tìm và cài đặt phần mềm mạng riêng ảo (VPN) tại Hong Kong đã tăng mạnh sau khi dự luật an ninh Hong Kong được đệ trình.]]></description>
+      <pubDate>Wed, 27 May 2020 11:43:57 +0700</pubDate>
+      <link>https://vnexpress.net/nhu-cau-phan-mem-vpn-tai-hong-kong-tang-vot-4105902.html</link>
+      <guid>https://vnexpress.net/nhu-cau-phan-mem-vpn-tai-hong-kong-tang-vot-4105902.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>YouTube xóa bình luận 'nói xấu' chính quyền Trung Quốc</title>
+      <description><![CDATA[<a href="https://vnexpress.net/youtube-xoa-binh-luan-noi-xau-chinh-quyen-trung-quoc-4105808.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/acastro1803211777youtube00020w-2542-2293-1590548629.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QGyn__1tFYq0z_rudIDhNg" ></a></br>YouTube đã xóa một số bình luận bằng tiếng Trung mang hàm ý "nói xấu" Đảng Cộng sản Trung Quốc, nhưng mạng video này cho rằng chỉ là lỗi hệ thống.]]></description>
+      <pubDate>Wed, 27 May 2020 10:53:19 +0700</pubDate>
+      <link>https://vnexpress.net/youtube-xoa-binh-luan-noi-xau-chinh-quyen-trung-quoc-4105808.html</link>
+      <guid>https://vnexpress.net/youtube-xoa-binh-luan-noi-xau-chinh-quyen-trung-quoc-4105808.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Anh trai trùm ma túy Escobar kiện Apple 2,6 tỷ USD</title>
+      <description><![CDATA[<a href="https://vnexpress.net/anh-trai-trum-ma-tuy-escobar-kien-apple-2-6-ty-usd-4105795.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/27/Appe1-1590547283-3504-1590547382.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rxgdkjhSq-NbZ2m61dq8tA" 

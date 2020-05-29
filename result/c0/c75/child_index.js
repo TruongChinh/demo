@@ -1,0 +1,7 @@
+var child = [
+  { 'dupe': false, 'type': 32, 'name': 'du-hoc', 'dir': 'c0', 'linked': 2, 'url': 'https://vnexpress.net/giao-duc/du-hoc', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'giao-duc-40', 'dir': 'c1', 'linked': 2, 'url': 'https://vnexpress.net/giao-duc/giao-duc-40', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'hoc-tieng-anh', 'dir': 'c2', 'linked': 2, 'url': 'https://vnexpress.net/giao-duc/hoc-tieng-anh', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'trac-nghiem', 'dir': 'c3', 'linked': 2, 'url': 'https://vnexpress.net/giao-duc/trac-nghiem', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'tuyen-sinh', 'dir': 'c4', 'linked': 2, 'url': 'https://vnexpress.net/giao-duc/tuyen-sinh', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 }
+];

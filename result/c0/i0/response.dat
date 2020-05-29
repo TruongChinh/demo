@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Location: https://vnexpress.net/eSc9876
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 16177whvndd10bf7c7468e873e79ba2ad41
+Server: 16177whvndd10bf7c7468e873e79ba2ad41
+Date: Fri, 29 May 2020 10:48:34 GMT
+X-Page-Speed: 1.13.35.2-0
+Cache-Control: max-age=0, no-cache
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

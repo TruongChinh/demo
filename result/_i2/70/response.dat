@@ -1,0 +1,57 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 10977bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 10377whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: MISS
+xdCache: MISS
+Server: 16277whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Số hóa - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:48:35 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/so-hoa.rss</link>
+    <item>
+      <title>Loạt TV 4K 55 inch giá 10 triệu đồng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/loat-tv-4k-55-inch-gia-10-trieu-dong-4107026.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/28/LG-UM7100-1590658524.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=UXCRaX_8iY9IfBbczaJOjQ" ></a></br>TV 4K 55 inch của Samsung, LG, Sony trong danh sách đều là sản phẩm của 2019 được giảm giá sâu để dọn đường đón model mới.]]></description>
+      <pubDate>Fri, 29 May 2020 14:46:21 +0700</pubDate>
+      <link>https://vnexpress.net/loat-tv-4k-55-inch-gia-10-trieu-dong-4107026.html</link>
+      <guid>https://vnexpress.net/loat-tv-4k-55-inch-gia-10-trieu-dong-4107026.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Điều luật 230 bảo vệ các công ty Internet của Mỹ thế nào</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dieu-luat-230-bao-ve-cac-cong-ty-internet-cua-my-the-nao-4107133.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/a1-1590728657-6534-1590728665.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_icgCIA79_7SFrBHIQQxfw" ></a></br>Điều 230 trong luật về Chuẩn mực Truyền thông của Mỹ bảo vệ các nền tảng mạng xã hội như Twitter, Facebook, YouTube khỏi các vụ kiện về nội dung. ]]></description>
+      <pubDate>Fri, 29 May 2020 11:57:58 +0700</pubDate>
+      <link>https://vnexpress.net/dieu-luat-230-bao-ve-cac-cong-ty-internet-cua-my-the-nao-4107133.html</link>
+      <guid>https://vnexpress.net/dieu-luat-230-bao-ve-cac-cong-ty-internet-cua-my-the-nao-4107133.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mark Zuckerberg: 'Mạng xã hội không nên làm trọng tài'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/mark-zuckerberg-mang-xa-hoi-khong-nen-lam-trong-tai-4107163.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/markzuckerberg1-1590727350-2369-1590727535.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lNPQR_v8p4ve7qHkPSF_tw" ></a></br>CEO Facebook, Mark Zuckerberg, cho rằng mạng xã hội không nên là nơi kiểm tra tính thực tế của thông tin đăng bởi chính trị gia.]]></description>
+      <pubDate>Fri, 29 May 2020 15:25:08 +0700</pubDate>
+      <link>https://vnexpress.net/mark-zuckerberg-mang-xa-hoi-khong-nen-lam-trong-tai-4107163.html</link>
+      <guid>https://vnexpress.net/mark-zuckerberg-mang-xa-hoi-khong-nen-lam-trong-tai-4107163.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Giới công nghệ lo sắc lệnh của Trump gây tác dụng ngược</title>
+      <description><![CDATA[<a href="https://vnexpress.net/gioi-cong-nghe-lo-sac-lenh-cua-trump-gay-tac-dung-nguoc-4107125.html"><img src="https://i1-sohoa.vnecdn.net/2020/05/29/FB-6404-1590728623.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=EcXuYTVw2D5AeL3wmU_e7g" 

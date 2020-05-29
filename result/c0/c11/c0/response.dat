@@ -1,0 +1,512 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 11777bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 10377whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: HIT
+xdCache: HIT
+Server: 16377whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Cười - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:37:46 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/cuoi.rss</link>
+    <item>
+      <title>Bé trai hai tuổi đánh trống khiến giám khảo ngỡ ngàng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/be-trai-hai-tuoi-danh-trong-khien-giam-khao-ngo-ngang-4107266.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/Untitled1-1590730076-5057-1590730543.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=D653VtzWjD7RByudXNmUmA" ></a></br>Khúc dạo đầu khiến ai cũng nghi ngờ nhưng sau đó mọi người đều tỏ ra thích thú.]]></description>
+      <pubDate>Fri, 29 May 2020 15:33:55 +0700</pubDate>
+      <link>https://vnexpress.net/be-trai-hai-tuoi-danh-trong-khien-giam-khao-ngo-ngang-4107266.html</link>
+      <guid>https://vnexpress.net/be-trai-hai-tuoi-danh-trong-khien-giam-khao-ngo-ngang-4107266.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Lợn rừng rụng rời vì 'khám phá' cầu kính</title>
+      <description><![CDATA[<a href="https://vnexpress.net/lon-rung-rung-roi-vi-kham-pha-cau-kinh-4104825.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Untitled1-1590391999-3410-1590392202.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=N4edtqhmXISHOquidxwECA" ></a></br>Quá ham chơi, lợn rừng chạy lạc lên cầu kính rồi trải nghiệm chuyến đi khó quên trong đời.]]></description>
+      <pubDate>Fri, 29 May 2020 14:25:39 +0700</pubDate>
+      <link>https://vnexpress.net/lon-rung-rung-roi-vi-kham-pha-cau-kinh-4104825.html</link>
+      <guid>https://vnexpress.net/lon-rung-rung-roi-vi-kham-pha-cau-kinh-4104825.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mang 'thú dữ' ra bãi biển tắm nắng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/mang-thu-du-ra-bai-bien-tam-nang-4105931.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/Untitled1-1590721072-4497-1590721258.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=uVl3yFqiUVDq-4ur4NlOKA" ></a></br>Cá sấu, sư tử hay rắn đều được người đàn ông mang ra bãi cát tắm cùng đám đông.]]></description>
+      <pubDate>Fri, 29 May 2020 11:00:48 +0700</pubDate>
+      <link>https://vnexpress.net/mang-thu-du-ra-bai-bien-tam-nang-4105931.html</link>
+      <guid>https://vnexpress.net/mang-thu-du-ra-bai-bien-tam-nang-4105931.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mèo ra sức bênh cô chủ khi bị mẹ mắng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/meo-ra-suc-benh-co-chu-khi-bi-me-mang-4106071.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled1-1590565168-9056-1590565367.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JuQp84FfMmrBm0uEw4on3Q" ></a></br>Chú mèo đứng một bên, nhất quyết không cho người mẹ chạm vào người bé gái.]]></description>
+      <pubDate>Fri, 29 May 2020 10:12:33 +0700</pubDate>
+      <link>https://vnexpress.net/meo-ra-suc-benh-co-chu-khi-bi-me-mang-4106071.html</link>
+      <guid>https://vnexpress.net/meo-ra-suc-benh-co-chu-khi-bi-me-mang-4106071.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Võ sư Trung Quốc bọc da lợn vào bụng lừa dối khán giả</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-su-trung-quoc-boc-da-lon-vao-bung-lua-doi-khan-gia-4106727.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/Untitled1-1590652513-6717-1590652742.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=R7TSgIg3Zy-IXVcupLlEWg" ></a></br>Trong đoạn biểu diễn 'kim cương bất hoại', Mã Bảo Quốc bị vạch trần dùng chiêu trò để lừa dối người xem.]]></description>
+      <pubDate>Fri, 29 May 2020 08:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/vo-su-trung-quoc-boc-da-lon-vao-bung-lua-doi-khan-gia-4106727.html</link>
+      <guid>https://vnexpress.net/vo-su-trung-quoc-boc-da-lon-vao-bung-lua-doi-khan-gia-4106727.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nam sinh dùng giỏ đi chợ của mẹ đựng sách vở</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nam-sinh-dung-gio-di-cho-cua-me-dung-sach-vo-4107112.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/29/iPiccycollagefgh-1590718327-4879-1590719449.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=DnD3EoUK18jhlF_WjU_61w" ></a></br>Đang đi chợ thì mẹ bắt đi học.]]></description>
+      <pubDate>Fri, 29 May 2020 15:14:15 +0700</pubDate>
+      <link>https://vnexpress.net/nam-sinh-dung-gio-di-cho-cua-me-dung-sach-vo-4107112.html</link>
+      <guid>https://vnexpress.net/nam-sinh-dung-gio-di-cho-cua-me-dung-sach-vo-4107112.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bài toán tính số tuổi của hai chị em</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bai-toan-tinh-so-tuoi-cua-hai-chi-em-4106546.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/fgn61-1590633780-4283-1590634376.png?w=900&h=0&q=100&dpr=1&fit=crop&s=OkW-MhWYZyGbE7qOS5eY4w" ></a></br>Biết rằng, tuổi John bằng 2/3 tuổi Ari và khi John bằng tuổi Ari hiện tại thì tổng số tuổi hai chị em là 49.]]></description>
+      <pubDate>Fri, 29 May 2020 00:02:00 +0700</pubDate>
+      <link>https://vnexpress.net/bai-toan-tinh-so-tuoi-cua-hai-chi-em-4106546.html</link>
+      <guid>https://vnexpress.net/bai-toan-tinh-so-tuoi-cua-hai-chi-em-4106546.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Võ sĩ quỳ xuống xin thua vì thương đối thủ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-si-quy-xuong-xin-thua-vi-thuong-doi-thu-4106759.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/Untitled4-1590653614-1886-1590653991.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tbr9Mt2UukuUPhNYvhoydQ" ></a></br>Mike Pantangco đã tấn công như vũ bão, khiến đối thủ chỉ biết đứng chịu trận nhưng sau đó anh lại quỳ xuống xin đầu hàng.]]></description>
+      <pubDate>Thu, 28 May 2020 15:36:40 +0700</pubDate>
+      <link>https://vnexpress.net/vo-si-quy-xuong-xin-thua-vi-thuong-doi-thu-4106759.html</link>
+      <guid>https://vnexpress.net/vo-si-quy-xuong-xin-thua-vi-thuong-doi-thu-4106759.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Trang phục của cánh mày râu sau khi ra đường ngày nắng nóng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/trang-phuc-cua-canh-may-rau-sau-khi-ra-duong-ngay-nang-nong-4106077.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/iPiccycollagefgn-1590565024-6708-1590565574.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=jMZJaUBupS4u-F6xlHJavw" ></a></br>Trong khi chị em ra đường 'bôi 3721 lớp kem, mặc 7749 loại áo giáp' chống nắng thì các anh không như vậy và nhận trái đắng.]]></description>
+      <pubDate>Thu, 28 May 2020 21:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/trang-phuc-cua-canh-may-rau-sau-khi-ra-duong-ngay-nang-nong-4106077.html</link>
+      <guid>https://vnexpress.net/trang-phuc-cua-canh-may-rau-sau-khi-ra-duong-ngay-nang-nong-4106077.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chó cưng trông xe cho cô chủ đi chợ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cho-cung-trong-xe-cho-co-chu-di-cho-4106787.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/Untitled3-1590655341-5241-1590655918.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=g2-4LfsQrmgUO2bgBmp8yw" ></a></br>Chú chó kiên trì, không rời xe máy chờ cô chủ đi chợ và được khen luôn làm tốt nhiệm vụ được giao.]]></description>
+      <pubDate>Thu, 28 May 2020 19:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/cho-cung-trong-xe-cho-co-chu-di-cho-4106787.html</link>
+      <guid>https://vnexpress.net/cho-cung-trong-xe-cho-co-chu-di-cho-4106787.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Quạ giúp nhím sang đường</title>
+      <description><![CDATA[<a href="https://vnexpress.net/qua-giup-nhim-sang-duong-4105903.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled2-1590551005-2513-1590551213.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Kh70K2BPVxL8yDHTav--Yg" ></a></br>Có những lúc nhím dừng lại, quạ liền lấy mỏ đẩy từ phía sau.]]></description>
+      <pubDate>Thu, 28 May 2020 14:43:27 +0700</pubDate>
+      <link>https://vnexpress.net/qua-giup-nhim-sang-duong-4105903.html</link>
+      <guid>https://vnexpress.net/qua-giup-nhim-sang-duong-4105903.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Anh chàng 'toát mồ hôi' khi thực tập chặt gà</title>
+      <description><![CDATA[<a href="https://vnexpress.net/anh-chang-toat-mo-hoi-khi-thuc-tap-chat-ga-4106182.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled1-1590570310-4347-1590570520.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lyts_MhWrk9_aS6HYjny9g" ></a></br>Được các bác, các chú cầm tay chỉ việc tận tình, nam thanh niên cũng đã hoàn thành khóa học.]]></description>
+      <pubDate>Thu, 28 May 2020 13:25:00 +0700</pubDate>
+      <link>https://vnexpress.net/anh-chang-toat-mo-hoi-khi-thuc-tap-chat-ga-4106182.html</link>
+      <guid>https://vnexpress.net/anh-chang-toat-mo-hoi-khi-thuc-tap-chat-ga-4106182.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Robot nhận bằng tốt nghiệp thay sinh viên</title>
+      <description><![CDATA[<a href="https://vnexpress.net/robot-nhan-bang-tot-nghiep-thay-sinh-vien-4105479.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/Untitled1-1590480684-2548-1590480936.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=DKX_wmnFuvD9bUAg12YuPA" ></a></br>Một trường đại học ở Trung Quốc đã tổ chức lễ tốt nghiệp trực tuyến bằng robot cho 10 sinh viên để phòng Covid-19.]]></description>
+      <pubDate>Thu, 28 May 2020 12:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/robot-nhan-bang-tot-nghiep-thay-sinh-vien-4105479.html</link>
+      <guid>https://vnexpress.net/robot-nhan-bang-tot-nghiep-thay-sinh-vien-4105479.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đôi sư tử biển 'mượn' du thuyền dạo mát</title>
+      <description><![CDATA[<a href="https://vnexpress.net/doi-su-tu-bien-muon-du-thuyen-dao-mat-4106225.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/28/Untitled1-1590631829-2489-1590631879.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=1HfsTPPiwntgDzPq13gHww" ></a></br>Cặp đôi nặng hơn 2 tấn leo lên du thuyền và nhàn nhã du ngoạn cảnh biển.]]></description>
+      <pubDate>Thu, 28 May 2020 10:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/doi-su-tu-bien-muon-du-thuyen-dao-mat-4106225.html</link>
+      <guid>https://vnexpress.net/doi-su-tu-bien-muon-du-thuyen-dao-mat-4106225.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Khách Trung Quốc bị cấm mua hàng gần 1.000 năm vì 'bùng kèo'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/khach-trung-quoc-bi-cam-mua-hang-gan-1-000-nam-vi-bung-keo-4104999.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/fgn60-1590403496-6558-1590403614.png?w=900&h=0&q=100&dpr=1&fit=crop&s=_95GVjYuRzsYfxbzHi7FyQ" ></a></br>Vừa đặt mua đồng hồ tương đương 108 triệu đồng liền đổi ý, một 'thượng đế' đã bị trang web bán hàng online khóa tài khoản 980 năm.]]></description>
+      <pubDate>Thu, 28 May 2020 09:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/khach-trung-quoc-bi-cam-mua-hang-gan-1-000-nam-vi-bung-keo-4104999.html</link>
+      <guid>https://vnexpress.net/khach-trung-quoc-bi-cam-mua-hang-gan-1-000-nam-vi-bung-keo-4104999.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cậu bé khóc vì được ăn gà rán sau hai tháng cách ly</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cau-be-khoc-vi-duoc-an-ga-ran-sau-hai-thang-cach-ly-4106173.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled1-1590569612-4340-1590569891.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=gyFe4cLbBtdFxhhcZxLgcw" ></a></br>Vừa cắn miếng đầu tiên, Adam đã ôm miếng gà rán vào lòng rồi òa khóc vì sung sướng.]]></description>
+      <pubDate>Thu, 28 May 2020 08:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/cau-be-khoc-vi-duoc-an-ga-ran-sau-hai-thang-cach-ly-4106173.html</link>
+      <guid>https://vnexpress.net/cau-be-khoc-vi-duoc-an-ga-ran-sau-hai-thang-cach-ly-4106173.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Xe nào phạm luật khi dừng đèn đỏ?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/xe-nao-pham-luat-khi-dung-den-do-4106137.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Screenshot94-1590567760-5842-1590568287.png?w=900&h=0&q=100&dpr=1&fit=crop&s=fSMn0gIELcqxKdVKsWZagA" ></a></br>Tài xế xe tải khiến ngựa giật mình, cắn vào tai anh đi xe máy, đó là tai nạn nhưng ai phạm luật?]]></description>
+      <pubDate>Thu, 28 May 2020 00:01:00 +0700</pubDate>
+      <link>https://vnexpress.net/xe-nao-pham-luat-khi-dung-den-do-4106137.html</link>
+      <guid>https://vnexpress.net/xe-nao-pham-luat-khi-dung-den-do-4106137.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chó Husky ôm em bé ngủ ngon lành</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cho-husky-om-em-be-ngu-ngon-lanh-4106159.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled1-1590568675-4080-1590569216.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=gvolpYBiY-ghMU6Pk_rxiQ" ></a></br>Khi cậu bé uống xong sữa, cả hai cùng ôm nhau ngủ.]]></description>
+      <pubDate>Wed, 27 May 2020 22:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/cho-husky-om-em-be-ngu-ngon-lanh-4106159.html</link>
+      <guid>https://vnexpress.net/cho-husky-om-em-be-ngu-ngon-lanh-4106159.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cô bé 11 tuổi chinh phục bài hát 'khó nhất thế giới'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/co-be-11-tuoi-chinh-phuc-bai-hat-kho-nhat-the-gioi-4106113.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled1-1590566700-8229-1590567096.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=1tMz43h6JvbINFJLvywkMg" ></a></br>Cả khán giả lẫn ban giám khảo tìm kiếm tài năng Ukraine đều 'choáng váng' khi cô bé cất giọng hát.]]></description>
+      <pubDate>Wed, 27 May 2020 19:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/co-be-11-tuoi-chinh-phuc-bai-hat-kho-nhat-the-gioi-4106113.html</link>
+      <guid>https://vnexpress.net/co-be-11-tuoi-chinh-phuc-bai-hat-kho-nhat-the-gioi-4106113.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chuột mở nắp cống thoát thân trước mặt mèo</title>
+      <description><![CDATA[<a href="https://vnexpress.net/chuot-mo-nap-cong-thoat-than-truoc-mat-meo-4104440.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/Untitled10-1590318173-9215-1590318385.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=43WVuasSpRMpKC2K6JOlWw" ></a></br>Bị nam thanh niên và con mèo bao vây nhưng chuột vẫn bình tĩnh và rời đi theo cách không ngờ.]]></description>
+      <pubDate>Wed, 27 May 2020 15:48:09 +0700</pubDate>
+      <link>https://vnexpress.net/chuot-mo-nap-cong-thoat-than-truoc-mat-meo-4104440.html</link>
+      <guid>https://vnexpress.net/chuot-mo-nap-cong-thoat-than-truoc-mat-meo-4104440.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tự ngã xe rồi lăn lộn giữa đường 'ăn vạ'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tu-nga-xe-roi-lan-lon-giua-duong-an-va-4105957.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled3-1590552138-3779-1590553050.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_nExWKVUzq3SiP2z7Xv-Jw" ></a></br>Hành động của người đàn ông đi xe máy bị camera hành trình ghi lại.]]></description>
+      <pubDate>Wed, 27 May 2020 14:43:54 +0700</pubDate>
+      <link>https://vnexpress.net/tu-nga-xe-roi-lan-lon-giua-duong-an-va-4105957.html</link>
+      <guid>https://vnexpress.net/tu-nga-xe-roi-lan-lon-giua-duong-an-va-4105957.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đại bàng oai vệ hình 'người chim'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dai-bang-oai-ve-hinh-nguoi-chim-4105861.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled2-1590561892-1620-1590562260.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=G9k3YhTD9izsLvKcWDjwEw" ></a></br>Ánh mắt đăm chiêu và biểu cảm 'tốt hơn là đừng có phiền anh' khiến con vật gây ấn tượng ngay từ cái nhìn đầu tiên.]]></description>
+      <pubDate>Wed, 27 May 2020 13:51:00 +0700</pubDate>
+      <link>https://vnexpress.net/dai-bang-oai-ve-hinh-nguoi-chim-4105861.html</link>
+      <guid>https://vnexpress.net/dai-bang-oai-ve-hinh-nguoi-chim-4105861.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Học trò dùng 'IQ vô cực' tránh nhầm bạn cùng tên</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hoc-tro-dung-iq-vo-cuc-tranh-nham-ban-cung-ten-4103525.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled3-1590317604-3762-1590553235.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=t9m9ceoyJD2nQ-8GFWTD4A" ></a></br>Bài kiểm tra ngoài tên học sinh còn có cả tên phụ huynh để tránh sự nhầm lẫn.]]></description>
+      <pubDate>Wed, 27 May 2020 12:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/hoc-tro-dung-iq-vo-cuc-tranh-nham-ban-cung-ten-4103525.html</link>
+      <guid>https://vnexpress.net/hoc-tro-dung-iq-vo-cuc-tranh-nham-ban-cung-ten-4103525.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sư tử ngã dúi dụi khi gặp lại ân nhân</title>
+      <description><![CDATA[<a href="https://vnexpress.net/su-tu-nga-dui-dui-khi-gap-lai-an-nhan-4104885.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Untitled1-1590395527-4611-1590396007.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=DyETmyw2z5Xic0Dkd_viZQ" ></a></br>Chú sư tử đực hậu đậu trượt ngã chổng vó khi chạy lại chào người chăm sóc mình năm xưa.]]></description>
+      <pubDate>Wed, 27 May 2020 11:19:17 +0700</pubDate>
+      <link>https://vnexpress.net/su-tu-nga-dui-dui-khi-gap-lai-an-nhan-4104885.html</link>
+      <guid>https://vnexpress.net/su-tu-nga-dui-dui-khi-gap-lai-an-nhan-4104885.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hai nhân viên cứu hỏa bị phạt nắm tay vì cãi nhau</title>
+      <description><![CDATA[<a href="https://vnexpress.net/hai-nhan-vien-cuu-hoa-bi-phat-nam-tay-vi-cai-nhau-4105868.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled2-1590549216-9396-1590549690.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=3MelcI-8fa1cFkaHH9nY4g" ></a></br>Hai thanh niên bị đội trưởng đội cứu hỏa bắt úp mặt vào tường và nắm tay nhau để làm hòa.]]></description>
+      <pubDate>Wed, 27 May 2020 10:38:55 +0700</pubDate>
+      <link>https://vnexpress.net/hai-nhan-vien-cuu-hoa-bi-phat-nam-tay-vi-cai-nhau-4105868.html</link>
+      <guid>https://vnexpress.net/hai-nhan-vien-cuu-hoa-bi-phat-nam-tay-vi-cai-nhau-4105868.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cá sấu trả giá vì liều lĩnh tấn công voi</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ca-sau-tra-gia-vi-lieu-linh-tan-cong-voi-4105458.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/Untitled4-1590479214-3999-1590479506.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=yJNZ4gyPr0GRiaj3Jw_9gg" ></a></br>Con voi vung chiếc vòi rồi quật mạnh 'chúa tể đầm lầy' xuống nước.]]></description>
+      <pubDate>Wed, 27 May 2020 10:10:18 +0700</pubDate>
+      <link>https://vnexpress.net/ca-sau-tra-gia-vi-lieu-linh-tan-cong-voi-4105458.html</link>
+      <guid>https://vnexpress.net/ca-sau-tra-gia-vi-lieu-linh-tan-cong-voi-4105458.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đỗ Hùng Dũng 'tiếc ngẩn ngơ' sau khi giành quả bóng vàng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/do-hung-dung-tiec-ngan-ngo-sau-khi-gianh-qua-bong-vang-4105768.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/27/Untitled1-1590543831-4485-1590544226.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LIEMhQFtnz1zek6cWW0gFg" ></a></br>Dũng 'Chip' đã chuẩn bị sẵn bài phát biểu như bên Tây mấy tháng rồi mà chẳng được nói.]]></description>
+      <pubDate>Wed, 27 May 2020 09:09:18 +0700</pubDate>
+      <link>https://vnexpress.net/do-hung-dung-tiec-ngan-ngo-sau-khi-gianh-qua-bong-vang-4105768.html</link>
+      <guid>https://vnexpress.net/do-hung-dung-tiec-ngan-ngo-sau-khi-gianh-qua-bong-vang-4105768.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Điền hình nào vào chỗ trống?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dien-hinh-nao-vao-cho-trong-4105530.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/155143149031491551431488width6-3060-9504-1590484752.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=H4nGixeGPH-9qUJvz03EeQ" ></a></br>Có thể bạn giỏi tính toán, nhưng tinh mắt thì chưa chắc, vậy nên thử xem?]]></description>
+      <pubDate>Wed, 27 May 2020 00:01:00 +0700</pubDate>
+      <link>https://vnexpress.net/dien-hinh-nao-vao-cho-trong-4105530.html</link>
+      <guid>https://vnexpress.net/dien-hinh-nao-vao-cho-trong-4105530.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cảnh kinh dị phim Ấn Độ khiến người xem bật cười</title>
+      <description><![CDATA[<a href="https://vnexpress.net/canh-kinh-di-phim-an-do-khien-nguoi-xem-bat-cuoi-4105486.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/Untitled2-1590481116-9386-1590481366.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=dnK4jd1kmU_KP6NfCuN2rA" ></a></br>Dù là phân cảnh kinh dị nhưng khán giả sẽ có cảm giác như xem phim hài.]]></description>
+      <pubDate>Tue, 26 May 2020 21:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/canh-kinh-di-phim-an-do-khien-nguoi-xem-bat-cuoi-4105486.html</link>
+      <guid>https://vnexpress.net/canh-kinh-di-phim-an-do-khien-nguoi-xem-bat-cuoi-4105486.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bị rắn cắn, người phụ nữ mang luôn thủ phạm đến bệnh viện</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bi-ran-can-nguoi-phu-nu-mang-luon-thu-pham-den-benh-vien-4105472.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/Untitled3-1590480182-2528-1590480518.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=-noNgPiqzQQgExg1oLEjjg" ></a></br>Người phụ nữ lấy rễ cây cột lại ngón tay tránh độc lan rồi nhanh chóng đưa luôn thủ phạm vào bệnh viện để các bác sĩ kiểm tra.]]></description>
+      <pubDate>Tue, 26 May 2020 19:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/bi-ran-can-nguoi-phu-nu-mang-luon-thu-pham-den-benh-vien-4105472.html</link>
+      <guid>https://vnexpress.net/bi-ran-can-nguoi-phu-nu-mang-luon-thu-pham-den-benh-vien-4105472.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cách mượn tiền độc đáo của chàng trai</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cach-muon-tien-doc-dao-cua-chang-trai-4104420.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/Untitled9-1590311711-5168-1590312045.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9GDlPxhPe7jaoGB37C3Xiw" ></a></br>Cô gái chỉ cần làm theo hướng dẫn và chấp nhận hay không mà thôi.]]></description>
+      <pubDate>Tue, 26 May 2020 16:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/cach-muon-tien-doc-dao-cua-chang-trai-4104420.html</link>
+      <guid>https://vnexpress.net/cach-muon-tien-doc-dao-cua-chang-trai-4104420.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tên trộm xin tăng án vì muốn học xong kỹ thuật may vá</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ten-trom-xin-tang-an-vi-muon-hoc-xong-ky-thuat-may-va-4104816.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/d48949741590302841586208366840-4422-3224-1590391794.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=i3_6eZV9cBRM5cKPrW5cfg" ></a></br>Người đàn ông họ Từ đề nghị đưa ra án phạt nghiêm khắc hơn để hắn có thể học trọn vẹn kỹ thuật may vá trong lần này.]]></description>
+      <pubDate>Tue, 26 May 2020 15:34:14 +0700</pubDate>
+      <link>https://vnexpress.net/ten-trom-xin-tang-an-vi-muon-hoc-xong-ky-thuat-may-va-4104816.html</link>
+      <guid>https://vnexpress.net/ten-trom-xin-tang-an-vi-muon-hoc-xong-ky-thuat-may-va-4104816.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Chị em' cún ôm chầm lấy nhau khi vô tình gặp lại</title>
+      <description><![CDATA[<a href="https://vnexpress.net/chi-em-cun-om-cham-lay-nhau-khi-vo-tinh-gap-lai-4104936.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/hinhanhhaichuchoomlaynhaumungr-2350-5246-1590399080.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LzuRz20Chi_Jq6Jg5367Tw" ></a></br>Monty và Rosie sinh cùng lứa nhưng không sống chung, tình cờ trong lúc đi dạo, chúng thấy nhau rồi bất ngờ ôm chặt đối phương.]]></description>
+      <pubDate>Tue, 26 May 2020 14:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/chi-em-cun-om-cham-lay-nhau-khi-vo-tinh-gap-lai-4104936.html</link>
+      <guid>https://vnexpress.net/chi-em-cun-om-cham-lay-nhau-khi-vo-tinh-gap-lai-4104936.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chó ngao ôm kẻ đột nhập ngủ ngon lành</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cho-ngao-om-ke-dot-nhap-ngu-ngon-lanh-4104776.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Screenshot77-1590386985-2095-1590387343.png?w=900&h=0&q=100&dpr=1&fit=crop&s=k9YM1avFpS6DLl3v-G2gXg" ></a></br>Thay vì tấn công, con vật giữ nhà to lớn này nằm ngủ cùng vị 'khách không mời'. ]]></description>
+      <pubDate>Tue, 26 May 2020 11:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/cho-ngao-om-ke-dot-nhap-ngu-ngon-lanh-4104776.html</link>
+      <guid>https://vnexpress.net/cho-ngao-om-ke-dot-nhap-ngu-ngon-lanh-4104776.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hổ mang chúa thỏa mãn vì được tắm</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ho-mang-chua-thoa-man-vi-duoc-tam-4104976.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/iPiccycollagevsdv-1590401330-7884-1590401754.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Yj4PNYCLMH6CaeIkxPW4ng" ></a></br>Giữa nắng nóng oi bức ở Ấn Độ, chàng trai thật tinh ý khi mang đến cho con vật cảm giác mát lạnh.]]></description>
+      <pubDate>Tue, 26 May 2020 09:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/ho-mang-chua-thoa-man-vi-duoc-tam-4104976.html</link>
+      <guid>https://vnexpress.net/ho-mang-chua-thoa-man-vi-duoc-tam-4104976.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tìm nhẫn cưới, đào được hũ tiền vàng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tim-nhan-cuoi-dao-duoc-hu-tien-vang-4104856.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Untitled1-1590393558-9286-1590393963.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=P9CjxkUzvLl_O_DAt4moaw" ></a></br>Hai người đàn ông 'bỗng dưng muốn khóc' vì bắt gặp kho báu trị giá 100 nghìn bảng Anh.]]></description>
+      <pubDate>Tue, 26 May 2020 08:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/tim-nhan-cuoi-dao-duoc-hu-tien-vang-4104856.html</link>
+      <guid>https://vnexpress.net/tim-nhan-cuoi-dao-duoc-hu-tien-vang-4104856.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tivi có tên gọi khác là gì?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/tivi-co-ten-goi-khac-la-gi-4104828.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Untitled1-1590399005-6642-1590399061.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=w1aik21VvxkvQM24MtsyZA" ></a></br>Đề thi có câu hỏi gây ức chế khiến cư dân mạng phải chế thêm đáp án để khoanh vào cho 'đỡ bực'.]]></description>
+      <pubDate>Tue, 26 May 2020 00:01:00 +0700</pubDate>
+      <link>https://vnexpress.net/tivi-co-ten-goi-khac-la-gi-4104828.html</link>
+      <guid>https://vnexpress.net/tivi-co-ten-goi-khac-la-gi-4104828.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bò giẫm phải cáp quang khiến Google 'mất mạng'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bo-giam-phai-cap-quang-khien-google-mat-mang-4105235.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/26/photo1590285493978159028549434-4964-5542-1590461514.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=5R8lbNKkM7Ecyq6QwyraaQ" ></a></br>Chẳng phải giông bão càng không phải do cá mập, hệ thống cáp quang siêu nhanh của Google bị 'đánh bại' bởi đàn bò.]]></description>
+      <pubDate>Tue, 26 May 2020 10:22:16 +0700</pubDate>
+      <link>https://vnexpress.net/bo-giam-phai-cap-quang-khien-google-mat-mang-4105235.html</link>
+      <guid>https://vnexpress.net/bo-giam-phai-cap-quang-khien-google-mat-mang-4105235.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người đẹp rơi xuống hồ vì 'mắt để trên đầu'</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-dep-roi-xuong-ho-vi-mat-de-tren-dau-4104416.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/Untitled5-1590311258-5885-1590311480.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=1g_vicz-O1L2XZVQwfpjGA" ></a></br>Cô gái mãi nhìn xa xăm mà không hề biết dưới chân mình là hồ nước.]]></description>
+      <pubDate>Mon, 25 May 2020 22:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-dep-roi-xuong-ho-vi-mat-de-tren-dau-4104416.html</link>
+      <guid>https://vnexpress.net/nguoi-dep-roi-xuong-ho-vi-mat-de-tren-dau-4104416.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Giám đốc ngân hàng hạ gục kẻ giật tiền tại ATM</title>
+      <description><![CDATA[<a href="https://vnexpress.net/giam-doc-ngan-hang-ha-guc-ke-giat-tien-tai-atm-4104862.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Untitled2-1590394083-4269-1590394333.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=BuEGYVcI6WW9hQG8klpNxQ" ></a></br>Nghe tiếng kêu cứu, giám đốc ngân hàng chạy ra và tóm gọn tên trộm.]]></description>
+      <pubDate>Mon, 25 May 2020 19:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/giam-doc-ngan-hang-ha-guc-ke-giat-tien-tai-atm-4104862.html</link>
+      <guid>https://vnexpress.net/giam-doc-ngan-hang-ha-guc-ke-giat-tien-tai-atm-4104862.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cầu thủ cưỡng hôn đối phương sau va chạm</title>
+      <description><![CDATA[<a href="https://vnexpress.net/cau-thu-cuong-hon-doi-phuong-sau-va-cham-4104406.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/Untitled8-1590310272-7359-1590310552.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=oxDH68Mx9LJ_ayYajTLRAg" ></a></br>Bật dậy và áp sát rất nhanh nhưng thay vì động tay động chân, cầu thủ gây hấn của đội chủ nhà lại hôn vào má đối phương.]]></description>
+      <pubDate>Mon, 25 May 2020 17:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/cau-thu-cuong-hon-doi-phuong-sau-va-cham-4104406.html</link>
+      <guid>https://vnexpress.net/cau-thu-cuong-hon-doi-phuong-sau-va-cham-4104406.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nữ tài xế 'lùi chuồng' đâm ba xe sang</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nu-tai-xe-lui-chuong-dam-ba-xe-sang-4104813.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Untitled1-1590391481-4619-1590391691.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=BWG5VJ4d79aDn7KfbyWakw" ></a></br>Bất cẩn khi lùi xe, nữ tài xế quẹt vào chiếc ôtô bên cạnh và tiếp tục đâm vào hai xe Audi và BMW.]]></description>
+      <pubDate>Mon, 25 May 2020 15:03:18 +0700</pubDate>
+      <link>https://vnexpress.net/nu-tai-xe-lui-chuong-dam-ba-xe-sang-4104813.html</link>
+      <guid>https://vnexpress.net/nu-tai-xe-lui-chuong-dam-ba-xe-sang-4104813.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Lừa 'bật khóc' gặp lại chủ sau hai tháng xa cách</title>
+      <description><![CDATA[<a href="https://vnexpress.net/lua-bat-khoc-gap-lai-chu-sau-hai-thang-xa-cach-4104751.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Untitled1-1590381117-7584-1590381398.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Tnu_D0vtBwXZkt-JhhG65g" ></a></br>Khi nghe thấy người chủ gọi tiếng "Baldo" thân thuộc, con lừa vui mừng phi tới và cả hai không kiềm chế được cảm xúc của mình.]]></description>
+      <pubDate>Mon, 25 May 2020 13:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/lua-bat-khoc-gap-lai-chu-sau-hai-thang-xa-cach-4104751.html</link>
+      <guid>https://vnexpress.net/lua-bat-khoc-gap-lai-chu-sau-hai-thang-xa-cach-4104751.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chạy thục mạng vì chó đuổi</title>
+      <description><![CDATA[<a href="https://vnexpress.net/chay-thuc-mang-vi-cho-duoi-4104475.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/Untitled6-1590327181-3320-1590327466.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=fBn6-GCEQYI8gy4bHo1AGg" ></a></br>Nam thanh niên bị hai con chó chặn đường và phải dùng hết sức để chạy thoát chúng.]]></description>
+      <pubDate>Mon, 25 May 2020 12:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/chay-thuc-mang-vi-cho-duoi-4104475.html</link>
+      <guid>https://vnexpress.net/chay-thuc-mang-vi-cho-duoi-4104475.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người đẹp dắt siêu xe đi khám bệnh</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-dep-dat-sieu-xe-di-kham-benh-4104702.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Screenshot76-1590378292-3072-1590378366.png?w=900&h=0&q=100&dpr=1&fit=crop&s=rZoCXL16Z0zhu10-LBFvJQ" ></a></br>Sau khi khỏi bệnh, siêu xe bắt đầu vui vẻ trở lại rồi cùng cô chủ chơi đùa.]]></description>
+      <pubDate>Mon, 25 May 2020 11:11:04 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-dep-dat-sieu-xe-di-kham-benh-4104702.html</link>
+      <guid>https://vnexpress.net/nguoi-dep-dat-sieu-xe-di-kham-benh-4104702.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đình Trọng hóa 'bợm nhậu' hạ gục đồng đội</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dinh-trong-hoa-bom-nhau-ha-guc-dong-doi-4104652.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/25/Untitled1-1590375425-9898-1590375598.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=EUGRWqnzX_r3Xmqd6np4PQ" ></a></br>Trung vệ Đình Trọng nhập vai thành cao thủ có tửu lượng cực cao 'uống rượu như nước lã'.]]></description>
+      <pubDate>Mon, 25 May 2020 10:01:54 +0700</pubDate>
+      <link>https://vnexpress.net/dinh-trong-hoa-bom-nhau-ha-guc-dong-doi-4104652.html</link>
+      <guid>https://vnexpress.net/dinh-trong-hoa-bom-nhau-ha-guc-dong-doi-4104652.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vợ 'ngán ngẩm' vì món canh tôm của chồng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vo-ngan-ngam-vi-mon-canh-tom-cua-chong-4104476.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/Untitled2-1590328016-9748-1590328571.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=A7YjdOGV9IiVRIwNf8jVbA" ></a></br>'Nấu ăn thế này cho nhiều canxi, người xưa toàn nấu như vậy', ông chồng biện minh.]]></description>
+      <pubDate>Mon, 25 May 2020 08:59:47 +0700</pubDate>
+      <link>https://vnexpress.net/vo-ngan-ngam-vi-mon-canh-tom-cua-chong-4104476.html</link>
+      <guid>https://vnexpress.net/vo-ngan-ngam-vi-mon-canh-tom-cua-chong-4104476.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Nữ thần Tik Tok' Trung Quốc lộ ảnh kém sắc</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nu-than-tik-tok-trung-quoc-lo-anh-kem-sac-4102393.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/20/iPiccycollagengfn-1589958816-7271-1589958986.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=CqqnuUnzAQHn-HWBayPzxw" ></a></br>Sau khi lộ nhan sắc thật, nhiều fan giận dữ cho rằng 'thần tượng' lừa mình suốt thời gian dài.]]></description>
+      <pubDate>Mon, 25 May 2020 08:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nu-than-tik-tok-trung-quoc-lo-anh-kem-sac-4102393.html</link>
+      <guid>https://vnexpress.net/nu-than-tik-tok-trung-quoc-lo-anh-kem-sac-4102393.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bài toán bán táo vô lý</title>
+      <description><![CDATA[<a href="https://vnexpress.net/bai-toan-ban-tao-vo-ly-4103585.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/Screenshot74-1590133231-6733-1590133761.png?w=900&h=0&q=100&dpr=1&fit=crop&s=i4BZQIFr65tijR3ZXuWbIA" ></a></br>Giao cho ba con trai số lượng táo khác nhau, nhưng mẹ yêu cầu các con bán và mang về số tiền như nhau.]]></description>
+      <pubDate>Mon, 25 May 2020 00:01:00 +0700</pubDate>
+      <link>https://vnexpress.net/bai-toan-ban-tao-vo-ly-4103585.html</link>
+      <guid>https://vnexpress.net/bai-toan-ban-tao-vo-ly-4103585.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Đặc sản' lê thê của phim Ấn Độ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/dac-san-le-the-cua-phim-an-do-4104436.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/Untitled11-1590316964-8020-1590317163.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=MKWS9yTMTqElhtm0EeEU6g" ></a></br>Cận mặt từng nhân vật hay slow motion là những cảnh quay không thể thiếu khi xem phim Ấn Độ.]]></description>
+      <pubDate>Sun, 24 May 2020 21:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/dac-san-le-the-cua-phim-an-do-4104436.html</link>
+      <guid>https://vnexpress.net/dac-san-le-the-cua-phim-an-do-4104436.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Quái xế trượt dài trên đường vì lạng lách</title>
+      <description><![CDATA[<a href="https://vnexpress.net/quai-xe-truot-dai-tren-duong-vi-lang-lach-4104411.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/24/Untitled7-1590310748-2660-1590310958.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=4wftRKvBr_f3Gdx62zoOvg" ></a></br>Nam thanh niên đầu trần điều khiển xe máy tốc độ cao và nhận trái đắng ngay sau đó.]]></description>
+      <pubDate>Sun, 24 May 2020 18:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/quai-xe-truot-dai-tren-duong-vi-lang-lach-4104411.html</link>
+      <guid>https://vnexpress.net/quai-xe-truot-dai-tren-duong-vi-lang-lach-4104411.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mèo bất cần khi đối mặt hổ</title>
+      <description><![CDATA[<a href="https://vnexpress.net/meo-bat-can-khi-doi-mat-ho-4103445.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/Screenshot63-1590119438-3810-1590119453.png?w=900&h=0&q=100&dpr=1&fit=crop&s=UPJnGKlLA5Pge6eJwbnH_w" ></a></br>Hổ và mèo quan sát nhau như thể đang cùng chơi đùa ở hai bên tấm kính ngăn cách.]]></description>
+      <pubDate>Sun, 24 May 2020 17:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/meo-bat-can-khi-doi-mat-ho-4103445.html</link>
+      <guid>https://vnexpress.net/meo-bat-can-khi-doi-mat-ho-4103445.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Linh miêu trổ tài nhảy xa ngoạn mục</title>
+      <description><![CDATA[<a href="https://vnexpress.net/linh-mieu-tro-tai-nhay-xa-ngoan-muc-4103570.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/Untitled5-1590132635-2167-1590132906.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=I7Hacs7lrKsaIS47FlAV_w" ></a></br>Những cú nhảy chính xác giữa các cọc trên sông của linh miêu chẳng khác nào vận động viên chuyên nghiệp.]]></description>
+      <pubDate>Sun, 24 May 2020 15:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/linh-mieu-tro-tai-nhay-xa-ngoan-muc-4103570.html</link>
+      <guid>https://vnexpress.net/linh-mieu-tro-tai-nhay-xa-ngoan-muc-4103570.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nhân viên chạy tán loạn vì trăn khủng ghé thăm</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nhan-vien-chay-tan-loan-vi-tran-khung-ghe-tham-4103553.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/Untitled4-1590131786-3155-1590132046.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=op3-nrAdB_c7JObIOcLjVg" ></a></br>Sự xuất hiện của vị 'khách không mời' khiến toàn bộ nhân viên trong cuộc họp hoảng sợ, bỏ chạy tán loạn.]]></description>
+      <pubDate>Sun, 24 May 2020 13:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nhan-vien-chay-tan-loan-vi-tran-khung-ghe-tham-4103553.html</link>
+      <guid>https://vnexpress.net/nhan-vien-chay-tan-loan-vi-tran-khung-ghe-tham-4103553.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ông chủ phát hoảng vì khách thuê trọ ở bẩn</title>
+      <description><![CDATA[<a href="https://vnexpress.net/ong-chu-phat-hoang-vi-khach-thue-tro-o-ban-4103337.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/nhtro115900483284291053534191-1328-3620-1590114365.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=0ZrBTtlkNXnuJHue5Isqwg" ></a></br>Hàng trăm chai thủy tinh, đầu lọc thuốc cùng chảo rán, giẻ lau và quần áo bẩn lần lượt nằm đầy dưới nền nhà.]]></description>
+      <pubDate>Sun, 24 May 2020 11:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/ong-chu-phat-hoang-vi-khach-thue-tro-o-ban-4103337.html</link>
+      <guid>https://vnexpress.net/ong-chu-phat-hoang-vi-khach-thue-tro-o-ban-4103337.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Người đẹp vật tay hạ gục cánh mày râu</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nguoi-dep-vat-tay-ha-guc-canh-may-rau-4102424.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/20/Untitled5-1589960140-5945-1589960491.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=8LAh-a2mQCIkFQy5HoSiPA" ></a></br>Nhiều chàng trai to cao, lực lưỡng cũng phải chấp nhận thua cuộc khi thi tài với cô gái.]]></description>
+      <pubDate>Sun, 24 May 2020 10:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nguoi-dep-vat-tay-ha-guc-canh-may-rau-4102424.html</link>
+      <guid>https://vnexpress.net/nguoi-dep-vat-tay-ha-guc-canh-may-rau-4102424.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nữ võ sĩ tung cước hạ gục kẻ vũ phu</title>
+      <description><![CDATA[<a href="https://vnexpress.net/nu-vo-si-tung-cuoc-ha-guc-ke-vu-phu-4103581.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/Untitled6-1590133167-5033-1590133551.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wcAuTdgPDWBbKwFldOKjrw" ></a></br>Thấy chuyện bất bình, nhà vô địch Taekwondo thế giới đã 'ra chân' dạy cho người đàn ông bài học.]]></description>
+      <pubDate>Sun, 24 May 2020 08:30:00 +0700</pubDate>
+      <link>https://vnexpress.net/nu-vo-si-tung-cuoc-ha-guc-ke-vu-phu-4103581.html</link>
+      <guid>https://vnexpress.net/nu-vo-si-tung-cuoc-ha-guc-ke-vu-phu-4103581.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Khung thành 'ma ám' sút mãi không vào</title>
+      <description><![CDATA[<a href="https://vnexpress.net/khung-thanh-ma-am-sut-mai-khong-vao-4102436.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/20/Untitled4-1589961070-9338-1589961241.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=-0_QHFWiZnajcWIUsf6q8A" ></a></br>Bốn cú dứt điểm liên tục ở vị trí thuận lợi nhưng tất cả đều không vào lưới.]]></description>
+      <pubDate>Sun, 24 May 2020 07:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/khung-thanh-ma-am-sut-mai-khong-vao-4102436.html</link>
+      <guid>https://vnexpress.net/khung-thanh-ma-am-sut-mai-khong-vao-4102436.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vị trí dấu chấm hỏi là số mấy?</title>
+      <description><![CDATA[<a href="https://vnexpress.net/vi-tri-dau-cham-hoi-la-so-may-4102840.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/21/fgn58-1590031444-3304-1590032781.png?w=900&h=0&q=100&dpr=1&fit=crop&s=2Y4la0ItTbmYrVFaAoHqRg" ></a></br>Nhiều người cần chưa đến 30 giây là giải xong, còn bạn?]]></description>
+      <pubDate>Sun, 24 May 2020 00:01:00 +0700</pubDate>
+      <link>https://vnexpress.net/vi-tri-dau-cham-hoi-la-so-may-4102840.html</link>
+      <guid>https://vnexpress.net/vi-tri-dau-cham-hoi-la-so-may-4102840.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Phi hành gia ngã dúi dụi đi trên Mặt Trăng</title>
+      <description><![CDATA[<a href="https://vnexpress.net/phi-hanh-gia-nga-dui-dui-di-tren-mat-trang-4103670.html"><img src="https://i1-vnexpress.vnecdn.net/2020/05/22/Untitled2-1590138626-6048-1590138845.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mnuoPs2eyOvRVpAsXPrBaw" ></a></br>Trong lúc các phi hành gia ngã thì dưới mặt đất các đồng nghiệp lại cho phen cười sảng khoái.]]></description>
+      <pubDate>Sat, 23 May 2020 22:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/phi-hanh-gia-nga-dui-dui-di-tren-mat-trang-4103670.html</link>
+      <guid>https://vnexpress.net/phi-hanh-gia-nga-dui-dui-di-tren-mat-trang-4103670.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,512 @@
+HTTP/1.1 200 OK
+Date: Fri, 29 May 2020 10:48:35 GMT
+Content-Type: application/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Vary: Accept-Encoding
+Cache-Control: max-age=120, stale-while-revalidate=6, stale-if-error=864000, private
+XHandledBy: 12177bfhndd10bf7c7468e873e79ba2ad143
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+XHandledFor: 10577whfpdd10bf7c7468e873e79ba2ad143
+X-Proxy-Cache: HIT
+xdCache: HIT
+Server: 16677whvndd10bf7c7468e873e79ba2ad41
+Content-Encoding: gzip
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Tâm sự - VnExpress RSS</title>
+    <description>VnExpress RSS</description>
+    <image>
+      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
+      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+      <link>https://vnexpress.net</link>
+    </image>
+    <pubDate>Fri, 29 May 2020 17:40:27 +0700</pubDate>
+    <generator>VnExpress</generator>
+    <link>https://vnexpress.net/rss/tam-su.rss</link>
+    <item>
+      <title>Từ chối đi bước nữa vì các con</title>
+      <description><![CDATA[Tôi là nữ, 36 tuổi, là mẹ đơn thân của hai bé nhỏ, thu nhập mỗi năm khoảng 2 tỷ đồng.]]></description>
+      <pubDate>Fri, 29 May 2020 11:23:04 +0700</pubDate>
+      <link>https://vnexpress.net/tu-choi-di-buoc-nua-vi-cac-con-4107080.html</link>
+      <guid>https://vnexpress.net/tu-choi-di-buoc-nua-vi-cac-con-4107080.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Khó chấp nhận chuyện bạn gái từng sống thử</title>
+      <description><![CDATA[Tôi không còn trẻ, xưa nay khá nhút nhát nên không có nhiều kinh nghiệm yêu đương. ]]></description>
+      <pubDate>Fri, 29 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/kho-chap-nhan-chuyen-ban-gai-tung-song-thu-4106470.html</link>
+      <guid>https://vnexpress.net/kho-chap-nhan-chuyen-ban-gai-tung-song-thu-4106470.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Không còn muốn thân thiết nhà chồng</title>
+      <description><![CDATA[Tôi là nữ, kết hôn được 2 năm, có con nhỏ 10 tháng tuổi. Từ khi làm dâu đến giờ, tôi suy nghĩ nhiều về hành động và lời nói của nhà chồng.]]></description>
+      <pubDate>Fri, 29 May 2020 11:24:27 +0700</pubDate>
+      <link>https://vnexpress.net/khong-con-muon-than-thiet-nha-chong-4106477.html</link>
+      <guid>https://vnexpress.net/khong-con-muon-than-thiet-nha-chong-4106477.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sống không hòa hợp với vợ</title>
+      <description><![CDATA[Tôi 40 tuổi, cưới vợ hơn 10 năm, có 2 con 10 tuổi và 11 tuổi. ]]></description>
+      <pubDate>Fri, 29 May 2020 11:23:34 +0700</pubDate>
+      <link>https://vnexpress.net/song-khong-hoa-hop-voi-vo-4106476.html</link>
+      <guid>https://vnexpress.net/song-khong-hoa-hop-voi-vo-4106476.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mẹ thúc ép tôi lấy người đàn ông bỏ vợ</title>
+      <description><![CDATA[Tôi 28 tuổi, nhân viên văn phòng trong một công ty nước ngoài với mức lương chấp nhận được ở quê.]]></description>
+      <pubDate>Fri, 29 May 2020 11:22:09 +0700</pubDate>
+      <link>https://vnexpress.net/me-thuc-ep-toi-lay-nguoi-dan-ong-bo-vo-4107081.html</link>
+      <guid>https://vnexpress.net/me-thuc-ep-toi-lay-nguoi-dan-ong-bo-vo-4107081.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nghi ngờ chồng có vấn đề về giới tính</title>
+      <description><![CDATA[Tôi và chồng đều 30 tuổi, có 2 bé trai, bé đầu 4 tuổi, bé thứ hai được 5 tháng; công việc ổn định so với mức sống ở quê.]]></description>
+      <pubDate>Fri, 29 May 2020 11:21:14 +0700</pubDate>
+      <link>https://vnexpress.net/nghi-ngo-chong-co-van-de-ve-gioi-tinh-4106460.html</link>
+      <guid>https://vnexpress.net/nghi-ngo-chong-co-van-de-ve-gioi-tinh-4106460.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Em đòi cưới khi biết lương tháng tôi gần 300 triệu</title>
+      <description><![CDATA[Tôi 33 tuổi, gần đây mới quen một người con gái 20 tuổi, rất đẹp và dịu dàng nhưng cũng sắc sảo.]]></description>
+      <pubDate>Thu, 28 May 2020 14:43:47 +0700</pubDate>
+      <link>https://vnexpress.net/em-doi-cuoi-khi-biet-luong-thang-toi-gan-300-trieu-4106473.html</link>
+      <guid>https://vnexpress.net/em-doi-cuoi-khi-biet-luong-thang-toi-gan-300-trieu-4106473.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ông bà nội đối xử bất công với cha tôi</title>
+      <description><![CDATA[Ông bà nội có 5 người con đẻ, trong đó bố tôi là con trai cả, ngoài ra còn có 3 cô và một chú. ]]></description>
+      <pubDate>Thu, 28 May 2020 12:00:36 +0700</pubDate>
+      <link>https://vnexpress.net/ong-ba-noi-doi-xu-bat-cong-voi-cha-toi-4106471.html</link>
+      <guid>https://vnexpress.net/ong-ba-noi-doi-xu-bat-cong-voi-cha-toi-4106471.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sợ gần gũi chồng</title>
+      <description><![CDATA[Tôi 32 tuổi, có 2 bé, lập gia đình được 9 năm. Tôi chấp nhận làm vợ anh vì cảm nhận được anh thương và lo cho tôi. ]]></description>
+      <pubDate>Thu, 28 May 2020 11:59:29 +0700</pubDate>
+      <link>https://vnexpress.net/so-gan-gui-chong-4106472.html</link>
+      <guid>https://vnexpress.net/so-gan-gui-chong-4106472.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Không thể nghĩ bồ của chồng lại xấu tệ</title>
+      <description><![CDATA[Tôi ở cạnh anh lâu, với lại muốn có con nên vẫn cố lấy dù nhận ra sự khác biệt giữa hai người.]]></description>
+      <pubDate>Thu, 28 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/khong-the-nghi-bo-cua-chong-lai-xau-te-4097641.html</link>
+      <guid>https://vnexpress.net/khong-the-nghi-bo-cua-chong-lai-xau-te-4097641.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Em trai tôi muốn cưới người có con riêng bằng tuổi mình</title>
+      <description><![CDATA[Em trai tôi gần 30 tuổi, đang yêu một cô gái Đài Loan và muốn tiến tới hôn nhân.]]></description>
+      <pubDate>Thu, 28 May 2020 14:44:54 +0700</pubDate>
+      <link>https://vnexpress.net/em-trai-toi-muon-cuoi-nguoi-co-con-rieng-bang-tuoi-minh-4098770.html</link>
+      <guid>https://vnexpress.net/em-trai-toi-muon-cuoi-nguoi-co-con-rieng-bang-tuoi-minh-4098770.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn trai muốn hỗ trợ em ruột mua nhà</title>
+      <description><![CDATA[Tôi 28 tuổi, bạn trai 34 tuổi, yêu nhau 8 năm. Anh là tình đầu và duy nhất của tôi đến hiện tại.]]></description>
+      <pubDate>Thu, 28 May 2020 14:46:24 +0700</pubDate>
+      <link>https://vnexpress.net/ban-trai-muon-ho-tro-em-ruot-mua-nha-4106478.html</link>
+      <guid>https://vnexpress.net/ban-trai-muon-ho-tro-em-ruot-mua-nha-4106478.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn trai giấu chuyện từng đổ vỡ</title>
+      <description><![CDATA[Tôi và anh quen nhau gần 2 năm. Ngay từ lúc đầu, anh đã nói dối tôi về quá khứ.]]></description>
+      <pubDate>Thu, 28 May 2020 14:44:38 +0700</pubDate>
+      <link>https://vnexpress.net/ban-trai-giau-chuyen-tung-do-vo-4106468.html</link>
+      <guid>https://vnexpress.net/ban-trai-giau-chuyen-tung-do-vo-4106468.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mất tất cả vì lỡ dính vào cờ bạc</title>
+      <description><![CDATA[Tôi là chàng trai 26 tuổi, xuất thân trong một gia đình nghèo khó, mẹ mất sớm.]]></description>
+      <pubDate>Thu, 28 May 2020 14:44:25 +0700</pubDate>
+      <link>https://vnexpress.net/mat-tat-ca-vi-lo-dinh-vao-co-bac-4106479.html</link>
+      <guid>https://vnexpress.net/mat-tat-ca-vi-lo-dinh-vao-co-bac-4106479.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>10 năm sống với người chồng thích chat sex</title>
+      <description><![CDATA[Tôi 35 tuổi, chồng 38 tuổi, có một bé, kết hôn đến nay được 10 năm. ]]></description>
+      <pubDate>Wed, 27 May 2020 14:45:20 +0700</pubDate>
+      <link>https://vnexpress.net/10-nam-song-voi-nguoi-chong-thich-chat-sex-4105913.html</link>
+      <guid>https://vnexpress.net/10-nam-song-voi-nguoi-chong-thich-chat-sex-4105913.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chồng muốn ly hôn khi con chưa đầy tháng</title>
+      <description><![CDATA[Chồng 38 tuổi, tôi 29 tuổi, vừa đón con trai đầu lòng cũng là lúc hôn nhân chúng tôi tan vỡ. ]]></description>
+      <pubDate>Wed, 27 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/chong-muon-ly-hon-khi-con-chua-day-thang-4105534.html</link>
+      <guid>https://vnexpress.net/chong-muon-ly-hon-khi-con-chua-day-thang-4105534.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Anh cưới cô bạn thân sau một tháng chia tay tôi</title>
+      <description><![CDATA[Tôi quê ở miền Trung, lớn lên trong một gia đình nhà nông. Đi làm được 2 năm, tôi quen anh tình cờ trên mạng xã hội khi về quê ăn Tết.]]></description>
+      <pubDate>Wed, 27 May 2020 14:44:51 +0700</pubDate>
+      <link>https://vnexpress.net/anh-cuoi-co-ban-than-sau-mot-thang-chia-tay-toi-4105784.html</link>
+      <guid>https://vnexpress.net/anh-cuoi-co-ban-than-sau-mot-thang-chia-tay-toi-4105784.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chồng không đưa hết lương, không ngủ chung</title>
+      <description><![CDATA[Tôi 45 tuổi, thu nhập khoảng 20 triệu một tháng, chồng tôi được khoảng 15-17 triệu, cả hai làm cùng cơ quan.]]></description>
+      <pubDate>Wed, 27 May 2020 12:00:09 +0700</pubDate>
+      <link>https://vnexpress.net/chong-khong-dua-het-luong-khong-ngu-chung-4102962.html</link>
+      <guid>https://vnexpress.net/chong-khong-dua-het-luong-khong-ngu-chung-4102962.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Góa phụ tuổi 27</title>
+      <description><![CDATA[Từ tuổi 18, tôi đã ước cả đời này chỉ yêu và lấy một người, cùng người đó sống những tháng ngày hạnh phúc đến cuối đời.]]></description>
+      <pubDate>Wed, 27 May 2020 11:59:56 +0700</pubDate>
+      <link>https://vnexpress.net/goa-phu-tuoi-27-4105836.html</link>
+      <guid>https://vnexpress.net/goa-phu-tuoi-27-4105836.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nhà chồng muốn tôi sinh thêm con</title>
+      <description><![CDATA[Tôi lấy chồng 3 năm, có bé gái 18 tháng, đang sống với mẹ chồng (bố mẹ chồng không sống chung). ]]></description>
+      <pubDate>Wed, 27 May 2020 11:59:20 +0700</pubDate>
+      <link>https://vnexpress.net/nha-chong-muon-toi-sinh-them-con-4105791.html</link>
+      <guid>https://vnexpress.net/nha-chong-muon-toi-sinh-them-con-4105791.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chồng chưa muốn mẹ con tôi sống gần anh</title>
+      <description><![CDATA[Tôi và chồng cùng quê, thuộc thế hệ đầu 9x. Từ khi cưới đến giờ được 2 năm, anh đi học thêm suốt, cuối tuần mới về với vợ con. ]]></description>
+      <pubDate>Wed, 27 May 2020 11:58:57 +0700</pubDate>
+      <link>https://vnexpress.net/chong-chua-muon-me-con-toi-song-gan-anh-4105794.html</link>
+      <guid>https://vnexpress.net/chong-chua-muon-me-con-toi-song-gan-anh-4105794.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Anh chỉ đến với tôi vì nhu cầu tình dục</title>
+      <description><![CDATA[Tôi 32 tuổi, không còn trẻ để mộng mơ về tình yêu. Tôi sống tình cảm, không tính toán thiệt hơn. ]]></description>
+      <pubDate>Tue, 26 May 2020 10:33:55 +0700</pubDate>
+      <link>https://vnexpress.net/anh-chi-den-voi-toi-vi-nhu-cau-tinh-duc-4101004.html</link>
+      <guid>https://vnexpress.net/anh-chi-den-voi-toi-vi-nhu-cau-tinh-duc-4101004.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mẹ chồng nói xấu tôi đủ điều</title>
+      <description><![CDATA[Tôi đang bầu tuần thứ 39, dự kiến một tuần nữa sinh. Mẹ chồng vừa từ quê xuống được 3 ngày. ]]></description>
+      <pubDate>Tue, 26 May 2020 10:17:24 +0700</pubDate>
+      <link>https://vnexpress.net/me-chong-noi-xau-toi-du-dieu-4105201.html</link>
+      <guid>https://vnexpress.net/me-chong-noi-xau-toi-du-dieu-4105201.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chồng nhiều ưu điểm vẫn làm tôi tổn thương</title>
+      <description><![CDATA[Tôi là nữ, 38 tuổi, lập gia đình được 12 năm, con gái 11 tuổi, con trai 6 tuổi. ]]></description>
+      <pubDate>Tue, 26 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/chong-nhieu-uu-diem-van-lam-toi-ton-thuong-4104851.html</link>
+      <guid>https://vnexpress.net/chong-nhieu-uu-diem-van-lam-toi-ton-thuong-4104851.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Các bạn luôn để em trả tiền trà sữa</title>
+      <description><![CDATA[Em 16 tuổi, có ba người bạn rất thân, chơi hòa thuận. Thế nhưng em thấy bức xúc vì nhiều lần uống trà sữa mà em toàn phải trả tiền.]]></description>
+      <pubDate>Tue, 26 May 2020 17:36:27 +0700</pubDate>
+      <link>https://vnexpress.net/cac-ban-luon-de-em-tra-tien-tra-sua-4105435.html</link>
+      <guid>https://vnexpress.net/cac-ban-luon-de-em-tra-tien-tra-sua-4105435.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Muốn nghỉ việc để về quê với chồng</title>
+      <description><![CDATA[Tôi gần 30 tuổi, chồng ít hơn 2 tuổi. Sau một thời gian yêu xa, chúng tôi quyết định cưới.]]></description>
+      <pubDate>Tue, 26 May 2020 17:33:22 +0700</pubDate>
+      <link>https://vnexpress.net/muon-nghi-viec-de-ve-que-voi-chong-4105433.html</link>
+      <guid>https://vnexpress.net/muon-nghi-viec-de-ve-que-voi-chong-4105433.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chồng muốn tôi xin việc mới để gần anh</title>
+      <description><![CDATA[Tôi là nữ, 28 tuổi, lấy chồng được 3 năm, có một bé trai 2 tuổi. ]]></description>
+      <pubDate>Tue, 26 May 2020 17:32:39 +0700</pubDate>
+      <link>https://vnexpress.net/chong-muon-toi-xin-viec-moi-de-gan-anh-4105430.html</link>
+      <guid>https://vnexpress.net/chong-muon-toi-xin-viec-moi-de-gan-anh-4105430.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chỉ cần chồng có việc để làm</title>
+      <description><![CDATA[Tôi 34 tuổi, kết hôn được 8 năm, có một trai và một gái, các con đều rất ngoan. ]]></description>
+      <pubDate>Tue, 26 May 2020 10:33:31 +0700</pubDate>
+      <link>https://vnexpress.net/chi-can-chong-co-viec-de-lam-4104853.html</link>
+      <guid>https://vnexpress.net/chi-can-chong-co-viec-de-lam-4104853.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Kẻ thù' của tôi là bố mẹ vợ</title>
+      <description><![CDATA[Tôi 35 tuổi, vợ 30 tuổi, có con trai 5 tuổi. Chúng tôi đều có việc ổn định và nhà riêng. ]]></description>
+      <pubDate>Mon, 25 May 2020 10:41:06 +0700</pubDate>
+      <link>https://vnexpress.net/ke-thu-cua-toi-la-bo-me-vo-4104610.html</link>
+      <guid>https://vnexpress.net/ke-thu-cua-toi-la-bo-me-vo-4104610.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi giữ kín chuyện bỏ chồng với đồng nghiệp</title>
+      <description><![CDATA[Tôi là nữ, 30 tuổi, ly hôn được 3 năm. Tôi chuyển đến công ty này gần một năm. Tôi giấu chuyện mình đã ly hôn, việc nói dối này khiến tôi rất khổ tâm.]]></description>
+      <pubDate>Mon, 25 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/toi-giu-kin-chuyen-bo-chong-voi-dong-nghiep-4104431.html</link>
+      <guid>https://vnexpress.net/toi-giu-kin-chuyen-bo-chong-voi-dong-nghiep-4104431.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi khổ vì biết anh cờ bạc mà vẫn cưới</title>
+      <description><![CDATA[Tôi không cần chồng làm ra nhiều tiền, chỉ mong anh chí thú làm ăn, đủ lo cho bản thân, không thâm nợ mà khó quá.]]></description>
+      <pubDate>Mon, 25 May 2020 14:17:46 +0700</pubDate>
+      <link>https://vnexpress.net/toi-kho-vi-biet-anh-co-bac-ma-van-cuoi-4103316.html</link>
+      <guid>https://vnexpress.net/toi-kho-vi-biet-anh-co-bac-ma-van-cuoi-4103316.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Có nên quản lý thu nhập ngoài của chồng</title>
+      <description><![CDATA[Vợ chồng tôi thu nhập ổn định. Tôi thu nhập tầm 10 đến 12 triệu. Chồng lương cứng gần 20 triệu, thêm thu nhập ngoài cũng khá.]]></description>
+      <pubDate>Mon, 25 May 2020 14:19:06 +0700</pubDate>
+      <link>https://vnexpress.net/co-nen-quan-ly-thu-nhap-ngoai-cua-chong-4104606.html</link>
+      <guid>https://vnexpress.net/co-nen-quan-ly-thu-nhap-ngoai-cua-chong-4104606.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Stress vì con biếng ăn</title>
+      <description><![CDATA[Tôi 28 tuổi, sinh được một em bé kháu khỉnh. Suốt 8 tháng tôi ở nhà chăm bé. ]]></description>
+      <pubDate>Mon, 25 May 2020 14:18:13 +0700</pubDate>
+      <link>https://vnexpress.net/stress-vi-con-bieng-an-4104608.html</link>
+      <guid>https://vnexpress.net/stress-vi-con-bieng-an-4104608.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mẹ chồng hà khắc</title>
+      <description><![CDATA[Tôi 30 tuổi, chồng tôi 33 tuổi, cưới được một năm, cả hai đều có công việc ổn định, thu nhập tốt.]]></description>
+      <pubDate>Mon, 25 May 2020 10:48:51 +0700</pubDate>
+      <link>https://vnexpress.net/me-chong-ha-khac-4103041.html</link>
+      <guid>https://vnexpress.net/me-chong-ha-khac-4103041.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Mẹ đơn thân yêu 'trai tân'</title>
+      <description><![CDATA[Tôi chia tay chồng khi con một tuổi, giờ con gái tôi 8 tuổi, chồng cũ ở nước ngoài.]]></description>
+      <pubDate>Mon, 25 May 2020 10:48:39 +0700</pubDate>
+      <link>https://vnexpress.net/me-don-than-yeu-trai-tan-4104430.html</link>
+      <guid>https://vnexpress.net/me-don-than-yeu-trai-tan-4104430.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Đổi việc ở tuổi 30 có mạo hiểm</title>
+      <description><![CDATA[Tôi 30 tuổi, đã lập gia đình, có bé gái 9 tháng tuổi. Với tổng thu nhập hiện tại ở tỉnh lẻ, hàng tháng vợ chồng tôi tiết kiệm được 5 triệu đồng.]]></description>
+      <pubDate>Mon, 25 May 2020 10:46:21 +0700</pubDate>
+      <link>https://vnexpress.net/doi-viec-o-tuoi-30-co-mao-hiem-4103319.html</link>
+      <guid>https://vnexpress.net/doi-viec-o-tuoi-30-co-mao-hiem-4103319.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Thật mệt mỏi khi nghĩ phải sống với chồng tới già</title>
+      <description><![CDATA[Tôi 36 tuổi, có hai bé đủ nếp tẻ. Chồng làm nhân viên nhà nước, tôi làm ở công ty nước ngoài với mức lương khá.]]></description>
+      <pubDate>Sun, 24 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/that-met-moi-khi-nghi-phai-song-voi-chong-toi-gia-4103329.html</link>
+      <guid>https://vnexpress.net/that-met-moi-khi-nghi-phai-song-voi-chong-toi-gia-4103329.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tôi có đang sở hữu người đồng hành lý tưởng</title>
+      <description><![CDATA[Tôi 27 tuổi, quen anh rồi yêu xa 2 năm, gặp gỡ hẹn hò vài lần. Sau khi tôi tốt nghiệp và đi làm được một năm thì cưới.]]></description>
+      <pubDate>Sun, 24 May 2020 18:24:09 +0700</pubDate>
+      <link>https://vnexpress.net/toi-co-dang-so-huu-nguoi-dong-hanh-ly-tuong-4103313.html</link>
+      <guid>https://vnexpress.net/toi-co-dang-so-huu-nguoi-dong-hanh-ly-tuong-4103313.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn trai chia tay vì còn tình cảm với người cũ</title>
+      <description><![CDATA[Tôi và em trai ấy làm cùng chỗ. Em nhỏ hơn tôi một tuổi nhưng so về độ từng trải thì cả hai không thua kém gì nhau.]]></description>
+      <pubDate>Sun, 24 May 2020 18:22:28 +0700</pubDate>
+      <link>https://vnexpress.net/ban-trai-chia-tay-vi-con-tinh-cam-voi-nguoi-cu-4103315.html</link>
+      <guid>https://vnexpress.net/ban-trai-chia-tay-vi-con-tinh-cam-voi-nguoi-cu-4103315.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn trai từ chối nhận con</title>
+      <description><![CDATA[Tôi 35 tuổi, sống và làm việc tại Hà Nội, mang thai ngoài ý muốn và đi được nửa đoạn đường thai kỳ rồi. ]]></description>
+      <pubDate>Sun, 24 May 2020 18:21:34 +0700</pubDate>
+      <link>https://vnexpress.net/ban-trai-tu-choi-nhan-con-4103318.html</link>
+      <guid>https://vnexpress.net/ban-trai-tu-choi-nhan-con-4103318.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nghi ngờ gia cảnh của bạn trai</title>
+      <description><![CDATA[Tôi 24 tuổi, cao 1m6, ngoại hình xinh xắn, có công việc ổn định, có nhà ở thành phố.]]></description>
+      <pubDate>Sun, 24 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/nghi-ngo-gia-canh-cua-ban-trai-4104110.html</link>
+      <guid>https://vnexpress.net/nghi-ngo-gia-canh-cua-ban-trai-4104110.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn trai thú nhận khó có con</title>
+      <description><![CDATA[Tôi và anh quen nhau qua mạng xã hội. Sau một thời gian tìm hiểu, hai đứa chính thức yêu nhau được 2 tháng. ]]></description>
+      <pubDate>Sat, 23 May 2020 15:21:06 +0700</pubDate>
+      <link>https://vnexpress.net/ban-trai-thu-nhan-kho-co-con-4103335.html</link>
+      <guid>https://vnexpress.net/ban-trai-thu-nhan-kho-co-con-4103335.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Muốn được giải thoát khỏi những giấc mơ</title>
+      <description><![CDATA[Tôi 31 tuổi, lấy chồng 8 năm, có đủ nếp tẻ. Tôi quen chồng khi còn là sinh viên đại học, anh là anh ruột của bạn thân tôi.]]></description>
+      <pubDate>Sat, 23 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/muon-duoc-giai-thoat-khoi-nhung-giac-mo-4103720.html</link>
+      <guid>https://vnexpress.net/muon-duoc-giai-thoat-khoi-nhung-giac-mo-4103720.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tương lai vô định với người chồng lười</title>
+      <description><![CDATA[Tôi và chồng cùng 30 tuổi, kết hôn được 4 năm và có một bé trai hơn 2 tuổi. ]]></description>
+      <pubDate>Sat, 23 May 2020 15:20:52 +0700</pubDate>
+      <link>https://vnexpress.net/tuong-lai-vo-dinh-voi-nguoi-chong-luoi-4103336.html</link>
+      <guid>https://vnexpress.net/tuong-lai-vo-dinh-voi-nguoi-chong-luoi-4103336.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Từng có mối quan hệ với người có vợ</title>
+      <description><![CDATA[Tôi độc thân, quen một người có gia đình, mối quan hệ chỉ mới dừng lại ở những buổi hẹn cà phê và nhắn tin cho nhau lúc đi làm.]]></description>
+      <pubDate>Sat, 23 May 2020 11:24:53 +0700</pubDate>
+      <link>https://vnexpress.net/tung-co-moi-quan-he-voi-nguoi-co-vo-4103339.html</link>
+      <guid>https://vnexpress.net/tung-co-moi-quan-he-voi-nguoi-co-vo-4103339.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Vì gia đình mà tôi không thể từ chối anh</title>
+      <description><![CDATA[Tôi 28 tuổi, được nhận xét là tươi tỉnh và ưa nhìn. Tôi đang sống và làm việc tại Hà Nội. ]]></description>
+      <pubDate>Sat, 23 May 2020 10:44:43 +0700</pubDate>
+      <link>https://vnexpress.net/vi-gia-dinh-ma-toi-khong-the-tu-choi-anh-4103338.html</link>
+      <guid>https://vnexpress.net/vi-gia-dinh-ma-toi-khong-the-tu-choi-anh-4103338.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>'Lần đầu' của chàng trai kém 13 tuổi dành cho tôi</title>
+      <description><![CDATA[Tôi 38 tuổi, là mẹ đơn thân của một bé gái 7 tuổi, ngoại hình được mọi người nhận xét trẻ hơn tuổi. ]]></description>
+      <pubDate>Fri, 22 May 2020 03:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/lan-dau-cua-chang-trai-kem-13-tuoi-danh-cho-toi-4101006.html</link>
+      <guid>https://vnexpress.net/lan-dau-cua-chang-trai-kem-13-tuoi-danh-cho-toi-4101006.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sợ con phải chịu cảnh 'dì ghẻ con chồng'</title>
+      <description><![CDATA[Tôi 34 tuổi, ly hôn vợ năm 2018 và có hai con, nguyên nhân đổ vỡ là do tôi lầm lỡ. ]]></description>
+      <pubDate>Fri, 22 May 2020 11:14:35 +0700</pubDate>
+      <link>https://vnexpress.net/so-con-phai-chiu-canh-di-ghe-con-chong-4103345.html</link>
+      <guid>https://vnexpress.net/so-con-phai-chiu-canh-di-ghe-con-chong-4103345.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chờ bố đi vắng, tôi lén đưa vợ con lên ngoại</title>
+      <description><![CDATA[Tôi học xong lớp 12 thì đi bộ đội, sau đó về nhà làm phụ công việc buôn bán của gia đình.]]></description>
+      <pubDate>Fri, 22 May 2020 11:14:02 +0700</pubDate>
+      <link>https://vnexpress.net/cho-bo-di-vang-toi-len-dua-vo-con-len-ngoai-4100998.html</link>
+      <guid>https://vnexpress.net/cho-bo-di-vang-toi-len-dua-vo-con-len-ngoai-4100998.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chồng đối với tôi chỉ có nghĩa, không có tình</title>
+      <description><![CDATA[Tôi là tác giả bài: "Tôi như cái bóng bên chồng". Cảm ơn các bạn đã đóng góp ý kiến. Xin chia sẻ thêm chút để các bạn nắm rõ.]]></description>
+      <pubDate>Fri, 22 May 2020 16:48:00 +0700</pubDate>
+      <link>https://vnexpress.net/chong-doi-voi-toi-chi-co-nghia-khong-co-tinh-4103342.html</link>
+      <guid>https://vnexpress.net/chong-doi-voi-toi-chi-co-nghia-khong-co-tinh-4103342.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Anh trai bất hiếu</title>
+      <description><![CDATA[Nhà tôi có ba anh chị em, tôi còn đi học, đang ở chung với vợ chồng chị hai, anh ba tôi nghiện rượu, lô đề. ]]></description>
+      <pubDate>Fri, 22 May 2020 16:38:36 +0700</pubDate>
+      <link>https://vnexpress.net/anh-trai-ba-t-hie-u-4103350.html</link>
+      <guid>https://vnexpress.net/anh-trai-ba-t-hie-u-4103350.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Chồng khiến tôi chán nản</title>
+      <description><![CDATA[Tôi 32 tuổi, chồng 34 tuổi, có một con gái 5 tuổi.]]></description>
+      <pubDate>Fri, 22 May 2020 11:14:17 +0700</pubDate>
+      <link>https://vnexpress.net/chong-khien-toi-chan-nan-4103346.html</link>
+      <guid>https://vnexpress.net/chong-khien-toi-chan-nan-4103346.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Buồn nhà chồng</title>
+      <description><![CDATA[Tôi là tác giả bài: “Nhà chồng vô tâm, tôi có nên vô tình lại”. Tôi xin có ý kiến phản hồi, dẫn ra số liệu cụ thể cho các bạn đã thắc mắc.]]></description>
+      <pubDate>Fri, 22 May 2020 11:13:34 +0700</pubDate>
+      <link>https://vnexpress.net/buon-nha-chong-4103344.html</link>
+      <guid>https://vnexpress.net/buon-nha-chong-4103344.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Con rể sàm sỡ gái út của tôi</title>
+      <description><![CDATA[Vợ chồng tôi có 2 con gái, cháu lớn 24 tuổi, cháu nhỏ 11 tuổi. Con gái lớn lấy chồng gần 2 năm, vừa sinh cháu được hơn 2 tháng. ]]></description>
+      <pubDate>Thu, 21 May 2020 11:03:49 +0700</pubDate>
+      <link>https://vnexpress.net/con-re-sam-so-gai-ut-cua-toi-4102805.html</link>
+      <guid>https://vnexpress.net/con-re-sam-so-gai-ut-cua-toi-4102805.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sống với tôi mà em vẫn qua lại với nhiều người khác</title>
+      <description><![CDATA[Tôi và em quen nhau trong một lần đi sinh nhật bạn. Em làm tiếp viên quán karaoke. ]]></description>
+      <pubDate>Thu, 21 May 2020 10:48:28 +0700</pubDate>
+      <link>https://vnexpress.net/song-voi-toi-ma-em-van-qua-lai-voi-nhieu-nguoi-khac-4102760.html</link>
+      <guid>https://vnexpress.net/song-voi-toi-ma-em-van-qua-lai-voi-nhieu-nguoi-khac-4102760.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sợ bỏ chồng ở tuổi 31</title>
+      <description><![CDATA[Tôi 31 tuổi, lấy chồng 4 năm, chưa có con. Cuộc sống vợ chồng khó tránh được những lúc cãi vã nhưng chung quy lại cũng không đến nỗi nào.]]></description>
+      <pubDate>Thu, 21 May 2020 05:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/so-bo-chong-o-tuoi-31-4102207.html</link>
+      <guid>https://vnexpress.net/so-bo-chong-o-tuoi-31-4102207.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Không muốn con về thăm nhà nội</title>
+      <description><![CDATA[Tôi ly hôn chồng gần 3 năm, lý do là cả hai chưa có kiến thức để ứng xử đúng đắn trong hôn nhân, không thể cảm thông và hiểu nhau.]]></description>
+      <pubDate>Thu, 21 May 2020 18:29:11 +0700</pubDate>
+      <link>https://vnexpress.net/khong-muon-con-ve-tham-nha-noi-4100592.html</link>
+      <guid>https://vnexpress.net/khong-muon-con-ve-tham-nha-noi-4100592.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Lương cao mà tôi vẫn nản chí</title>
+      <description><![CDATA[Tôi là nam, 24 tuổi, chưa có gia đình, đang công tác tại công ty nước ngoài với mức lương khá cao.]]></description>
+      <pubDate>Thu, 21 May 2020 16:59:26 +0700</pubDate>
+      <link>https://vnexpress.net/luong-cao-ma-toi-van-nan-chi-4101003.html</link>
+      <guid>https://vnexpress.net/luong-cao-ma-toi-van-nan-chi-4101003.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Bạn gái từ chối lời tỏ tình của tôi</title>
+      <description><![CDATA[Tôi là kĩ sư điện, 27 tuổi, tính cách thẳng thắn và thật thà, ít được tiếp xúc với con gái nên tự nhận thấy mình giao tiếp kém. ]]></description>
+      <pubDate>Thu, 21 May 2020 10:50:31 +0700</pubDate>
+      <link>https://vnexpress.net/ban-gai-tu-choi-loi-to-tinh-cua-toi-4100997.html</link>
+      <guid>https://vnexpress.net/ban-gai-tu-choi-loi-to-tinh-cua-toi-4100997.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Nếu chọn cha cho con, tôi sẽ cân nhắc kỹ</title>
+      <description><![CDATA[Tôi là tác giả bài: "Chưa tin bạn trai dù ở tuổi trung niên". Cảm ơn các bạn đã góp ý chân thành. Có thể tôi kể khá vắn tắt nên các bạn hiểu lầm vài vấn đề. ]]></description>
+      <pubDate>Thu, 21 May 2020 06:00:00 +0700</pubDate>
+      <link>https://vnexpress.net/neu-chon-cha-cho-con-toi-se-can-nhac-ky-4102206.html</link>
+      <guid>https://vnexpress.net/neu-chon-cha-cho-con-toi-se-can-nhac-ky-4102206.html</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>

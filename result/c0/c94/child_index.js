@@ -1,0 +1,7 @@
+var child = [
+  { 'dupe': false, 'type': 32, 'name': 'chuyen-la', 'dir': 'c0', 'linked': 2, 'url': 'https://vnexpress.net/khoa-hoc/chuyen-la', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'hoi-dap', 'dir': 'c1', 'linked': 2, 'url': 'https://vnexpress.net/khoa-hoc/hoi-dap', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'the-gioi-dong-vat', 'dir': 'c2', 'linked': 2, 'url': 'https://vnexpress.net/khoa-hoc/the-gioi-dong-vat', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'thuong-thuc', 'dir': 'c3', 'linked': 2, 'url': 'https://vnexpress.net/khoa-hoc/thuong-thuc', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'trong-nuoc', 'dir': 'c4', 'linked': 2, 'url': 'https://vnexpress.net/khoa-hoc/trong-nuoc', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 }
+];
